@@ -1,9 +1,9 @@
 <h1 align='center'>
-  Hi there 👋 I'm Alicia 👩🏻‍💻
+  <code>Hey there 👋 I'm Alicia 👩🏻‍💻</code>
 </h1>
 
 <p align='center'>
-  A full stack dev from London, UK 🇬🇧
+  <code>A full stack dev from London, UK 🇬🇧</code>
 </p>
 
 
