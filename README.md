@@ -1,8 +1,6 @@
 
-<p align="center">
-  <h1><code>Hello 👋</code></h1>
-  <img src="https://cultofthepartyparrot.com/guests/hd/nyanparrot.gif"/>
-</p>
+<h1 align="center"><code>Hello 👋</code></h1>
+<p align="center"><img align="center" src="https://cultofthepartyparrot.com/guests/hd/nyanparrot.gif"/></p>
 
 
 
