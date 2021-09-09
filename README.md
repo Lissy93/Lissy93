@@ -19,7 +19,7 @@
 <details>
   <summary><b>Stats</b></summary>
     <p align="center">
-      <img src="https://metrics.lecoq.io/Lissy93"/>
+      <img src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/stats_090921.svg"/>
     </p>
 </details>
 
