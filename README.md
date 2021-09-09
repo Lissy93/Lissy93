@@ -4,7 +4,7 @@
 <details>
   <summary><b>Stats</b></summary>
     <p align="center">
-      <img src="https://metrics.lecoq.io/Lissy93?template=classic&stackoverflow=1&repositories=1&notable=1&discussions=1&achievements=1&activity=1&lines=1&followup=1&gists=1&people=1&isocalendar=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.repositories=false&stackoverflow.user=979052&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Europe%2FLondon"/>
+      <img src="https://metrics.lecoq.io/Lissy93"/>
     </p>
 </details>
 
