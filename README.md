@@ -16,33 +16,28 @@
 <a href="mailto:alicia@omg.lol"><code>alicia at omg dot lol</code></a> │ <a href="https://keybase.io/aliciasykes/pgp_keys.asc?fingerprint=0688f8d34587d954e9e51fb8fedb68f55c0283a7"><code>FEDB 68F5 5C02 83A7</code></a> │ <a href="https://matrix.to/#/@lissy93:matrix.org"><code>@lissy93:matrix.org</code></a>
 </p>
   
+  
+<details>
+  <summary><b>⚡ Recent Activity</b></summary>
+    <p>
+            
+<!--START_SECTION:activity-->
+1. ❗️ Closed issue [#229](https://github.com/Lissy93/dashy/issues/229) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 🗣 Commented on [#229](https://github.com/Lissy93/dashy/issues/229) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. ❗️ Reopened issue [#229](https://github.com/Lissy93/dashy/issues/229) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. 🎉 Merged PR [#226](https://github.com/Lissy93/dashy/pull/226) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. 💪 Opened PR [#226](https://github.com/Lissy93/dashy/pull/226) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+<!--END_SECTION:activity-->
+
+</p>
+</details>
+    
 <details>
   <summary><b>🦄 Stats</b></summary>
     <p align="center">
       <img src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/stats_090921.svg"/>
     </p>
 </details>
-
-
-
-
-<details>
-  <summary><b>⚡ Recent Activity</b></summary>
-    <p>
-      
-      
-      <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#229](https://github.com/Lissy93/dashy/issues/229) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. 🗣 Commented on [#229](https://github.com/Lissy93/dashy/issues/229) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. ❗️ Reopened issue [#229](https://github.com/Lissy93/dashy/issues/229) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. 🎉 Merged PR [#226](https://github.com/Lissy93/dashy/pull/226) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. 💪 Opened PR [#226](https://github.com/Lissy93/dashy/pull/226) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-      <!--END_SECTION:activity-->
-
-      
-    </p>
-</details>
-
 
 
 <!--
