@@ -17,11 +17,28 @@
 </p>
   
 <details>
-  <summary><b>Stats</b></summary>
+  <summary><b>🦄 Stats</b></summary>
     <p align="center">
       <img src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/stats_090921.svg"/>
     </p>
 </details>
+
+
+
+
+<details>
+  <summary><b>⚡ Recent Activity</b></summary>
+    <p>
+      
+      
+      <!--START_SECTION:activity-->
+      <!--END_SECTION:activity-->
+
+      
+    </p>
+</details>
+
+
 
 <!--
 
