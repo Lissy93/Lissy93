@@ -32,6 +32,11 @@
       
       
       <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#229](https://github.com/Lissy93/dashy/issues/229) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 🗣 Commented on [#229](https://github.com/Lissy93/dashy/issues/229) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. ❗️ Reopened issue [#229](https://github.com/Lissy93/dashy/issues/229) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. 🎉 Merged PR [#226](https://github.com/Lissy93/dashy/pull/226) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. 💪 Opened PR [#226](https://github.com/Lissy93/dashy/pull/226) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
       <!--END_SECTION:activity-->
 
       
