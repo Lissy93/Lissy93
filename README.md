@@ -31,7 +31,14 @@
 
 </p>
 </details>
-    
+
+<details>
+  <summary><b>🏆 Tropheys</b></summary>
+    <p align="center">
+      <a href="https://profile.codersrank.io/user/lissy93"><img src="https://github-profile-trophy.vercel.app/?username=lissy93&theme=dracula&row=1" /></a>
+    </p>
+</details>
+
 <details>
   <summary><b>🦄 Stats</b></summary>
     <p align="center">
