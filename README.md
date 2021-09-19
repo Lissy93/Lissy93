@@ -21,13 +21,7 @@
   <summary><b>⚡ Recent Activity</b></summary>
     <p>
             
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#237](https://github.com/Lissy93/dashy/pull/237) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. 🎉 Merged PR [#235](https://github.com/Lissy93/dashy/pull/235) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. 💪 Opened PR [#235](https://github.com/Lissy93/dashy/pull/235) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. 🗣 Commented on [#64](https://github.com/Lissy93/dashy/issues/64) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. ❗️ Closed issue [#232](https://github.com/Lissy93/dashy/issues/232) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-<!--END_SECTION:activity-->
+<!--START_SECTION:activity--><!--END_SECTION:activity-->
 
 </p>
 </details>
