@@ -22,16 +22,16 @@
     <p>
             
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/JasonEtco/is-sponsor-label-action/issues/28) in [JasonEtco/is-sponsor-label-action](https://github.com/JasonEtco/is-sponsor-label-action)
-2. 🎉 Merged PR [#238](https://github.com/Lissy93/dashy/pull/238) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. 💪 Opened PR [#238](https://github.com/Lissy93/dashy/pull/238) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. 💪 Opened PR [#237](https://github.com/Lissy93/dashy/pull/237) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. 🎉 Merged PR [#235](https://github.com/Lissy93/dashy/pull/235) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. 💪 Opened PR [#235](https://github.com/Lissy93/dashy/pull/235) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. 🗣 Commented on [#64](https://github.com/Lissy93/dashy/issues/64) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. ❗️ Closed issue [#232](https://github.com/Lissy93/dashy/issues/232) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. 🎉 Merged PR [#234](https://github.com/Lissy93/dashy/pull/234) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. 🗣 Commented on [#232](https://github.com/Lissy93/dashy/issues/232) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. 🗣 Commented on [#243](https://github.com/Lissy93/dashy/issues/243) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. ❗️ Closed issue [#243](https://github.com/Lissy93/dashy/issues/243) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. 🗣 Commented on [#243](https://github.com/Lissy93/dashy/issues/243) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. 🗣 Commented on [#244](https://github.com/Lissy93/dashy/issues/244) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. 🗣 Commented on [#28](https://github.com/JasonEtco/is-sponsor-label-action/issues/28) in [JasonEtco/is-sponsor-label-action](https://github.com/JasonEtco/is-sponsor-label-action)
+6. 🎉 Merged PR [#238](https://github.com/Lissy93/dashy/pull/238) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. 💪 Opened PR [#238](https://github.com/Lissy93/dashy/pull/238) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. 💪 Opened PR [#237](https://github.com/Lissy93/dashy/pull/237) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+9. 🎉 Merged PR [#235](https://github.com/Lissy93/dashy/pull/235) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. 💪 Opened PR [#235](https://github.com/Lissy93/dashy/pull/235) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 </p>
