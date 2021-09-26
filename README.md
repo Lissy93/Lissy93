@@ -22,16 +22,16 @@
     <p>
             
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#247](https://github.com/Lissy93/dashy/issues/247) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. 🗣 Commented on [#250](https://github.com/Lissy93/dashy/issues/250) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. 🗣 Commented on [#249](https://github.com/Lissy93/dashy/issues/249) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. 🎉 Merged PR [#248](https://github.com/Lissy93/dashy/pull/248) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. 🎉 Merged PR [#4](https://github.com/Lissy93/callisto-theme-standard-notes/pull/4) in [Lissy93/callisto-theme-standard-notes](https://github.com/Lissy93/callisto-theme-standard-notes)
-6. 🗣 Commented on [#63](https://github.com/Lissy93/personal-security-checklist/issues/63) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-7. 🗣 Commented on [#247](https://github.com/Lissy93/dashy/issues/247) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. 🗣 Commented on [#250](https://github.com/Lissy93/dashy/issues/250) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 🗣 Commented on [#247](https://github.com/Lissy93/dashy/issues/247) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. 🗣 Commented on [#250](https://github.com/Lissy93/dashy/issues/250) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. 🗣 Commented on [#249](https://github.com/Lissy93/dashy/issues/249) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. 🎉 Merged PR [#248](https://github.com/Lissy93/dashy/pull/248) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. 🎉 Merged PR [#4](https://github.com/Lissy93/callisto-theme-standard-notes/pull/4) in [Lissy93/callisto-theme-standard-notes](https://github.com/Lissy93/callisto-theme-standard-notes)
+7. 🗣 Commented on [#63](https://github.com/Lissy93/personal-security-checklist/issues/63) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
 8. 🗣 Commented on [#247](https://github.com/Lissy93/dashy/issues/247) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. 🗣 Commented on [#243](https://github.com/Lissy93/dashy/issues/243) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. ❗️ Closed issue [#243](https://github.com/Lissy93/dashy/issues/243) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+9. 🗣 Commented on [#247](https://github.com/Lissy93/dashy/issues/247) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. 🗣 Commented on [#243](https://github.com/Lissy93/dashy/issues/243) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 </p>
