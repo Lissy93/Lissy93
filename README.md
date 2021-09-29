@@ -22,16 +22,16 @@
     <p>
             
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#98](https://github.com/Lissy93/dashy/issues/98) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. 🗣 Commented on [#98](https://github.com/Lissy93/dashy/issues/98) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. 🎉 Merged PR [#257](https://github.com/Lissy93/dashy/pull/257) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. 💪 Opened PR [#257](https://github.com/Lissy93/dashy/pull/257) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. 🎉 Merged PR [#5](https://github.com/Lissy93/callisto-theme-standard-notes/pull/5) in [Lissy93/callisto-theme-standard-notes](https://github.com/Lissy93/callisto-theme-standard-notes)
-6. 🗣 Commented on [#251](https://github.com/Lissy93/dashy/issues/251) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. ❗️ Closed issue [#253](https://github.com/Lissy93/dashy/issues/253) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. 🗣 Commented on [#253](https://github.com/Lissy93/dashy/issues/253) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. 🗣 Commented on [#254](https://github.com/Lissy93/dashy/issues/254) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. 🗣 Commented on [#252](https://github.com/Lissy93/dashy/issues/252) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. ❌ Closed PR [#256](https://github.com/Lissy93/dashy/pull/256) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. ❌ Closed PR [#246](https://github.com/Lissy93/dashy/pull/246) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. ❌ Closed PR [#245](https://github.com/Lissy93/dashy/pull/245) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. ❌ Closed PR [#227](https://github.com/Lissy93/dashy/pull/227) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. ❌ Closed PR [#187](https://github.com/Lissy93/dashy/pull/187) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. 🗣 Commented on [#98](https://github.com/Lissy93/dashy/issues/98) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. 🗣 Commented on [#98](https://github.com/Lissy93/dashy/issues/98) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. 🎉 Merged PR [#257](https://github.com/Lissy93/dashy/pull/257) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+9. 💪 Opened PR [#257](https://github.com/Lissy93/dashy/pull/257) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. 🎉 Merged PR [#5](https://github.com/Lissy93/callisto-theme-standard-notes/pull/5) in [Lissy93/callisto-theme-standard-notes](https://github.com/Lissy93/callisto-theme-standard-notes)
 <!--END_SECTION:activity-->
 
 </p>
