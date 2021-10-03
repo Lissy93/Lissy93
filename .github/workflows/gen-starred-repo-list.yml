@@ -1,0 +1,35 @@
+name: ⭐ Stargazer
+
+on:
+  workflow_dispatch: # Manual dispatch
+  schedule:
+    - cron: '0 1 * * 0' # At 01:00 on Sunday.
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      # Generate the list
+      - name: Create star list
+        id: stargazer
+        uses: rverst/stargazer@v1.2.0
+        with:
+          github-user: ${{ github.actor }}
+          github-token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          list-file: "README.md"
+
+      # Commit the changes
+      - name: Commit files
+        run: |
+          git config --local user.email "alicia-gh-bot@mail.as93.net"
+          git config --local user.name "liss-bot"
+          git add .
+          git commit -m ":star: Updates Starred Repo List"
+
+      # Push the changes
+      - name: Push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
