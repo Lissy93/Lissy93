@@ -1,4 +1,4 @@
-name: ⭐ Stargazer
+name: ⭐ Generate Stared Repo List
 
 on:
   workflow_dispatch: # Manual dispatch
@@ -17,7 +17,7 @@ jobs:
         with:
           github-user: ${{ github.actor }}
           github-token: ${{ secrets.BOT_GITHUB_TOKEN }}
-          list-file: "README.md"
+          list-file: "star-list.md"
 
       # Commit the changes
       - name: Commit files
