@@ -1,3 +1,5 @@
+# Recent Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Dashy - A Self-Hosted Home Lab Dashboard 🚀](https://notes.aliciasykes.com/25291/dashy-a-self-hosted-home-lab-dashboard)
 - [Using Espanso to boost Efficiency 🚤](https://notes.aliciasykes.com/25213/using-espanso-to-boost-efficiency)
