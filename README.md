@@ -16,7 +16,10 @@
 <a href="mailto:alicia@omg.lol"><code>alicia at omg dot lol</code></a> │ <a href="https://keybase.io/aliciasykes/pgp_keys.asc?fingerprint=0688f8d34587d954e9e51fb8fedb68f55c0283a7"><code>FEDB 68F5 5C02 83A7</code></a> │ <a href="https://matrix.to/#/@lissy93:matrix.org"><code>@lissy93:matrix.org</code></a>
 </p>
   
-  
+<p align="center">
+<img width="600" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" />
+</p>
+
 <details>
   <summary><b>⚡ Recent Activity</b></summary>
     <p>
