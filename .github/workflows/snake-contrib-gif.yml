@@ -9,7 +9,10 @@ jobs:
   snake:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+      - name: Generate Snake
+        uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
           gif_out_path: assets/github-snake.gif
@@ -17,8 +20,8 @@ jobs:
       # Commit the changes
       - name: Commit files
         run: |
-          git config --local user.email "alicia-gh-bot@mail.as93.net"
-          git config --local user.name "liss-bot"
+          git config user.email "alicia-gh-bot@mail.as93.net"
+          git config user.name "liss-bot"
           git add .
           git commit -m ":snake: Updates Snake Contribution Animation"
       # Push the changes
