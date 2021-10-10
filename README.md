@@ -25,16 +25,16 @@
     <p>
             
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#271](https://github.com/Lissy93/dashy/issues/271) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. 💪 Opened PR [#271](https://github.com/Lissy93/dashy/pull/271) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. 🗣 Commented on [#124](https://github.com/Lissy93/dashy/issues/124) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. ❗️ Closed issue [#252](https://github.com/Lissy93/dashy/issues/252) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. 🎉 Merged PR [#270](https://github.com/Lissy93/dashy/pull/270) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. 🗣 Commented on [#252](https://github.com/Lissy93/dashy/issues/252) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. 💪 Opened PR [#270](https://github.com/Lissy93/dashy/pull/270) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. 🗣 Commented on [#267](https://github.com/Lissy93/dashy/issues/267) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. 🗣 Commented on [#174](https://github.com/Logerfo/close-label/issues/174) in [Logerfo/close-label](https://github.com/Logerfo/close-label)
-10. ❗️ Closed issue [#267](https://github.com/Lissy93/dashy/issues/267) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. ❗️ Closed issue [#272](https://github.com/Lissy93/dashy/issues/272) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 🗣 Commented on [#271](https://github.com/Lissy93/dashy/issues/271) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. 💪 Opened PR [#271](https://github.com/Lissy93/dashy/pull/271) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. 🗣 Commented on [#124](https://github.com/Lissy93/dashy/issues/124) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. ❗️ Closed issue [#252](https://github.com/Lissy93/dashy/issues/252) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. 🎉 Merged PR [#270](https://github.com/Lissy93/dashy/pull/270) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. 🗣 Commented on [#252](https://github.com/Lissy93/dashy/issues/252) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. 💪 Opened PR [#270](https://github.com/Lissy93/dashy/pull/270) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+9. 🗣 Commented on [#267](https://github.com/Lissy93/dashy/issues/267) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. 🗣 Commented on [#174](https://github.com/Logerfo/close-label/issues/174) in [Logerfo/close-label](https://github.com/Logerfo/close-label)
 <!--END_SECTION:activity-->
 
 </p>
