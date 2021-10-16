@@ -25,16 +25,16 @@
     <p>
             
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#55](https://github.com/Stigmatoz/web-activity-time-tracker/issues/55) in [Stigmatoz/web-activity-time-tracker](https://github.com/Stigmatoz/web-activity-time-tracker)
-2. ❗️ Opened issue [#55](https://github.com/Stigmatoz/web-activity-time-tracker/issues/55) in [Stigmatoz/web-activity-time-tracker](https://github.com/Stigmatoz/web-activity-time-tracker)
-3. 🎉 Merged PR [#273](https://github.com/Lissy93/dashy/pull/273) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. ❗️ Closed issue [#163](https://github.com/Lissy93/dashy/issues/163) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. ❌ Closed PR [#268](https://github.com/Lissy93/dashy/pull/268) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. ❌ Closed PR [#266](https://github.com/Lissy93/dashy/pull/266) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. ❌ Closed PR [#275](https://github.com/Lissy93/dashy/pull/275) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. ❌ Closed PR [#265](https://github.com/Lissy93/dashy/pull/265) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. ❌ Closed PR [#260](https://github.com/Lissy93/dashy/pull/260) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. 🗣 Commented on [#197](https://github.com/Lissy93/dashy/issues/197) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. 🗣 Commented on [#163](https://github.com/Lissy93/dashy/issues/163) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. ❗️ Closed issue [#55](https://github.com/Stigmatoz/web-activity-time-tracker/issues/55) in [Stigmatoz/web-activity-time-tracker](https://github.com/Stigmatoz/web-activity-time-tracker)
+3. ❗️ Opened issue [#55](https://github.com/Stigmatoz/web-activity-time-tracker/issues/55) in [Stigmatoz/web-activity-time-tracker](https://github.com/Stigmatoz/web-activity-time-tracker)
+4. 🎉 Merged PR [#273](https://github.com/Lissy93/dashy/pull/273) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. ❗️ Closed issue [#163](https://github.com/Lissy93/dashy/issues/163) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. ❌ Closed PR [#268](https://github.com/Lissy93/dashy/pull/268) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. ❌ Closed PR [#266](https://github.com/Lissy93/dashy/pull/266) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. ❌ Closed PR [#275](https://github.com/Lissy93/dashy/pull/275) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+9. ❌ Closed PR [#265](https://github.com/Lissy93/dashy/pull/265) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. ❌ Closed PR [#260](https://github.com/Lissy93/dashy/pull/260) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 </p>
