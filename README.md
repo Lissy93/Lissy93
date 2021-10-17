@@ -25,16 +25,16 @@
     <p>
             
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#142](https://github.com/Lissy93/dashy/issues/142) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. 🎉 Merged PR [#277](https://github.com/Lissy93/dashy/pull/277) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. 💪 Opened PR [#277](https://github.com/Lissy93/dashy/pull/277) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. 🗣 Commented on [#163](https://github.com/Lissy93/dashy/issues/163) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. ❗️ Closed issue [#55](https://github.com/Stigmatoz/web-activity-time-tracker/issues/55) in [Stigmatoz/web-activity-time-tracker](https://github.com/Stigmatoz/web-activity-time-tracker)
-6. ❗️ Opened issue [#55](https://github.com/Stigmatoz/web-activity-time-tracker/issues/55) in [Stigmatoz/web-activity-time-tracker](https://github.com/Stigmatoz/web-activity-time-tracker)
-7. 🎉 Merged PR [#273](https://github.com/Lissy93/dashy/pull/273) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. ❗️ Closed issue [#163](https://github.com/Lissy93/dashy/issues/163) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. ❌ Closed PR [#268](https://github.com/Lissy93/dashy/pull/268) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. ❌ Closed PR [#266](https://github.com/Lissy93/dashy/pull/266) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. ❗️ Reopened issue [#279](https://github.com/Lissy93/dashy/issues/279) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 🗣 Commented on [#142](https://github.com/Lissy93/dashy/issues/142) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. 🎉 Merged PR [#277](https://github.com/Lissy93/dashy/pull/277) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. 💪 Opened PR [#277](https://github.com/Lissy93/dashy/pull/277) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. 🗣 Commented on [#163](https://github.com/Lissy93/dashy/issues/163) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. ❗️ Closed issue [#55](https://github.com/Stigmatoz/web-activity-time-tracker/issues/55) in [Stigmatoz/web-activity-time-tracker](https://github.com/Stigmatoz/web-activity-time-tracker)
+7. ❗️ Opened issue [#55](https://github.com/Stigmatoz/web-activity-time-tracker/issues/55) in [Stigmatoz/web-activity-time-tracker](https://github.com/Stigmatoz/web-activity-time-tracker)
+8. 🎉 Merged PR [#273](https://github.com/Lissy93/dashy/pull/273) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+9. ❗️ Closed issue [#163](https://github.com/Lissy93/dashy/issues/163) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. ❌ Closed PR [#268](https://github.com/Lissy93/dashy/pull/268) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 </p>
