@@ -25,16 +25,16 @@
     <p>
             
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/jairoblatt/vue-material-tabs/issues/23) in [jairoblatt/vue-material-tabs](https://github.com/jairoblatt/vue-material-tabs)
-2. ❗️ Closed issue [#23](https://github.com/jairoblatt/vue-material-tabs/issues/23) in [jairoblatt/vue-material-tabs](https://github.com/jairoblatt/vue-material-tabs)
+1. ❗️ Closed issue [#283](https://github.com/Lissy93/dashy/issues/283) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 🎉 Merged PR [#284](https://github.com/Lissy93/dashy/pull/284) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 3. 🗣 Commented on [#283](https://github.com/Lissy93/dashy/issues/283) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. 🗣 Commented on [#283](https://github.com/Lissy93/dashy/issues/283) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. ❗️ Reopened issue [#283](https://github.com/Lissy93/dashy/issues/283) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. 🎉 Merged PR [#282](https://github.com/Lissy93/dashy/pull/282) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. ❗️ Closed issue [#279](https://github.com/Lissy93/dashy/issues/279) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. 🗣 Commented on [#279](https://github.com/Lissy93/dashy/issues/279) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. ❗️ Closed issue [#278](https://github.com/Lissy93/dashy/issues/278) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. 🎉 Merged PR [#280](https://github.com/Lissy93/dashy/pull/280) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. 💪 Opened PR [#284](https://github.com/Lissy93/dashy/pull/284) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. 🗣 Commented on [#23](https://github.com/jairoblatt/vue-material-tabs/issues/23) in [jairoblatt/vue-material-tabs](https://github.com/jairoblatt/vue-material-tabs)
+6. ❗️ Closed issue [#23](https://github.com/jairoblatt/vue-material-tabs/issues/23) in [jairoblatt/vue-material-tabs](https://github.com/jairoblatt/vue-material-tabs)
+7. 🗣 Commented on [#283](https://github.com/Lissy93/dashy/issues/283) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. 🗣 Commented on [#283](https://github.com/Lissy93/dashy/issues/283) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+9. ❗️ Reopened issue [#283](https://github.com/Lissy93/dashy/issues/283) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. 🎉 Merged PR [#282](https://github.com/Lissy93/dashy/pull/282) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 </p>
