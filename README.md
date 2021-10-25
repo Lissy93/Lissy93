@@ -25,16 +25,16 @@
     <p>
             
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#294](https://github.com/Lissy93/dashy/issues/294) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. 🗣 Commented on [#294](https://github.com/Lissy93/dashy/issues/294) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. 🗣 Commented on [#297](https://github.com/Lissy93/dashy/issues/297) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 🗣 Commented on [#296](https://github.com/Lissy93/dashy/issues/296) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 3. 🗣 Commented on [#294](https://github.com/Lissy93/dashy/issues/294) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. 🎉 Merged PR [#293](https://github.com/Lissy93/dashy/pull/293) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. ❗️ Closed issue [#289](https://github.com/Lissy93/dashy/issues/289) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. 🎉 Merged PR [#292](https://github.com/Lissy93/dashy/pull/292) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. 🗣 Commented on [#289](https://github.com/Lissy93/dashy/issues/289) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. 💪 Opened PR [#292](https://github.com/Lissy93/dashy/pull/292) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. ❗️ Reopened issue [#289](https://github.com/Lissy93/dashy/issues/289) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. 🎉 Merged PR [#288](https://github.com/Lissy93/dashy/pull/288) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. 🗣 Commented on [#294](https://github.com/Lissy93/dashy/issues/294) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. 🗣 Commented on [#294](https://github.com/Lissy93/dashy/issues/294) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. 🎉 Merged PR [#293](https://github.com/Lissy93/dashy/pull/293) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. ❗️ Closed issue [#289](https://github.com/Lissy93/dashy/issues/289) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. 🎉 Merged PR [#292](https://github.com/Lissy93/dashy/pull/292) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+9. 🗣 Commented on [#289](https://github.com/Lissy93/dashy/issues/289) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. 💪 Opened PR [#292](https://github.com/Lissy93/dashy/pull/292) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 </p>
