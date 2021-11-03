@@ -25,15 +25,15 @@
     <p>
             
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#77](https://github.com/Lissy93/personal-security-checklist/pull/77) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-2. 🗣 Commented on [#52](https://github.com/Lissy93/personal-security-checklist/issues/52) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-3. 🎉 Merged PR [#75](https://github.com/Lissy93/personal-security-checklist/pull/75) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-4. 🎉 Merged PR [#74](https://github.com/Lissy93/personal-security-checklist/pull/74) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-5. 🎉 Merged PR [#73](https://github.com/Lissy93/personal-security-checklist/pull/73) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-6. 🎉 Merged PR [#67](https://github.com/Lissy93/personal-security-checklist/pull/67) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-7. 🗣 Commented on [#70](https://github.com/Lissy93/personal-security-checklist/issues/70) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-8. 🎉 Merged PR [#72](https://github.com/Lissy93/personal-security-checklist/pull/72) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-9. 🎉 Merged PR [#71](https://github.com/Lissy93/personal-security-checklist/pull/71) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+1. 🎉 Merged PR [#83](https://github.com/Lissy93/personal-security-checklist/pull/83) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+2. 🎉 Merged PR [#80](https://github.com/Lissy93/personal-security-checklist/pull/80) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+3. 🎉 Merged PR [#82](https://github.com/Lissy93/personal-security-checklist/pull/82) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+4. 🎉 Merged PR [#77](https://github.com/Lissy93/personal-security-checklist/pull/77) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+5. 🗣 Commented on [#52](https://github.com/Lissy93/personal-security-checklist/issues/52) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+6. 🎉 Merged PR [#75](https://github.com/Lissy93/personal-security-checklist/pull/75) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+7. 🎉 Merged PR [#74](https://github.com/Lissy93/personal-security-checklist/pull/74) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+8. 🎉 Merged PR [#73](https://github.com/Lissy93/personal-security-checklist/pull/73) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+9. 🎉 Merged PR [#67](https://github.com/Lissy93/personal-security-checklist/pull/67) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
 10. 🗣 Commented on [#70](https://github.com/Lissy93/personal-security-checklist/issues/70) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
 <!--END_SECTION:activity-->
 
