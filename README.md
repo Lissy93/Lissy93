@@ -25,16 +25,16 @@
     <p>
             
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#90](https://github.com/Lissy93/personal-security-checklist/pull/90) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-2. 🎉 Merged PR [#88](https://github.com/Lissy93/personal-security-checklist/pull/88) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-3. 🎉 Merged PR [#87](https://github.com/Lissy93/personal-security-checklist/pull/87) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-4. 🗣 Commented on [#87](https://github.com/Lissy93/personal-security-checklist/issues/87) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-5. 🎉 Merged PR [#338](https://github.com/Lissy93/dashy/pull/338) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. ❌ Closed PR [#337](https://github.com/Lissy93/dashy/pull/337) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. 🗣 Commented on [#337](https://github.com/Lissy93/dashy/issues/337) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. ❗️ Closed issue [#6](https://github.com/Lissy93/callisto-theme-standard-notes/issues/6) in [Lissy93/callisto-theme-standard-notes](https://github.com/Lissy93/callisto-theme-standard-notes)
-9. 🗣 Commented on [#6](https://github.com/Lissy93/callisto-theme-standard-notes/issues/6) in [Lissy93/callisto-theme-standard-notes](https://github.com/Lissy93/callisto-theme-standard-notes)
-10. ❗️ Closed issue [#336](https://github.com/Lissy93/dashy/issues/336) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. 🗣 Commented on [#340](https://github.com/Lissy93/dashy/issues/340) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 🎉 Merged PR [#90](https://github.com/Lissy93/personal-security-checklist/pull/90) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+3. 🎉 Merged PR [#88](https://github.com/Lissy93/personal-security-checklist/pull/88) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+4. 🎉 Merged PR [#87](https://github.com/Lissy93/personal-security-checklist/pull/87) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+5. 🗣 Commented on [#87](https://github.com/Lissy93/personal-security-checklist/issues/87) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+6. 🎉 Merged PR [#338](https://github.com/Lissy93/dashy/pull/338) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. ❌ Closed PR [#337](https://github.com/Lissy93/dashy/pull/337) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. 🗣 Commented on [#337](https://github.com/Lissy93/dashy/issues/337) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+9. ❗️ Closed issue [#6](https://github.com/Lissy93/callisto-theme-standard-notes/issues/6) in [Lissy93/callisto-theme-standard-notes](https://github.com/Lissy93/callisto-theme-standard-notes)
+10. 🗣 Commented on [#6](https://github.com/Lissy93/callisto-theme-standard-notes/issues/6) in [Lissy93/callisto-theme-standard-notes](https://github.com/Lissy93/callisto-theme-standard-notes)
 <!--END_SECTION:activity-->
 
 </p>
