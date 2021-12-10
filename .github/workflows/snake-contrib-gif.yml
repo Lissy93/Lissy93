@@ -1,10 +1,9 @@
-# This is a basic workflow to help you get started with Actions
-
+# Generates pretty snake animation, using @Platane's awesome snk action
 name: 🐍 Generate Snake Contribution GIF
 on:
   workflow_dispatch: # Manual dispatch
   schedule:
-    - cron: '0 1 * * 0' # At 01:00 on Sunday.
+    - cron: '30 23 * * *' # Runs at 23:30 every day.
 jobs:
   snake:
     runs-on: ubuntu-latest
