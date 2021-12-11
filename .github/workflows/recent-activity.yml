@@ -16,7 +16,7 @@ jobs:
           COMMIT_MSG: ':zap: Updates recent activity'
         with:
           MAX_LINES: 10
-      - uses: lissy93/github-activity-readme@master
+      - uses: lissy93/github-activity-readme@0.3.8
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_MSG: ':zap: Updates recent activity'
