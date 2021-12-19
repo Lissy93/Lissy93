@@ -8,7 +8,7 @@
 - [Pimping up Your DuckDuckGo Search Results 💄](https://notes.aliciasykes.com/23054/pimping-up-your-duckduckgo-search-results)
 - [My Server Setup ⚙️](https://notes.aliciasykes.com/22798/my-server-setup)
 - [Spelling Auto-Correct System ✏️❌](https://notes.aliciasykes.com/22944/spelling-auto-correct-system)
-- [Top 20 Raspberry Pi Projects 🥧](https://notes.aliciasykes.com/23239/top-20-raspberry-pi-projects)
+- [Top 25 Raspberry Pi Projects 🥧](https://notes.aliciasykes.com/23239/top-25-raspberry-pi-projects)
 - [My Top 50 Windows Apps 🖥](https://notes.aliciasykes.com/21879/my-top-50-windows-apps)
 - [[REFERENCE] Using Variable Fonts in CSS 🔤](https://notes.aliciasykes.com/20679/reference-using-variable-fonts-in-css)
 - [Try. 💯](https://notes.aliciasykes.com/25192/try)
