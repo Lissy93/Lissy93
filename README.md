@@ -25,16 +25,16 @@
     <p>
             
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#373](https://github.com/Lissy93/dashy/issues/373) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. 🎉 Merged PR [#369](https://github.com/Lissy93/dashy/pull/369) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. 💪 Opened PR [#369](https://github.com/Lissy93/dashy/pull/369) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. 🗣 Commented on [#340](https://github.com/Lissy93/dashy/issues/340) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. 💪 Opened PR [#7](https://github.com/xxdongs/github-trending/pull/7) in [xxdongs/github-trending](https://github.com/xxdongs/github-trending)
-6. ❌ Closed PR [#6](https://github.com/xxdongs/github-trending/pull/6) in [xxdongs/github-trending](https://github.com/xxdongs/github-trending)
-7. 💪 Opened PR [#6](https://github.com/xxdongs/github-trending/pull/6) in [xxdongs/github-trending](https://github.com/xxdongs/github-trending)
-8. 🗣 Commented on [#367](https://github.com/Lissy93/dashy/issues/367) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. 🗣 Commented on [#364](https://github.com/Lissy93/dashy/issues/364) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. ❗️ Closed issue [#364](https://github.com/Lissy93/dashy/issues/364) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. 🗣 Commented on [#894](https://github.com/federico-terzi/espanso/issues/894) in [federico-terzi/espanso](https://github.com/federico-terzi/espanso)
+2. 🗣 Commented on [#374](https://github.com/Lissy93/dashy/issues/374) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. 🗣 Commented on [#373](https://github.com/Lissy93/dashy/issues/373) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. 🎉 Merged PR [#369](https://github.com/Lissy93/dashy/pull/369) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. 💪 Opened PR [#369](https://github.com/Lissy93/dashy/pull/369) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. 🗣 Commented on [#340](https://github.com/Lissy93/dashy/issues/340) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. 💪 Opened PR [#7](https://github.com/xxdongs/github-trending/pull/7) in [xxdongs/github-trending](https://github.com/xxdongs/github-trending)
+8. ❌ Closed PR [#6](https://github.com/xxdongs/github-trending/pull/6) in [xxdongs/github-trending](https://github.com/xxdongs/github-trending)
+9. 💪 Opened PR [#6](https://github.com/xxdongs/github-trending/pull/6) in [xxdongs/github-trending](https://github.com/xxdongs/github-trending)
+10. 🗣 Commented on [#367](https://github.com/Lissy93/dashy/issues/367) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 </p>
