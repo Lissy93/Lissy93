@@ -25,16 +25,16 @@
     <p>
             
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#367](https://github.com/Lissy93/dashy/issues/367) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. ❗️ Reopened issue [#380](https://github.com/Lissy93/dashy/issues/380) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. 🗣 Commented on [#380](https://github.com/Lissy93/dashy/issues/380) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. 🗣 Commented on [#296](https://github.com/Lissy93/dashy/issues/296) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 🗣 Commented on [#367](https://github.com/Lissy93/dashy/issues/367) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. ❗️ Reopened issue [#380](https://github.com/Lissy93/dashy/issues/380) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 4. 🗣 Commented on [#380](https://github.com/Lissy93/dashy/issues/380) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. 🗣 Commented on [#378](https://github.com/Lissy93/dashy/issues/378) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. ❗️ Closed issue [#378](https://github.com/Lissy93/dashy/issues/378) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. ❗️ Opened issue [#377](https://github.com/Lissy93/dashy/issues/377) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. 🗣 Commented on [#894](https://github.com/federico-terzi/espanso/issues/894) in [federico-terzi/espanso](https://github.com/federico-terzi/espanso)
-9. 🗣 Commented on [#374](https://github.com/Lissy93/dashy/issues/374) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. 🗣 Commented on [#373](https://github.com/Lissy93/dashy/issues/373) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. 🗣 Commented on [#380](https://github.com/Lissy93/dashy/issues/380) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. 🗣 Commented on [#378](https://github.com/Lissy93/dashy/issues/378) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. ❗️ Closed issue [#378](https://github.com/Lissy93/dashy/issues/378) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. ❗️ Opened issue [#377](https://github.com/Lissy93/dashy/issues/377) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+9. 🗣 Commented on [#894](https://github.com/federico-terzi/espanso/issues/894) in [federico-terzi/espanso](https://github.com/federico-terzi/espanso)
+10. 🗣 Commented on [#374](https://github.com/Lissy93/dashy/issues/374) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 </p>
