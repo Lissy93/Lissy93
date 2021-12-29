@@ -25,16 +25,16 @@
     <p>
             
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#385](https://github.com/Lissy93/dashy/issues/385) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. 🗣 Commented on [#385](https://github.com/Lissy93/dashy/issues/385) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. 🗣 Commented on [#385](https://github.com/Lissy93/dashy/issues/385) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. 🗣 Commented on [#386](https://github.com/Lissy93/dashy/issues/386) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 🗣 Commented on [#386](https://github.com/Lissy93/dashy/issues/386) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. ❗️ Closed issue [#385](https://github.com/Lissy93/dashy/issues/385) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 4. 🗣 Commented on [#385](https://github.com/Lissy93/dashy/issues/385) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. 🗣 Commented on [#380](https://github.com/Lissy93/dashy/issues/380) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. ❗️ Opened issue [#14](https://github.com/nomanoff/emoji-shortcodes-for-markdown/issues/14) in [nomanoff/emoji-shortcodes-for-markdown](https://github.com/nomanoff/emoji-shortcodes-for-markdown)
-7. ❗️ Closed issue [#383](https://github.com/Lissy93/dashy/issues/383) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. 🗣 Commented on [#383](https://github.com/Lissy93/dashy/issues/383) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. ❗️ Reopened issue [#383](https://github.com/Lissy93/dashy/issues/383) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. 💪 Opened PR [#382](https://github.com/Lissy93/dashy/pull/382) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. 🗣 Commented on [#385](https://github.com/Lissy93/dashy/issues/385) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. 🗣 Commented on [#385](https://github.com/Lissy93/dashy/issues/385) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. 🗣 Commented on [#380](https://github.com/Lissy93/dashy/issues/380) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. ❗️ Opened issue [#14](https://github.com/nomanoff/emoji-shortcodes-for-markdown/issues/14) in [nomanoff/emoji-shortcodes-for-markdown](https://github.com/nomanoff/emoji-shortcodes-for-markdown)
+9. ❗️ Closed issue [#383](https://github.com/Lissy93/dashy/issues/383) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. 🗣 Commented on [#383](https://github.com/Lissy93/dashy/issues/383) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 </p>
