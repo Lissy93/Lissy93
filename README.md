@@ -25,16 +25,16 @@
     <p>
             
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#461](https://github.com/Lissy93/dashy/issues/461) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. 🗣 Commented on [#461](https://github.com/Lissy93/dashy/issues/461) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. 🗣 Commented on [#485](https://github.com/Lissy93/dashy/issues/485) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. ❗️ Reopened issue [#484](https://github.com/Lissy93/dashy/issues/484) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. 🎉 Merged PR [#480](https://github.com/Lissy93/dashy/pull/480) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. 💪 Opened PR [#480](https://github.com/Lissy93/dashy/pull/480) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. 🗣 Commented on [#99](https://github.com/Lissy93/personal-security-checklist/issues/99) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-8. ❗️ Closed issue [#99](https://github.com/Lissy93/personal-security-checklist/issues/99) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-9. 🗣 Commented on [#380](https://github.com/Lissy93/dashy/issues/380) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. 🎉 Merged PR [#471](https://github.com/Lissy93/dashy/pull/471) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. 🗣 Commented on [#486](https://github.com/Lissy93/dashy/issues/486) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. ❗️ Closed issue [#461](https://github.com/Lissy93/dashy/issues/461) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. 🗣 Commented on [#461](https://github.com/Lissy93/dashy/issues/461) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. 🗣 Commented on [#485](https://github.com/Lissy93/dashy/issues/485) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. ❗️ Reopened issue [#484](https://github.com/Lissy93/dashy/issues/484) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. 🎉 Merged PR [#480](https://github.com/Lissy93/dashy/pull/480) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. 💪 Opened PR [#480](https://github.com/Lissy93/dashy/pull/480) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. 🗣 Commented on [#99](https://github.com/Lissy93/personal-security-checklist/issues/99) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+9. ❗️ Closed issue [#99](https://github.com/Lissy93/personal-security-checklist/issues/99) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+10. 🗣 Commented on [#380](https://github.com/Lissy93/dashy/issues/380) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 </p>
