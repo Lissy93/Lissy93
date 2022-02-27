@@ -17,7 +17,7 @@ jobs:
         with:
           github-user: ${{ github.actor }}
           github-token: ${{ secrets.BOT_GITHUB_TOKEN }}
-          list-file: "star-list.md"
+          list-file: "STARRED-REPOS.md"
 
       # Commit the changes
       - name: Commit files
