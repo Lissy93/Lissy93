@@ -40,6 +40,9 @@
 </p>
 </details>
 
+
+<!--
+
 <details>
   <summary><b>🏆 Tropheys</b></summary>
     <p align="center">
@@ -55,7 +58,6 @@
 </details>
 
 
-<!--
 
 <details>
   <summary><b>PGP</b></summary>
