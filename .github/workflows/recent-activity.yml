@@ -9,17 +9,20 @@ jobs:
     name: Update this repo's README with recent activity
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: lissy93/github-activity-readme@master
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Adds activity to readme
+        uses: lissy93/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_MSG: ':zap: Updates recent activity'
         with:
           MAX_LINES: 10
-      - uses: lissy93/github-activity-readme@master
+      - name: Adds activity to file
+        uses: lissy93/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_MSG: ':zap: Updates recent activity'
         with:
           MAX_LINES: 100
-          TARGET_FILE: 'RECENT-ACTIVITY.md'
+          TARGET_FILE: './RECENT-ACTIVITY.md'
