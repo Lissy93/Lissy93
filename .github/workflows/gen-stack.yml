@@ -5,7 +5,7 @@ on:
   workflow_dispatch: # Manual dispatch
   push:
     branches: [ master ]
-    paths: [ .github/stack.yml ]
+    paths: [ assets/stack.yml ]
     
 jobs:
   profile_stack:
