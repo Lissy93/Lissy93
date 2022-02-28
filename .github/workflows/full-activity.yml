@@ -1,0 +1,26 @@
+name: 👩‍💻 Inserts Full Activity
+on:
+  schedule:
+    - cron: '0 0 * * *' # Run every night at midnight
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update activity file
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Adds recent activity to file
+        uses: actions-js/profile-readme@master
+        with:
+          username: lissy93
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          readme: './RECENT-ACTIVITY.md'
+          template: './assets/activity-template.md'
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          message: ':zap: Updates long activity'
+    
