@@ -1,0 +1,136 @@
+- name: Vue.js
+  logo: vuedotjs
+  url: 'https://vuejs.org/'
+  color: '#4FC08D'
+  projects:
+    - url: 'https://github.com/lissy93/dashy'
+    - url: 'https://github.com/Lissy93/all-the-countries'
+    - url: 'https://github.com/Lissy93/alicia-sykes-website'
+    - url: 'https://github.com/Lissy93/tfl-lift-availability-dash'
+    
+- name: Node.js
+  logo: nodedotjs
+  url: 'https://nodejs.org/'
+  color: '#339933'
+  projects:
+    - url: 'https://github.com/Lissy93/twitter-sentiment-visualisation'
+    - url: 'https://github.com/Lissy93/quick-example-of-testing-in-nodejs'
+    
+- name: Swift
+  logo: swift
+  url: 'https://www.swift.org/'
+  color: '#F05138'
+  projects:
+    - url: 'https://github.com/Lissy93/hasami-shogi'
+    - url: 'https://github.com/Lissy93/Spotter'
+    
+- name: Bash
+  logo: gnubash
+  url: 'https://www.gnu.org/software/bash/'
+  color: '#4EAA25'
+  projects:
+    - url: 'https://github.com/Lissy93/minimal-terminal-prompt'
+    
+- name: Config
+  logo: diaspora
+  color: '#E50695'
+  projects:
+    - url: 'https://github.com/Lissy93/conky-system-stats-widget'
+    - url: 'https://github.com/Lissy93/espanso-config'
+    
+- name: Markdown
+  logo: markdown
+  url: 'https://en.wikipedia.org/wiki/Markdown'
+  color: '#000000'
+  projects:
+    - url: 'https://github.com/Lissy93/personal-security-checklist'
+    
+- name: Flutter
+  logo: flutter
+  url: 'https://flutter.dev/'
+  color: '#02569B'
+  projects:
+    - url: 'https://github.com/Lissy93/nfu'
+    
+- name: Angular
+  logo: angular
+  url: 'https://angularjs.org/'
+  color: '#DD0031'
+  projects:
+    - url: 'https://github.com/Lissy93/happy-app'
+    - url: 'https://github.com/Lissy93/realtime-speech-analytics'
+    
+- name: Python
+  logo: python
+  url: 'https://www.python.org/'
+  color: '#3C78A9'
+  projects:
+    - url: 'https://github.com/Lissy93/gh-trending-no-cors'
+    - url: 'https://github.com/Lissy93/tfl-lift-availability-dash'
+    - url: 'https://github.com/Lissy93/pax'
+    
+- name: CoffeeScript
+  logo: coffeescript
+  url: 'https://coffeescript.org/'
+  color: '#2F2625'
+  projects:
+    - url: 'https://github.com/Lissy93/sentiment-analysis'
+    
+- name: Android
+  logo: android
+  url: 'https://developer.android.com/'
+  color: '#3DDC84'
+  projects:
+    - url: 'https://github.com/Lissy93/Minesweper'
+    - url: 'https://github.com/Lissy93/anti-theft-charge'
+    - url: 'https://github.com/Lissy93/TuneSender'
+    - url: 'https://github.com/Lissy93/TreasureHunt'
+    - url: 'https://github.com/Lissy93/got-home-safe'
+    - url: 'https://github.com/Lissy93/Study-Time'
+    
+- name: Kotlin
+  logo: kotlin
+  url: 'https://kotlinlang.org/'
+  color: '#7F52FF'
+  projects:
+    - url: 'https://github.com/Lissy93/anti-theft-charge'
+    
+- name: PHP
+  logo: php
+  url: 'https://www.php.net/'
+  color: '#777BB4'
+  projects:
+    - url: 'https://github.com/Lissy93/revision-quizzes'
+    - url: 'https://github.com/Lissy93/intern-magnet'
+    - url: 'https://github.com/Lissy93/usermonkey'
+    
+- name: Java
+  logo: java
+  url: 'https://www.java.com/'
+  color: '#007396'
+  projects:
+    - url: 'https://github.com/Lissy93/Minesweper'
+    - url: 'https://github.com/Lissy93/AlternativeVoteSystem'
+    - url: 'https://github.com/Lissy93/TuneSender'
+    - url: 'https://github.com/Lissy93/TreasureHunt'
+    
+- name: D3.js
+  logo: d3dotjs
+  url: 'https://d3js.org/'
+  color: '#F9A03C'
+  projects:
+    - url: 'https://github.com/Lissy93/twitter-sentiment-visualisation'
+    - url: 'https://github.com/Lissy93/voronoi-site-template'
+    - url: 'https://github.com/Lissy93/happy-app'
+    - url: 'https://github.com/Lissy93/realtime-speech-analytics'
+    
+- name: HTML
+  logo: html5
+  color: '#E34F26'
+  projects:
+    - url: 'https://github.com/Lissy93/md-cv-maker'
+    - url: 'https://github.com/Lissy93/email-extractor'
+    - url: 'https://github.com/Lissy93/bullet-convertor'
+    - url: 'https://github.com/Lissy93/cyber-defence-presentation'
+    - url: 'https://github.com/Lissy93/voronoi-site-template'
+    - url: 'https://github.com/Lissy93/web-dev-school'
