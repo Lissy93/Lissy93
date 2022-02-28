@@ -34,6 +34,7 @@
 - name: Config
   logo: diaspora
   color: '#E50695'
+  url: '#'
   projects:
     - url: 'https://github.com/Lissy93/conky-system-stats-widget'
     - url: 'https://github.com/Lissy93/espanso-config'
@@ -127,6 +128,7 @@
 - name: HTML
   logo: html5
   color: '#E34F26'
+  url: '#'
   projects:
     - url: 'https://github.com/Lissy93/md-cv-maker'
     - url: 'https://github.com/Lissy93/email-extractor'
