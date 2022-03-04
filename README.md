@@ -25,16 +25,16 @@
     <p>
             
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#526](https://github.com/Lissy93/dashy/issues/526) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. 🗣 Commented on [#524](https://github.com/Lissy93/dashy/issues/524) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. 🎉 Merged PR [#525](https://github.com/Lissy93/dashy/pull/525) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. ❗️ Opened issue [#45](https://github.com/akhilmhdh/contributors-readme-action/issues/45) in [akhilmhdh/contributors-readme-action](https://github.com/akhilmhdh/contributors-readme-action)
-5. 🗣 Commented on [#521](https://github.com/Lissy93/dashy/issues/521) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. 🗣 Commented on [#521](https://github.com/Lissy93/dashy/issues/521) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. 💪 Opened PR [#523](https://github.com/Lissy93/dashy/pull/523) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. 🗣 Commented on [#520](https://github.com/Lissy93/dashy/issues/520) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. 🗣 Commented on [#527](https://github.com/Lissy93/dashy/issues/527) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. ❗️ Reopened issue [#527](https://github.com/Lissy93/dashy/issues/527) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. 🗣 Commented on [#527](https://github.com/Lissy93/dashy/issues/527) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. ❗️ Reopened issue [#526](https://github.com/Lissy93/dashy/issues/526) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. 🗣 Commented on [#524](https://github.com/Lissy93/dashy/issues/524) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. 🎉 Merged PR [#525](https://github.com/Lissy93/dashy/pull/525) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. ❗️ Opened issue [#45](https://github.com/akhilmhdh/contributors-readme-action/issues/45) in [akhilmhdh/contributors-readme-action](https://github.com/akhilmhdh/contributors-readme-action)
+8. 🗣 Commented on [#521](https://github.com/Lissy93/dashy/issues/521) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 9. 🗣 Commented on [#521](https://github.com/Lissy93/dashy/issues/521) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. ❗️ Reopened issue [#521](https://github.com/Lissy93/dashy/issues/521) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. 💪 Opened PR [#523](https://github.com/Lissy93/dashy/pull/523) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 </p>
