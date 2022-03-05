@@ -1,3 +1,3 @@
 # Recent Activity
 
-<!--GITHUB_ACTIVITY:{"rows": 50 }-->
+<!--GITHUB_ACTIVITY:{"rows": 250 }-->
