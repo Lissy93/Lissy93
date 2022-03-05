@@ -1,0 +1,31 @@
+name: 👔 Insert Repo List
+on:
+  schedule:
+    - cron: '0 0 * * *' # Run every night at midnight
+  workflow_dispatch:
+
+env:
+  GITHUB_NAME: lissy93
+  GITHUB_EMAIL: liss-bot@d0h.co
+  STARED_NUMBER: 1000
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: My GitHub Status
+        uses: yihong0618/github-readme-stats@main
+        with:
+          STARED_NUMBER: ${{ env.STARED_NUMBER }}
+
+      - name: Push README
+        uses: github-actions-x/commit@v2.6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "👔 Updates repo list"
+          files: REPO-LIST.md
+          rebase: "true"
+          name: ${{ env.GITHUB_NAME }}
+          email: ${{ env.GITHUB_EMAIL }}
