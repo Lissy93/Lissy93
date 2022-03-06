@@ -9,20 +9,54 @@ jobs:
     runs-on: ubuntu-latest
     name: Generate Coding Metrics
     steps:
-    - name: Recent Coding Chart
+    
+    - name: Intro with Stats
       uses: lowlighter/metrics@latest
       with:
-        filename: assets/recent-coding-chart.svg
-        token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-        plugin_habits: yes
-        plugin_habits_facts: no
-        plugin_habits_charts: yes
-    - name: Recent Coding Facts
-      uses: lowlighter/metrics@latest
-      with:
-        filename: assets/recent-coding-facts.svg
+        filename: assets/summary.svg
         token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
         plugin_habits: yes
         plugin_habits_facts: yes
         plugin_habits_charts: no
         config_timezone: Europe/London
+        
+    - name: Recent Coding Chart
+      uses: lowlighter/metrics@latest
+      with:
+        filename: assets/recent-coding-chart.svg
+        token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+        plugin_habits: no
+        plugin_habits_facts: no
+        plugin_habits_charts: yes
+        
+    - name: Full-year calendar
+      uses: lowlighter/metrics@latest
+      with:
+        filename: assets/isocalendar-fullyear.svg
+        token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+        plugin_isocalendar: yes
+        plugin_isocalendar_duration: full-year
+        
+    - name: Sponsors Card
+      uses: lowlighter/metrics@latest
+      with:
+        filename: assets/sponsors.svg
+        token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+        plugin_sponsors: yes
+        
+    - name: GitHub Discussions
+      uses: lowlighter/metrics@latest
+      with:
+        filename: assets/discussions.svg
+        token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+        plugin_discussions: yes
+        plugin_discussions_categories_limit: 8
+  
+    - name: Achievements
+      uses: lowlighter/metrics@latest
+      with:
+        filename: assets/achievements.svg
+        token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+        plugin_achievements: yes
+        plugin_achievements_display: compact
+        plugin_achievements_threshold: A
