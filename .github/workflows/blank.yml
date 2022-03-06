@@ -1,0 +1,30 @@
+name: 📊 Generates Metrics
+on:
+  schedule:
+    - cron: '0 0 * * *' # Run every night at midnight
+  workflow_dispatch:
+  
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    name: Generate Coding Metrics
+    steps:
+    - name: Recent Coding Chart
+      uses: lowlighter/metrics@latest
+      with:
+        filename: recent-coding-chart.svg
+        token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+        base: "./assets/"
+        plugin_habits: yes
+        plugin_habits_facts: no
+        plugin_habits_charts: yes
+    - name: Recent Coding Facts
+      uses: lowlighter/metrics@latest
+      with:
+        filename: recent-coding-Facts.svg
+        token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+        base: "./assets/"
+        plugin_habits: yes
+        plugin_habits_facts: yes
+        plugin_habits_charts: no
+        config_timezone: Europe/London
