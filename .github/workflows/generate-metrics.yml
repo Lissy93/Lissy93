@@ -12,18 +12,16 @@ jobs:
     - name: Recent Coding Chart
       uses: lowlighter/metrics@latest
       with:
-        filename: recent-coding-chart.svg
+        filename: assets/recent-coding-chart.svg
         token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-        base: "./assets/"
         plugin_habits: yes
         plugin_habits_facts: no
         plugin_habits_charts: yes
     - name: Recent Coding Facts
       uses: lowlighter/metrics@latest
       with:
-        filename: recent-coding-Facts.svg
+        filename: assets/recent-coding-facts.svg
         token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-        base: "./assets/"
         plugin_habits: yes
         plugin_habits_facts: yes
         plugin_habits_charts: no
