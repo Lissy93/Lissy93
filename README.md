@@ -44,22 +44,6 @@
 <!--
 
 <details>
-  <summary><b>🏆 Tropheys</b></summary>
-    <p align="center">
-      <a href="https://profile.codersrank.io/user/lissy93"><img src="https://github-profile-trophy.vercel.app/?username=lissy93&theme=dracula&row=1" /></a>
-    </p>
-</details>
-
-<details>
-  <summary><b>🦄 Stats</b></summary>
-    <p align="center">
-      <img src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/stats_090921.svg"/>
-    </p>
-</details>
-
-
-
-<details>
   <summary><b>PGP</b></summary>
     <p align="center">
 
@@ -105,32 +89,6 @@ mFFVmpQe2X/qgZBVVYC+LjpxNEMt6w==
 ```
   
   </p>
-</details>
-
-
-<details>
-  <summary><b>Technologies</b></summary>
-    <p>
-      <br>
-      <a href="https://profile.codersrank.io/user/lissy93">
-        <img width="480" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lissy93" />
-      </a>
-    </p>
-</details>
-
-
-<details>
-  <summary><b>Current Projects</b></summary>
-    <p>
-      <br>
-      <a href="https://github.com/Lissy93/personal-security-checklist">
-        <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=lissy93&repo=personal-security-checklist" />
-      </a>
-      <br>
-      <a href="https://github.com/Lissy93/dashy">
-        <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=lissy93&repo=dashy" />
-      </a>
-    </p>
 </details>
 
 -->
