@@ -1,5 +1,5 @@
 
-<h1 align="center"><code>Hello 👋</code></h1>
+<h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 𝙰𝚕𝚒𝚌𝚒𝚊</h1>
 
 <p align="center">
   <a href="https://twitter.com/Lissy_Sykes"><img src="https://img.shields.io/badge/-@Lissy_Sykes-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
@@ -24,6 +24,8 @@
   <summary><b>⚡ Recent Activity</b></summary>
     <p>
             
+<img align='right' width='85' src='https://i.ibb.co/qWWpD0v/astro-dab-128.png' alt='Astro Dab'>
+
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#526](https://github.com/Lissy93/dashy/issues/526) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 2. 🎉 Merged PR [#538](https://github.com/Lissy93/dashy/pull/538) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
@@ -36,6 +38,8 @@
 9. ❌ Closed PR [#89](https://github.com/Lissy93/personal-security-checklist/pull/89) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
 10. 🗣 Commented on [#531](https://github.com/Lissy93/dashy/issues/531) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
+
+➡️  [More Activity](/RECENT-ACTIVITY.md)
 
 </p>
 </details>
