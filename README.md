@@ -27,16 +27,16 @@
 <img align='right' width='85' src='https://i.ibb.co/qWWpD0v/astro-dab-128.png' alt='Astro Dab'>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#551](https://github.com/Lissy93/dashy/issues/551) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. 🗣 Commented on [#552](https://github.com/Lissy93/dashy/issues/552) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. ❗️ Reopened issue [#552](https://github.com/Lissy93/dashy/issues/552) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. 🗣 Commented on [#550](https://github.com/Lissy93/dashy/issues/550) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. ❗️ Opened issue [#1](https://github.com/GazimbeIsaac/free-for-dev/issues/1) in [GazimbeIsaac/free-for-dev](https://github.com/GazimbeIsaac/free-for-dev)
-6. 💪 Opened PR [#1](https://github.com/GazimbeIsaac/awesome-zsh-plugins/pull/1) in [GazimbeIsaac/awesome-zsh-plugins](https://github.com/GazimbeIsaac/awesome-zsh-plugins)
-7. 🗣 Commented on [#546](https://github.com/Lissy93/dashy/issues/546) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. 🗣 Commented on [#546](https://github.com/Lissy93/dashy/issues/546) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. 🗣 Commented on [#544](https://github.com/Lissy93/dashy/issues/544) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. 🗣 Commented on [#544](https://github.com/Lissy93/dashy/issues/544) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. 🗣 Commented on [#555](https://github.com/Lissy93/dashy/issues/555) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 🗣 Commented on [#549](https://github.com/Lissy93/dashy/issues/549) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. 🗣 Commented on [#551](https://github.com/Lissy93/dashy/issues/551) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. 🗣 Commented on [#552](https://github.com/Lissy93/dashy/issues/552) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. ❗️ Reopened issue [#552](https://github.com/Lissy93/dashy/issues/552) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. 🗣 Commented on [#550](https://github.com/Lissy93/dashy/issues/550) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. ❗️ Opened issue [#1](https://github.com/GazimbeIsaac/free-for-dev/issues/1) in [GazimbeIsaac/free-for-dev](https://github.com/GazimbeIsaac/free-for-dev)
+8. 💪 Opened PR [#1](https://github.com/GazimbeIsaac/awesome-zsh-plugins/pull/1) in [GazimbeIsaac/awesome-zsh-plugins](https://github.com/GazimbeIsaac/awesome-zsh-plugins)
+9. 🗣 Commented on [#546](https://github.com/Lissy93/dashy/issues/546) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. 🗣 Commented on [#546](https://github.com/Lissy93/dashy/issues/546) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 ➡️  [More Activity](/RECENT-ACTIVITY.md)
