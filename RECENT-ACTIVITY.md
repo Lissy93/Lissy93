@@ -1,6 +1,10 @@
 # Recent Activity
 
 * ⬆️ Pushed 1 commit to Lissy93/dotfiles
+* ⬆️ Pushed 2 commits to Lissy93/dotfiles
+* ⬆️ Pushed 1 commit to Lissy93/dotfiles
+* 🗣 Commented on #550 in Lissy93/dashy
+* ⬆️ Pushed 1 commit to Lissy93/dotfiles
 * ❗️ Opened issue #1 in GazimbeIsaac/free-for-dev
 * ⬆️ Pushed 1 commit to Lissy93/dashy
 * ⬆️ Pushed 1 commit to Lissy93/dashy
@@ -66,4 +70,3 @@
 * ⬆️ Pushed 1 commit to Lissy93/Lissy93
 * ⬆️ Pushed 1 commit to Lissy93/Lissy93
 * 🗣 Commented on #529 in Lissy93/dashy
-* 🗣 Commented on #528 in Lissy93/dashy
