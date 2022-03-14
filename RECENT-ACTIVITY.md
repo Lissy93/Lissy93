@@ -1,5 +1,18 @@
 # Recent Activity
 
+* ⬆️ Pushed 2 commits to Lissy93/dashy
+* 🎉 Merged PR #558 in Lissy93/dashy
+* 💪 Opened PR #557 in Lissy93/dashy
+* ⬆️ Pushed 5 commits to Lissy93/dotfiles
+* ⬆️ Pushed 1 commit to Lissy93/dashy
+* 🗣 Commented on #556 in Lissy93/dashy
+* ⬆️ Pushed 2 commits to Lissy93/dashy
+* 🎉 Merged PR #556 in Lissy93/dashy
+* 🗣 Commented on #555 in Lissy93/dashy
+* 🗣 Commented on #549 in Lissy93/dashy
+* 🗣 Commented on #551 in Lissy93/dashy
+* 🗣 Commented on #552 in Lissy93/dashy
+* ❗️ Reopened issue #552 in Lissy93/dashy
 * ⬆️ Pushed 1 commit to Lissy93/dotfiles
 * ⬆️ Pushed 2 commits to Lissy93/dotfiles
 * ⬆️ Pushed 1 commit to Lissy93/dotfiles
@@ -58,15 +71,3 @@
 * ⬆️ Pushed 1 commit to Lissy93/Lissy93
 * ⬆️ Pushed 1 commit to Lissy93/Lissy93
 * 🗣 Commented on #89 in Lissy93/personal-security-checklist
-* ❌ Closed PR #89 in Lissy93/personal-security-checklist
-* ⬆️ Pushed 1 commit to Lissy93/Lissy93
-* ⬆️ Pushed 1 commit to Lissy93/dashy
-* 🗣 Commented on #531 in Lissy93/dashy
-* ⬆️ Pushed 1 commit to Lissy93/Lissy93
-* ⬆️ Pushed 1 commit to Lissy93/Lissy93
-* ⬆️ Pushed 1 commit to Lissy93/Lissy93
-* ⬆️ Pushed 1 commit to Lissy93/Lissy93
-* ⬆️ Pushed 1 commit to Lissy93/Lissy93
-* ⬆️ Pushed 1 commit to Lissy93/Lissy93
-* ⬆️ Pushed 1 commit to Lissy93/Lissy93
-* 🗣 Commented on #529 in Lissy93/dashy
