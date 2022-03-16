@@ -1,5 +1,9 @@
 # Recent Activity
 
+* ⬆️ Pushed 3 commits to Lissy93/dotfiles
+* 🗣 Commented on #544 in Lissy93/dashy
+* ❗️ Closed issue #544 in Lissy93/dashy
+* 🗣 Commented on #544 in Lissy93/dashy
 * ⬆️ Pushed 1 commit to Lissy93/dashy
 * 🗣 Commented on #560 in Lissy93/dashy
 * 🗣 Commented on #561 in Lissy93/dashy
@@ -67,6 +71,3 @@
 * 🗣 Commented on #537 in Lissy93/dashy
 * ⬆️ Pushed 2 commits to Lissy93/dashy
 * 🎉 Merged PR #536 in Lissy93/dashy
-* ⬆️ Pushed 13 commits to Lissy93/dashy
-* ❗️ Closed issue #534 in Lissy93/dashy
-* 🎉 Merged PR #528 in Lissy93/dashy
