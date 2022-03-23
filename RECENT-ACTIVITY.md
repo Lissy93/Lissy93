@@ -69,4 +69,3 @@
 * 🗣 Commented on #540 in Lissy93/dashy
 * ⬆️ Pushed 3 commits to Lissy93/dashy
 * 🎉 Merged PR #540 in Lissy93/dashy
-* 🗣 Commented on #435 in Lissy93/dashy
