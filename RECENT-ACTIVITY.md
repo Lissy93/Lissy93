@@ -1,5 +1,6 @@
 # Recent Activity
 
+* ⬆️ Pushed 1 commit to Lissy93/dashy
 * ⬆️ Pushed 18 commits to Lissy93/dotfiles
 * ⬆️ Pushed 1 commit to Lissy93/dashy
 * 🗣 Commented on #568 in Lissy93/dashy
