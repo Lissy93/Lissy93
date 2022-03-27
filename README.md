@@ -27,16 +27,16 @@
 <img align='right' width='85' src='https://i.ibb.co/qWWpD0v/astro-dab-128.png' alt='Astro Dab'>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#575](https://github.com/Lissy93/dashy/issues/575) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. ❗️ Closed issue [#574](https://github.com/Lissy93/dashy/issues/574) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. ❗️ Closed issue [#954](https://github.com/standardnotes/web/issues/954) in [standardnotes/web](https://github.com/standardnotes/web)
+2. 🗣 Commented on [#954](https://github.com/standardnotes/web/issues/954) in [standardnotes/web](https://github.com/standardnotes/web)
 3. 🗣 Commented on [#574](https://github.com/Lissy93/dashy/issues/574) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. ❗️ Opened issue [#954](https://github.com/standardnotes/web/issues/954) in [standardnotes/web](https://github.com/standardnotes/web)
-5. 🎉 Merged PR [#515](https://github.com/Lissy93/dashy/pull/515) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. 🗣 Commented on [#578](https://github.com/Lissy93/dashy/issues/578) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. 🗣 Commented on [#577](https://github.com/Lissy93/dashy/issues/577) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. 🗣 Commented on [#574](https://github.com/Lissy93/dashy/issues/574) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. 🗣 Commented on [#568](https://github.com/Lissy93/dashy/issues/568) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. 🎉 Merged PR [#567](https://github.com/Lissy93/dashy/pull/567) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. 🗣 Commented on [#574](https://github.com/Lissy93/dashy/issues/574) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. 🗣 Commented on [#575](https://github.com/Lissy93/dashy/issues/575) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. ❗️ Closed issue [#574](https://github.com/Lissy93/dashy/issues/574) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. 🗣 Commented on [#574](https://github.com/Lissy93/dashy/issues/574) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. ❗️ Opened issue [#954](https://github.com/standardnotes/web/issues/954) in [standardnotes/web](https://github.com/standardnotes/web)
+9. 🎉 Merged PR [#515](https://github.com/Lissy93/dashy/pull/515) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. 🗣 Commented on [#578](https://github.com/Lissy93/dashy/issues/578) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 ➡️  [More Activity](/RECENT-ACTIVITY.md)
