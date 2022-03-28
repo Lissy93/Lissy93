@@ -1,5 +1,22 @@
 # Recent Activity
 
+* 🗣 Commented on #557 in Lissy93/dashy
+* ⬆️ Pushed 1 commit to Lissy93/dashy
+* ⬆️ Pushed 5 commits to Lissy93/dashy
+* ❗️ Closed issue #555 in Lissy93/dashy
+* 🗣 Commented on #555 in Lissy93/dashy
+* ⬆️ Pushed 1 commit to Lissy93/dashy
+* ⬆️ Pushed 26 commits to Lissy93/dashy
+* ❗️ Closed issue #954 in standardnotes/web
+* 🗣 Commented on #954 in standardnotes/web
+* 🗣 Commented on #574 in Lissy93/dashy
+* 🗣 Commented on #574 in Lissy93/dashy
+* ⬆️ Pushed 4 commits to Lissy93/dashy
+* 🗣 Commented on #575 in Lissy93/dashy
+* ❗️ Closed issue #574 in Lissy93/dashy
+* 🗣 Commented on #574 in Lissy93/dashy
+* 📦 Released "1.0.11 - For SN 3.14.0" in Lissy93/callisto-theme-standard-notes
+* ⬆️ Pushed 1 commit to Lissy93/callisto-theme-standard-notes
 * ❗️ Opened issue #954 in standardnotes/web
 * ⬆️ Pushed 2 commits to Lissy93/dashy
 * ⬆️ Pushed 1 commit to Lissy93/dashy
@@ -55,18 +72,3 @@
 * ❗️ Opened issue #1 in GazimbeIsaac/free-for-dev
 * ⬆️ Pushed 1 commit to Lissy93/dashy
 * ⬆️ Pushed 1 commit to Lissy93/dashy
-* 💪 Opened PR #1 in GazimbeIsaac/awesome-zsh-plugins
-* ⬆️ Pushed 1 commit to Lissy93/awesome-zsh-plugins
-* 🍴 Forked Lissy93/awesome-zsh-plugins from GazimbeIsaac/awesome-zsh-plugins
-* 🗣 Commented on #546 in Lissy93/dashy
-* 🗣 Commented on #546 in Lissy93/dashy
-* ⬆️ Pushed 1 commit to Lissy93/dotfiles
-* ⬆️ Pushed 1 commit to Lissy93/dotfiles
-* 🗣 Commented on #544 in Lissy93/dashy
-* ⬆️ Pushed 3 commits to Lissy93/dotfiles
-* ⬆️ Pushed 1 commit to Lissy93/dotfiles
-* 🗣 Commented on #544 in Lissy93/dashy
-* 🗣 Commented on #544 in Lissy93/dashy
-* 🗣 Commented on #18 in uhyo/please-star-first
-* ⬆️ Pushed 1 commit to Lissy93/dashy
-* 🗣 Commented on #18 in uhyo/please-star-first
