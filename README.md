@@ -27,16 +27,16 @@
 <img align='right' width='85' src='https://i.ibb.co/qWWpD0v/astro-dab-128.png' alt='Astro Dab'>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#557](https://github.com/Lissy93/dashy/issues/557) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. ❗️ Closed issue [#555](https://github.com/Lissy93/dashy/issues/555) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. 🗣 Commented on [#555](https://github.com/Lissy93/dashy/issues/555) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. ❗️ Closed issue [#954](https://github.com/standardnotes/web/issues/954) in [standardnotes/web](https://github.com/standardnotes/web)
-5. 🗣 Commented on [#954](https://github.com/standardnotes/web/issues/954) in [standardnotes/web](https://github.com/standardnotes/web)
-6. 🗣 Commented on [#574](https://github.com/Lissy93/dashy/issues/574) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. 🗣 Commented on [#574](https://github.com/Lissy93/dashy/issues/574) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. 🗣 Commented on [#575](https://github.com/Lissy93/dashy/issues/575) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. ❗️ Closed issue [#574](https://github.com/Lissy93/dashy/issues/574) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. 🗣 Commented on [#574](https://github.com/Lissy93/dashy/issues/574) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. ❗️ Closed issue [#564](https://github.com/Lissy93/dashy/issues/564) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. ❗️ Closed issue [#576](https://github.com/Lissy93/dashy/issues/576) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. ❗️ Closed issue [#560](https://github.com/Lissy93/dashy/issues/560) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. ❗️ Closed issue [#575](https://github.com/Lissy93/dashy/issues/575) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. ❗️ Closed issue [#570](https://github.com/Lissy93/dashy/issues/570) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. ❗️ Closed issue [#546](https://github.com/Lissy93/dashy/issues/546) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. ❗️ Closed issue [#568](https://github.com/Lissy93/dashy/issues/568) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. ❗️ Closed issue [#552](https://github.com/Lissy93/dashy/issues/552) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+9. ❗️ Closed issue [#524](https://github.com/Lissy93/dashy/issues/524) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. ❗️ Closed issue [#522](https://github.com/Lissy93/dashy/issues/522) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 ➡️  [More Activity](/RECENT-ACTIVITY.md)
