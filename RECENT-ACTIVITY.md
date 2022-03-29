@@ -1,5 +1,30 @@
 # Recent Activity
 
+* ❗️ Reopened issue #522 in Lissy93/dashy
+* 🗣 Commented on #576 in Lissy93/dashy
+* 🗣 Commented on #570 in Lissy93/dashy
+* 🗣 Commented on #568 in Lissy93/dashy
+* 🗣 Commented on #560 in Lissy93/dashy
+* 🗣 Commented on #564 in Lissy93/dashy
+* 🗣 Commented on #552 in Lissy93/dashy
+* 🗣 Commented on #546 in Lissy93/dashy
+* 🗣 Commented on #524 in Lissy93/dashy
+* 🗣 Commented on #522 in Lissy93/dashy
+* 🗣 Commented on #497 in Lissy93/dashy
+* ⬆️ Pushed 1 commit to Lissy93/dashy
+* ⬆️ Pushed 28 commits to Lissy93/dashy
+* ❗️ Closed issue #564 in Lissy93/dashy
+* ❗️ Closed issue #576 in Lissy93/dashy
+* ❗️ Closed issue #560 in Lissy93/dashy
+* ❗️ Closed issue #575 in Lissy93/dashy
+* ❗️ Closed issue #570 in Lissy93/dashy
+* ❗️ Closed issue #546 in Lissy93/dashy
+* ❗️ Closed issue #568 in Lissy93/dashy
+* ❗️ Closed issue #552 in Lissy93/dashy
+* ❗️ Closed issue #524 in Lissy93/dashy
+* ❗️ Closed issue #522 in Lissy93/dashy
+* ❗️ Closed issue #494 in Lissy93/dashy
+* 🎉 Merged PR #557 in Lissy93/dashy
 * 🗣 Commented on #557 in Lissy93/dashy
 * ⬆️ Pushed 1 commit to Lissy93/dashy
 * ⬆️ Pushed 5 commits to Lissy93/dashy
@@ -60,15 +85,3 @@
 * ⬆️ Pushed 2 commits to Lissy93/dashy
 * 🎉 Merged PR #556 in Lissy93/dashy
 * 🗣 Commented on #555 in Lissy93/dashy
-* 🗣 Commented on #549 in Lissy93/dashy
-* 🗣 Commented on #551 in Lissy93/dashy
-* 🗣 Commented on #552 in Lissy93/dashy
-* ❗️ Reopened issue #552 in Lissy93/dashy
-* ⬆️ Pushed 1 commit to Lissy93/dotfiles
-* ⬆️ Pushed 2 commits to Lissy93/dotfiles
-* ⬆️ Pushed 1 commit to Lissy93/dotfiles
-* 🗣 Commented on #550 in Lissy93/dashy
-* ⬆️ Pushed 1 commit to Lissy93/dotfiles
-* ❗️ Opened issue #1 in GazimbeIsaac/free-for-dev
-* ⬆️ Pushed 1 commit to Lissy93/dashy
-* ⬆️ Pushed 1 commit to Lissy93/dashy
