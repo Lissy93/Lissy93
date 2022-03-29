@@ -27,16 +27,16 @@
 <img align='right' width='85' src='https://i.ibb.co/qWWpD0v/astro-dab-128.png' alt='Astro Dab'>
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#564](https://github.com/Lissy93/dashy/issues/564) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. ❗️ Closed issue [#581](https://github.com/Lissy93/dashy/issues/581) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. 🗣 Commented on [#581](https://github.com/Lissy93/dashy/issues/581) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. 🗣 Commented on [#583](https://github.com/Lissy93/dashy/issues/583) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. ❗️ Reopened issue [#564](https://github.com/Lissy93/dashy/issues/564) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. ❗️ Closed issue [#581](https://github.com/Lissy93/dashy/issues/581) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 4. 🗣 Commented on [#581](https://github.com/Lissy93/dashy/issues/581) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. ❗️ Reopened issue [#581](https://github.com/Lissy93/dashy/issues/581) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. 🗣 Commented on [#580](https://github.com/Lissy93/dashy/issues/580) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. ❗️ Reopened issue [#580](https://github.com/Lissy93/dashy/issues/580) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. 🗣 Commented on [#579](https://github.com/Lissy93/dashy/issues/579) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. ❗️ Reopened issue [#522](https://github.com/Lissy93/dashy/issues/522) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. 🗣 Commented on [#576](https://github.com/Lissy93/dashy/issues/576) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. 🗣 Commented on [#581](https://github.com/Lissy93/dashy/issues/581) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. ❗️ Reopened issue [#581](https://github.com/Lissy93/dashy/issues/581) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. 🗣 Commented on [#580](https://github.com/Lissy93/dashy/issues/580) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. ❗️ Reopened issue [#580](https://github.com/Lissy93/dashy/issues/580) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+9. 🗣 Commented on [#579](https://github.com/Lissy93/dashy/issues/579) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. ❗️ Reopened issue [#522](https://github.com/Lissy93/dashy/issues/522) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 ➡️  [More Activity](/RECENT-ACTIVITY.md)
