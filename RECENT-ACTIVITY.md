@@ -1,5 +1,7 @@
 # Recent Activity
 
+* 🗣 Commented on #584 in Lissy93/dashy
+* 🗣 Commented on #584 in Lissy93/dashy
 * ❗️ Closed issue #583 in Lissy93/dashy
 * 🗣 Commented on #583 in Lissy93/dashy
 * 🗣 Commented on #583 in Lissy93/dashy
@@ -87,4 +89,3 @@
 * 🗣 Commented on #561 in Lissy93/dashy
 * 🗣 Commented on #496 in Lissy93/dashy
 * ⬆️ Pushed 4 commits to Lissy93/dashy
-* 🎉 Merged PR #559 in Lissy93/dashy
