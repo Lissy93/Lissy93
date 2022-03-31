@@ -29,14 +29,14 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#581](https://github.com/Lissy93/dashy/issues/581) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 2. 🗣 Commented on [#581](https://github.com/Lissy93/dashy/issues/581) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. ❗️ Opened issue [#586](https://github.com/Lissy93/dashy/issues/586) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. 🗣 Commented on [#584](https://github.com/Lissy93/dashy/issues/584) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. 🗣 Commented on [#584](https://github.com/Lissy93/dashy/issues/584) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. ❗️ Closed issue [#583](https://github.com/Lissy93/dashy/issues/583) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. 🗣 Commented on [#583](https://github.com/Lissy93/dashy/issues/583) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. 🗣 Commented on [#583](https://github.com/Lissy93/dashy/issues/583) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. 🗣 Commented on [#581](https://github.com/Lissy93/dashy/issues/581) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. 🗣 Commented on [#581](https://github.com/Lissy93/dashy/issues/581) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. ❗️ Opened issue [#586](https://github.com/Lissy93/dashy/issues/586) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. 🗣 Commented on [#584](https://github.com/Lissy93/dashy/issues/584) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. 🗣 Commented on [#584](https://github.com/Lissy93/dashy/issues/584) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. ❗️ Closed issue [#583](https://github.com/Lissy93/dashy/issues/583) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 9. 🗣 Commented on [#583](https://github.com/Lissy93/dashy/issues/583) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. ❗️ Reopened issue [#564](https://github.com/Lissy93/dashy/issues/564) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. 🗣 Commented on [#583](https://github.com/Lissy93/dashy/issues/583) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 ➡️  [More Activity](/RECENT-ACTIVITY.md)
