@@ -1,5 +1,12 @@
 # Recent Activity
 
+* 🗣 Commented on #581 in Lissy93/dashy
+* 🗣 Commented on #581 in Lissy93/dashy
+* 🗣 Commented on #581 in Lissy93/dashy
+* ⬆️ Pushed 1 commit to Lissy93/dashy
+* 🗣 Commented on #581 in Lissy93/dashy
+* ⬆️ Pushed 123 commits to Lissy93/dashy
+* ❗️ Opened issue #586 in Lissy93/dashy
 * 🗣 Commented on #584 in Lissy93/dashy
 * 🗣 Commented on #584 in Lissy93/dashy
 * ❗️ Closed issue #583 in Lissy93/dashy
@@ -82,10 +89,3 @@
 * ❗️ Reopened issue #564 in Lissy93/dashy
 * ⬆️ Pushed 3 commits to Lissy93/dotfiles
 * 🗣 Commented on #544 in Lissy93/dashy
-* ❗️ Closed issue #544 in Lissy93/dashy
-* 🗣 Commented on #544 in Lissy93/dashy
-* ⬆️ Pushed 1 commit to Lissy93/dashy
-* 🗣 Commented on #560 in Lissy93/dashy
-* 🗣 Commented on #561 in Lissy93/dashy
-* 🗣 Commented on #496 in Lissy93/dashy
-* ⬆️ Pushed 4 commits to Lissy93/dashy
