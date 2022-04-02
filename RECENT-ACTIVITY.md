@@ -1,5 +1,7 @@
 # Recent Activity
 
+* ❗️ Closed issue #12 in Lissy93/callisto-theme-standard-notes
+* ❗️ Closed issue #587 in Lissy93/dashy
 * 🗣 Commented on #581 in Lissy93/dashy
 * 🗣 Commented on #581 in Lissy93/dashy
 * 🗣 Commented on #581 in Lissy93/dashy
@@ -86,6 +88,3 @@
 * 🎉 Merged PR #565 in Lissy93/dashy
 * ⬆️ Pushed 1 commit to Lissy93/dashy
 * 🗣 Commented on #564 in Lissy93/dashy
-* ❗️ Reopened issue #564 in Lissy93/dashy
-* ⬆️ Pushed 3 commits to Lissy93/dotfiles
-* 🗣 Commented on #544 in Lissy93/dashy
