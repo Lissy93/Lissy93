@@ -44,6 +44,30 @@
 </p>
 </details>
 
+<details>
+  <summary><b>👤 About</b></summary>
+    <p>
+      <img align="right" width="400" src="https://github.com/Lissy93/Lissy93/raw/master/assets/alicia-sykes_profile-pic.png" alt="Alicia Sykes" />
+      
+<blockquote>
+
+I am a senior frontend (and fullstack) software engineer based in London UK, with 10+ years of professional experience.
+  
+I'm genuinely passionate about writing great code, with maintainability in-mind. I care a lot about privacy and security, and have carried out several audits and have made numerous submissions to various bug bounty programs.
+
+I also enjoy attending ([and winning](https://notes.aliciasykes.com/p/0s5s3uOtKj)) hackathons and coding competitions, as it's a great opportunity to try out new technologies, meet new people and consume a lot of free caffeine.
+
+I have a small homelab, which I'm using to learn more about system administration, and host my own services. 
+
+When I'm not at the keyboard, I like sports, astronomy and hanging out with friends.
+
+
+</blockquote>
+      
+  </p>
+</details>
+  
+
 
 <!--
 
