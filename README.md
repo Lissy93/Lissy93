@@ -29,14 +29,14 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#581](https://github.com/Lissy93/dashy/issues/581) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 2. 🗣 Commented on [#581](https://github.com/Lissy93/dashy/issues/581) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. ❗️ Closed issue [#531](https://github.com/Lissy93/dashy/issues/531) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. 🗣 Commented on [#531](https://github.com/Lissy93/dashy/issues/531) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. ❗️ Closed issue [#512](https://github.com/Lissy93/dashy/issues/512) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. 🗣 Commented on [#512](https://github.com/Lissy93/dashy/issues/512) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. 🎉 Merged PR [#523](https://github.com/Lissy93/dashy/pull/523) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. 🗣 Commented on [#523](https://github.com/Lissy93/dashy/issues/523) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. ❗️ Closed issue [#12](https://github.com/Lissy93/callisto-theme-standard-notes/issues/12) in [Lissy93/callisto-theme-standard-notes](https://github.com/Lissy93/callisto-theme-standard-notes)
-10. ❗️ Closed issue [#587](https://github.com/Lissy93/dashy/issues/587) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. 🗣 Commented on [#581](https://github.com/Lissy93/dashy/issues/581) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. ❗️ Closed issue [#531](https://github.com/Lissy93/dashy/issues/531) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. 🗣 Commented on [#531](https://github.com/Lissy93/dashy/issues/531) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. ❗️ Closed issue [#512](https://github.com/Lissy93/dashy/issues/512) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. 🗣 Commented on [#512](https://github.com/Lissy93/dashy/issues/512) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. 🎉 Merged PR [#523](https://github.com/Lissy93/dashy/pull/523) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+9. 🗣 Commented on [#523](https://github.com/Lissy93/dashy/issues/523) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. ❗️ Closed issue [#12](https://github.com/Lissy93/callisto-theme-standard-notes/issues/12) in [Lissy93/callisto-theme-standard-notes](https://github.com/Lissy93/callisto-theme-standard-notes)
 <!--END_SECTION:activity-->
 
 ➡️  [More Activity](/RECENT-ACTIVITY.md)
