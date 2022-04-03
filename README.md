@@ -21,6 +21,7 @@
 </p>
 
 
+<!-- About Section -->
 <details>
   <summary><b>👤 About</b></summary>
     <p>
@@ -46,8 +47,24 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
   </p>
 </details>
   
+  
+<!-- Blog Posts -->
+<details>
+  <summary><b>📰 Latest Blog Posts</b></summary>
+    <p>
+            
+<!-- BLOG-POST-LIST:START -->
 
+<!-- BLOG-POST-LIST:END -->
 
+➡️  [More Posts](/BLOG-POSTS.md)
+
+----
+
+</p>
+</details>
+
+<!-- Recent Activity -->
 <details>
   <summary><b>⚡ Recent Activity</b></summary>
     <p>
@@ -74,8 +91,8 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 </p>
 </details>
 
-  
-  <details>
+<!-- Tech Stack -->  
+<details>
   <summary><b>🛠️ Tech Stack</b></summary>
     <p>
 
