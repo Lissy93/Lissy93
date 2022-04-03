@@ -52,7 +52,10 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <details>
   <summary><b>📰 Latest Blog Posts</b></summary>
     <p>
-            
+       
+<a href="https://notes.aliciasykes.com"><img align="right" width="120" src="https://i.ibb.co/fkpSwVg/liss-bot-round.png" alt="Alicia Sykes Blog" /></a>
+      
+      
 <!-- BLOG-POST-LIST:START -->
 - [One-Line Web Server 🖥️](https://notes.aliciasykes.com/32456/one-line-web-server)
 - [Dashy - A Self-Hosted Home Lab Dashboard 🚀](https://notes.aliciasykes.com/25291/dashy-a-self-hosted-home-lab-dashboard)
