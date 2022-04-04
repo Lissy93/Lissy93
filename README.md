@@ -83,15 +83,15 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#107](https://github.com/Lissy93/personal-security-checklist/issues/107) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-2. 🗣 Commented on [#106](https://github.com/Lissy93/personal-security-checklist/issues/106) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+2. 🗣 Commented on [#107](https://github.com/Lissy93/personal-security-checklist/issues/107) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
 3. 🗣 Commented on [#106](https://github.com/Lissy93/personal-security-checklist/issues/106) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-4. 🎉 Merged PR [#105](https://github.com/Lissy93/personal-security-checklist/pull/105) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-5. ❗️ Closed issue [#580](https://github.com/Lissy93/dashy/issues/580) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. 🗣 Commented on [#580](https://github.com/Lissy93/dashy/issues/580) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. 🎉 Merged PR [#104](https://github.com/Lissy93/personal-security-checklist/pull/104) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-8. 🎉 Merged PR [#102](https://github.com/Lissy93/personal-security-checklist/pull/102) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-9. ❗️ Closed issue [#100](https://github.com/Lissy93/personal-security-checklist/issues/100) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-10. 🎉 Merged PR [#103](https://github.com/Lissy93/personal-security-checklist/pull/103) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+4. 🗣 Commented on [#106](https://github.com/Lissy93/personal-security-checklist/issues/106) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+5. 🎉 Merged PR [#105](https://github.com/Lissy93/personal-security-checklist/pull/105) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+6. ❗️ Closed issue [#580](https://github.com/Lissy93/dashy/issues/580) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. 🗣 Commented on [#580](https://github.com/Lissy93/dashy/issues/580) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. 🎉 Merged PR [#104](https://github.com/Lissy93/personal-security-checklist/pull/104) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+9. 🎉 Merged PR [#102](https://github.com/Lissy93/personal-security-checklist/pull/102) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+10. ❗️ Closed issue [#100](https://github.com/Lissy93/personal-security-checklist/issues/100) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
 <!--END_SECTION:activity-->
 
 ➡️  [More Activity](/RECENT-ACTIVITY.md)
