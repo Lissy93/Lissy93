@@ -1,5 +1,20 @@
 # Recent Activity
 
+* ⬆️ Pushed 20 commits to Lissy93/dashy
+* ⬆️ Pushed 2 commits to Lissy93/personal-security-checklist
+* 🎉 Merged PR #113 in Lissy93/personal-security-checklist
+* 🗣 Commented on #114 in Lissy93/personal-security-checklist
+* ⬆️ Pushed 2 commits to Lissy93/personal-security-checklist
+* 🎉 Merged PR #111 in Lissy93/personal-security-checklist
+* ⬆️ Pushed 2 commits to Lissy93/personal-security-checklist
+* ⬆️ Pushed 1 commit to Lissy93/personal-security-checklist
+* ⬆️ Pushed 1 commit to Lissy93/personal-security-checklist
+* ⬆️ Pushed 1 commit to Lissy93/personal-security-checklist
+* ⬆️ Pushed 1 commit to Lissy93/personal-security-checklist
+* 🎉 Merged PR #110 in Lissy93/personal-security-checklist
+* ⬆️ Pushed 2 commits to Lissy93/personal-security-checklist
+* 🗣 Commented on #107 in Lissy93/personal-security-checklist
+* 🗣 Commented on #107 in Lissy93/personal-security-checklist
 * ❗️ Closed issue #107 in Lissy93/personal-security-checklist
 * 🗣 Commented on #107 in Lissy93/personal-security-checklist
 * ⬆️ Pushed 2 commits to Lissy93/personal-security-checklist
@@ -67,21 +82,3 @@
 * 🗣 Commented on #580 in Lissy93/dashy
 * ❗️ Reopened issue #580 in Lissy93/dashy
 * 🗣 Commented on #579 in Lissy93/dashy
-* ❗️ Reopened issue #522 in Lissy93/dashy
-* 🗣 Commented on #576 in Lissy93/dashy
-* 🗣 Commented on #570 in Lissy93/dashy
-* 🗣 Commented on #568 in Lissy93/dashy
-* 🗣 Commented on #560 in Lissy93/dashy
-* 🗣 Commented on #564 in Lissy93/dashy
-* 🗣 Commented on #552 in Lissy93/dashy
-* 🗣 Commented on #546 in Lissy93/dashy
-* 🗣 Commented on #524 in Lissy93/dashy
-* 🗣 Commented on #522 in Lissy93/dashy
-* 🗣 Commented on #497 in Lissy93/dashy
-* ⬆️ Pushed 1 commit to Lissy93/dashy
-* ⬆️ Pushed 28 commits to Lissy93/dashy
-* ❗️ Closed issue #564 in Lissy93/dashy
-* ❗️ Closed issue #576 in Lissy93/dashy
-* ❗️ Closed issue #560 in Lissy93/dashy
-* ❗️ Closed issue #575 in Lissy93/dashy
-* ❗️ Closed issue #570 in Lissy93/dashy
