@@ -82,16 +82,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <img align='right' width='85' src='https://i.ibb.co/qWWpD0v/astro-dab-128.png' alt='Astro Dab'>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#163](https://github.com/Lissy93/personal-security-checklist/issues/163) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-2. ❗️ Closed issue [#601](https://github.com/Lissy93/dashy/issues/601) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. 🗣 Commented on [#584](https://github.com/Lissy93/dashy/issues/584) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. 🗣 Commented on [#601](https://github.com/Lissy93/dashy/issues/601) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. 🗣 Commented on [#600](https://github.com/Lissy93/dashy/issues/600) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. ❗️ Closed issue [#602](https://github.com/Lissy93/dashy/issues/602) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. 🗣 Commented on [#602](https://github.com/Lissy93/dashy/issues/602) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. ❗️ Closed issue [#163](https://github.com/Lissy93/personal-security-checklist/issues/163) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+2. 🎉 Merged PR [#164](https://github.com/Lissy93/personal-security-checklist/pull/164) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+3. 🗣 Commented on [#603](https://github.com/Lissy93/dashy/issues/603) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. 🗣 Commented on [#163](https://github.com/Lissy93/personal-security-checklist/issues/163) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+5. ❗️ Closed issue [#601](https://github.com/Lissy93/dashy/issues/601) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. 🗣 Commented on [#584](https://github.com/Lissy93/dashy/issues/584) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. 🗣 Commented on [#601](https://github.com/Lissy93/dashy/issues/601) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 8. 🗣 Commented on [#600](https://github.com/Lissy93/dashy/issues/600) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. ❗️ Reopened issue [#600](https://github.com/Lissy93/dashy/issues/600) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. 🗣 Commented on [#581](https://github.com/Lissy93/dashy/issues/581) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+9. ❗️ Closed issue [#602](https://github.com/Lissy93/dashy/issues/602) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. 🗣 Commented on [#602](https://github.com/Lissy93/dashy/issues/602) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 ➡️  [More Activity](/RECENT-ACTIVITY.md)
