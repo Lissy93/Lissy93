@@ -1,5 +1,10 @@
 # Recent Activity
 
+* ⬆️ Pushed 1 commit to Lissy93/personal-security-checklist
+* 🗣 Commented on #140 in Lissy93/personal-security-checklist
+* ⬆️ Pushed 1 commit to Lissy93/personal-security-checklist
+* 🗣 Commented on #543 in Lissy93/dashy
+* 🗣 Commented on #144 in Lissy93/personal-security-checklist
 * ⬆️ Pushed 2 commits to Lissy93/personal-security-checklist
 * 🎉 Merged PR #165 in Lissy93/personal-security-checklist
 * 🗣 Commented on #603 in Lissy93/dashy
@@ -70,6 +75,3 @@
 * ❌ Closed PR #84 in Lissy93/personal-security-checklist
 * ⬆️ Pushed 3 commits to Lissy93/personal-security-checklist
 * 🎉 Merged PR #117 in Lissy93/personal-security-checklist
-* ⬆️ Pushed 1 commit to D0xx249/personal-security-checklist
-* 🗣 Commented on #597 in Lissy93/dashy
-* ⬆️ Pushed 18 commits to Lissy93/personal-security-checklist
