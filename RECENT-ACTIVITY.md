@@ -1,5 +1,16 @@
 # Recent Activity
 
+* ⬆️ Pushed 6 commits to Lissy93/dashy
+* 🗣 Commented on #78 in jamesgeorge007/github-activity-readme
+* 🗣 Commented on #68 in jamesgeorge007/github-activity-readme
+* 💪 Opened PR #79 in jamesgeorge007/github-activity-readme
+* ⬆️ Pushed 1 commit to Lissy93/github-activity-readme
+* 🗣 Commented on #144 in Lissy93/personal-security-checklist
+* 🗣 Commented on #604 in Lissy93/dashy
+* 🗣 Commented on #605 in Lissy93/dashy
+* ❗️ Closed issue #605 in Lissy93/dashy
+* 🗣 Commented on #604 in Lissy93/dashy
+* ❗️ Reopened issue #604 in Lissy93/dashy
 * ⬆️ Pushed 1 commit to Lissy93/personal-security-checklist
 * 🗣 Commented on #140 in Lissy93/personal-security-checklist
 * ⬆️ Pushed 1 commit to Lissy93/personal-security-checklist
@@ -66,12 +77,3 @@
 * 🎉 Merged PR #143 in Lissy93/personal-security-checklist
 * ❗️ Closed issue #597 in Lissy93/dashy
 * 🗣 Commented on #597 in Lissy93/dashy
-* ⬆️ Pushed 1 commit to Lissy93/personal-security-checklist
-* ⬆️ Pushed 2 commits to Lissy93/personal-security-checklist
-* 🗣 Commented on #116 in Lissy93/personal-security-checklist
-* 🗣 Commented on #116 in Lissy93/personal-security-checklist
-* 🗣 Commented on #597 in Lissy93/dashy
-* 🗣 Commented on #133 in Lissy93/personal-security-checklist
-* ❌ Closed PR #84 in Lissy93/personal-security-checklist
-* ⬆️ Pushed 3 commits to Lissy93/personal-security-checklist
-* 🎉 Merged PR #117 in Lissy93/personal-security-checklist
