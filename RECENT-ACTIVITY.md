@@ -1,5 +1,15 @@
 # Recent Activity
 
+* ❗️ Closed issue #172 in Lissy93/personal-security-checklist
+* 🗣 Commented on #172 in Lissy93/personal-security-checklist
+* ⬆️ Pushed 232 commits to Lissy93/personal-security-checklist
+* 🗣 Commented on #171 in Lissy93/personal-security-checklist
+* 🗣 Commented on #170 in Lissy93/personal-security-checklist
+* 🗣 Commented on #169 in Lissy93/personal-security-checklist
+* ❗️ Closed issue #169 in Lissy93/personal-security-checklist
+* ⬆️ Pushed 2 commits to Lissy93/personal-security-checklist
+* 🎉 Merged PR #168 in Lissy93/personal-security-checklist
+* 🗣 Commented on #166 in Lissy93/personal-security-checklist
 * ⬆️ Pushed 6 commits to Lissy93/dashy
 * 🗣 Commented on #78 in jamesgeorge007/github-activity-readme
 * 🗣 Commented on #68 in jamesgeorge007/github-activity-readme
@@ -70,10 +80,3 @@
 * ⬆️ Pushed 2 commits to Lissy93/personal-security-checklist
 * 🎉 Merged PR #149 in Lissy93/personal-security-checklist
 * ⬆️ Pushed 3 commits to Lissy93/personal-security-checklist
-* 🎉 Merged PR #148 in Lissy93/personal-security-checklist
-* ⬆️ Pushed 2 commits to Lissy93/personal-security-checklist
-* 🎉 Merged PR #150 in Lissy93/personal-security-checklist
-* ⬆️ Pushed 2 commits to Lissy93/personal-security-checklist
-* 🎉 Merged PR #143 in Lissy93/personal-security-checklist
-* ❗️ Closed issue #597 in Lissy93/dashy
-* 🗣 Commented on #597 in Lissy93/dashy
