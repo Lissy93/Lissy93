@@ -83,15 +83,15 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#608](https://github.com/Lissy93/dashy/issues/608) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. ❗️ Closed issue [#13](https://github.com/Lissy93/callisto-theme-standard-notes/issues/13) in [Lissy93/callisto-theme-standard-notes](https://github.com/Lissy93/callisto-theme-standard-notes)
-3. 🗣 Commented on [#13](https://github.com/Lissy93/callisto-theme-standard-notes/issues/13) in [Lissy93/callisto-theme-standard-notes](https://github.com/Lissy93/callisto-theme-standard-notes)
-4. 🗣 Commented on [#608](https://github.com/Lissy93/dashy/issues/608) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. 🎉 Merged PR [#177](https://github.com/Lissy93/personal-security-checklist/pull/177) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-6. 🗣 Commented on [#606](https://github.com/Lissy93/dashy/issues/606) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. ❗️ Closed issue [#607](https://github.com/Lissy93/dashy/issues/607) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. 🗣 Commented on [#607](https://github.com/Lissy93/dashy/issues/607) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. 🗣 Commented on [#599](https://github.com/Lissy93/dashy/issues/599) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. 🗣 Commented on [#606](https://github.com/Lissy93/dashy/issues/606) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 🗣 Commented on [#608](https://github.com/Lissy93/dashy/issues/608) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. ❗️ Closed issue [#13](https://github.com/Lissy93/callisto-theme-standard-notes/issues/13) in [Lissy93/callisto-theme-standard-notes](https://github.com/Lissy93/callisto-theme-standard-notes)
+4. 🗣 Commented on [#13](https://github.com/Lissy93/callisto-theme-standard-notes/issues/13) in [Lissy93/callisto-theme-standard-notes](https://github.com/Lissy93/callisto-theme-standard-notes)
+5. 🗣 Commented on [#608](https://github.com/Lissy93/dashy/issues/608) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. 🎉 Merged PR [#177](https://github.com/Lissy93/personal-security-checklist/pull/177) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+7. 🗣 Commented on [#606](https://github.com/Lissy93/dashy/issues/606) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. ❗️ Closed issue [#607](https://github.com/Lissy93/dashy/issues/607) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+9. 🗣 Commented on [#607](https://github.com/Lissy93/dashy/issues/607) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. 🗣 Commented on [#599](https://github.com/Lissy93/dashy/issues/599) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 ➡️  [More Activity](/RECENT-ACTIVITY.md)
