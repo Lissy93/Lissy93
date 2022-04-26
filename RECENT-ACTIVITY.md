@@ -1,5 +1,9 @@
 # Recent Activity
 
+* ❗️ Closed issue #616 in Lissy93/dashy
+* 🗣 Commented on #616 in Lissy93/dashy
+* 🗣 Commented on #616 in Lissy93/dashy
+* ❗️ Reopened issue #616 in Lissy93/dashy
 * ⬆️ Pushed 2 commits to Lissy93/dashy
 * 🎉 Merged PR #615 in Lissy93/dashy
 * ⬆️ Pushed 19 commits to Lissy93/dashy
@@ -78,7 +82,3 @@
 * 🗣 Commented on #600 in Lissy93/dashy
 * ❗️ Reopened issue #600 in Lissy93/dashy
 * 🗣 Commented on #581 in Lissy93/dashy
-* ⬆️ Pushed 1 commit to Lissy93/dashy
-* 🗣 Commented on #139 in Lissy93/personal-security-checklist
-* 🗣 Commented on #140 in Lissy93/personal-security-checklist
-* 🗣 Commented on #140 in Lissy93/personal-security-checklist
