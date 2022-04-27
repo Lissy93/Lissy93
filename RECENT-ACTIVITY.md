@@ -1,5 +1,7 @@
 # Recent Activity
 
+* ⬆️ Pushed 3 commits to Lissy93/dashy
+* ⬆️ Pushed 1 commit to Lissy93/dashy
 * ❗️ Closed issue #616 in Lissy93/dashy
 * 🗣 Commented on #616 in Lissy93/dashy
 * 🗣 Commented on #616 in Lissy93/dashy
@@ -80,5 +82,3 @@
 * ❗️ Closed issue #602 in Lissy93/dashy
 * 🗣 Commented on #602 in Lissy93/dashy
 * 🗣 Commented on #600 in Lissy93/dashy
-* ❗️ Reopened issue #600 in Lissy93/dashy
-* 🗣 Commented on #581 in Lissy93/dashy
