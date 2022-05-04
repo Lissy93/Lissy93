@@ -82,12 +82,12 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <img align='right' width='85' src='https://i.ibb.co/qWWpD0v/astro-dab-128.png' alt='Astro Dab'>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#627](https://github.com/Lissy93/dashy/issues/627) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. ❗️ Reopened issue [#627](https://github.com/Lissy93/dashy/issues/627) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. 🎉 Merged PR [#181](https://github.com/Lissy93/personal-security-checklist/pull/181) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+1. 🗣 Commented on [#629](https://github.com/Lissy93/dashy/issues/629) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 🗣 Commented on [#629](https://github.com/Lissy93/dashy/issues/629) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. ❗️ Reopened issue [#629](https://github.com/Lissy93/dashy/issues/629) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 4. 🗣 Commented on [#627](https://github.com/Lissy93/dashy/issues/627) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. 🗣 Commented on [#628](https://github.com/Lissy93/dashy/issues/628) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. 🗣 Commented on [#627](https://github.com/Lissy93/dashy/issues/627) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. ❗️ Reopened issue [#627](https://github.com/Lissy93/dashy/issues/627) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. 🎉 Merged PR [#181](https://github.com/Lissy93/personal-security-checklist/pull/181) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
 7. 🗣 Commented on [#627](https://github.com/Lissy93/dashy/issues/627) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 8. 🗣 Commented on [#628](https://github.com/Lissy93/dashy/issues/628) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 9. 🗣 Commented on [#627](https://github.com/Lissy93/dashy/issues/627) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
