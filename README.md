@@ -82,16 +82,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <img align='right' width='85' src='https://i.ibb.co/qWWpD0v/astro-dab-128.png' alt='Astro Dab'>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#651](https://github.com/Lissy93/dashy/issues/651) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. 🗣 Commented on [#649](https://github.com/Lissy93/dashy/issues/649) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. 🎉 Merged PR [#184](https://github.com/Lissy93/personal-security-checklist/pull/184) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-4. 🗣 Commented on [#647](https://github.com/Lissy93/dashy/issues/647) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. 🗣 Commented on [#12](https://github.com/help-14/magma/issues/12) in [help-14/magma](https://github.com/help-14/magma)
-6. 🗣 Commented on [#649](https://github.com/Lissy93/dashy/issues/649) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. 🗣 Commented on [#637](https://github.com/Lissy93/dashy/issues/637) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. 🗣 Commented on [#646](https://github.com/Lissy93/dashy/issues/646) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. 🎉 Merged PR [#652](https://github.com/Lissy93/dashy/pull/652) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 🗣 Commented on [#651](https://github.com/Lissy93/dashy/issues/651) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. 🗣 Commented on [#649](https://github.com/Lissy93/dashy/issues/649) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. 🎉 Merged PR [#184](https://github.com/Lissy93/personal-security-checklist/pull/184) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+5. 🗣 Commented on [#647](https://github.com/Lissy93/dashy/issues/647) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. 🗣 Commented on [#12](https://github.com/help-14/magma/issues/12) in [help-14/magma](https://github.com/help-14/magma)
+7. 🗣 Commented on [#649](https://github.com/Lissy93/dashy/issues/649) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. 🗣 Commented on [#637](https://github.com/Lissy93/dashy/issues/637) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 9. 🗣 Commented on [#646](https://github.com/Lissy93/dashy/issues/646) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. ❗️ Reopened issue [#646](https://github.com/Lissy93/dashy/issues/646) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. 🗣 Commented on [#646](https://github.com/Lissy93/dashy/issues/646) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 ➡️  [More Activity](/RECENT-ACTIVITY.md)
