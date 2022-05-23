@@ -1,6 +1,7 @@
 # Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Comparison of Private / Secure Emai Providers 📬](https://notes.aliciasykes.com/35375/comparison-of-private-secure-emai-providers)
 - [One-Line Web Server 🖥️](https://notes.aliciasykes.com/32456/one-line-web-server)
 - [Dashy - A Self-Hosted Home Lab Dashboard 🚀](https://notes.aliciasykes.com/25291/dashy-a-self-hosted-home-lab-dashboard)
 - [Using Espanso to boost Efficiency 🚤](https://notes.aliciasykes.com/25213/using-espanso-to-boost-efficiency)
