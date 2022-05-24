@@ -82,16 +82,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <img align='right' width='85' src='https://i.ibb.co/qWWpD0v/astro-dab-128.png' alt='Astro Dab'>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#186](https://github.com/Lissy93/personal-security-checklist/pull/186) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-2. 🎉 Merged PR [#1](https://github.com/Lissy93/email-comparison/pull/1) in [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison)
-3. 🎉 Merged PR [#671](https://github.com/Lissy93/dashy/pull/671) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. 🗣 Commented on [#670](https://github.com/Lissy93/dashy/issues/670) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. ❗️ Closed issue [#646](https://github.com/Lissy93/dashy/issues/646) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. ❗️ Closed issue [#660](https://github.com/Lissy93/dashy/issues/660) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. ❗️ Closed issue [#657](https://github.com/Lissy93/dashy/issues/657) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. ❗️ Closed issue [#654](https://github.com/Lissy93/dashy/issues/654) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. ❗️ Closed issue [#651](https://github.com/Lissy93/dashy/issues/651) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. ❗️ Closed issue [#645](https://github.com/Lissy93/dashy/issues/645) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. ❌ Closed PR [#673](https://github.com/Lissy93/dashy/pull/673) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 🗣 Commented on [#673](https://github.com/Lissy93/dashy/issues/673) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. 🗣 Commented on [#673](https://github.com/Lissy93/dashy/issues/673) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. 🎉 Merged PR [#186](https://github.com/Lissy93/personal-security-checklist/pull/186) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+5. 🎉 Merged PR [#1](https://github.com/Lissy93/email-comparison/pull/1) in [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison)
+6. 🎉 Merged PR [#671](https://github.com/Lissy93/dashy/pull/671) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. 🗣 Commented on [#670](https://github.com/Lissy93/dashy/issues/670) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. ❗️ Closed issue [#646](https://github.com/Lissy93/dashy/issues/646) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+9. ❗️ Closed issue [#660](https://github.com/Lissy93/dashy/issues/660) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. ❗️ Closed issue [#657](https://github.com/Lissy93/dashy/issues/657) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 ➡️  [More Activity](/RECENT-ACTIVITY.md)
