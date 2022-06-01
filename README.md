@@ -82,16 +82,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <img align='right' width='85' src='https://i.ibb.co/qWWpD0v/astro-dab-128.png' alt='Astro Dab'>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#686](https://github.com/Lissy93/dashy/issues/686) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. 🗣 Commented on [#686](https://github.com/Lissy93/dashy/issues/686) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. ❗️ Reopened issue [#686](https://github.com/Lissy93/dashy/issues/686) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. 💪 Opened PR [#685](https://github.com/Lissy93/dashy/pull/685) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. 🎉 Merged PR [#2](https://github.com/Lissy93/email-comparison/pull/2) in [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison)
-6. 🗣 Commented on [#493](https://github.com/Lissy93/dashy/issues/493) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. 🗣 Commented on [#493](https://github.com/Lissy93/dashy/issues/493) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. 🗣 Commented on [#683](https://github.com/Lissy93/dashy/issues/683) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. 🗣 Commented on [#690](https://github.com/Lissy93/dashy/issues/690) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. ❗️ Reopened issue [#690](https://github.com/Lissy93/dashy/issues/690) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. 🗣 Commented on [#686](https://github.com/Lissy93/dashy/issues/686) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. 🗣 Commented on [#686](https://github.com/Lissy93/dashy/issues/686) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. ❗️ Reopened issue [#686](https://github.com/Lissy93/dashy/issues/686) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. 💪 Opened PR [#685](https://github.com/Lissy93/dashy/pull/685) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. 🎉 Merged PR [#2](https://github.com/Lissy93/email-comparison/pull/2) in [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison)
+8. 🗣 Commented on [#493](https://github.com/Lissy93/dashy/issues/493) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 9. 🗣 Commented on [#493](https://github.com/Lissy93/dashy/issues/493) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. 🎉 Merged PR [#684](https://github.com/Lissy93/dashy/pull/684) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. 🗣 Commented on [#683](https://github.com/Lissy93/dashy/issues/683) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 ➡️  [More Activity](/RECENT-ACTIVITY.md)
