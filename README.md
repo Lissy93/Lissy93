@@ -82,16 +82,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <img align='right' width='85' src='https://i.ibb.co/qWWpD0v/astro-dab-128.png' alt='Astro Dab'>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#456](https://github.com/Lissy93/dashy/issues/456) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. 🗣 Commented on [#713](https://github.com/Lissy93/dashy/issues/713) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. 🗣 Commented on [#151434](https://github.com/microsoft/vscode/issues/151434) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. ❗️ Closed issue [#151434](https://github.com/microsoft/vscode/issues/151434) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. 🗣 Commented on [#616](https://github.com/Lissy93/dashy/issues/616) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. 🗣 Commented on [#709](https://github.com/Lissy93/dashy/issues/709) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. ❌ Closed PR [#712](https://github.com/Lissy93/dashy/pull/712) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. 🎉 Merged PR [#711](https://github.com/Lissy93/dashy/pull/711) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. 🗣 Commented on [#706](https://github.com/Lissy93/dashy/issues/706) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. ❗️ Opened issue [#151434](https://github.com/microsoft/vscode/issues/151434) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 🗣 Commented on [#715](https://github.com/Lissy93/dashy/issues/715) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 🎉 Merged PR [#714](https://github.com/Lissy93/dashy/pull/714) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. 🗣 Commented on [#456](https://github.com/Lissy93/dashy/issues/456) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. 🗣 Commented on [#713](https://github.com/Lissy93/dashy/issues/713) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. 🗣 Commented on [#151434](https://github.com/microsoft/vscode/issues/151434) in [microsoft/vscode](https://github.com/microsoft/vscode)
+6. ❗️ Closed issue [#151434](https://github.com/microsoft/vscode/issues/151434) in [microsoft/vscode](https://github.com/microsoft/vscode)
+7. 🗣 Commented on [#616](https://github.com/Lissy93/dashy/issues/616) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. 🗣 Commented on [#709](https://github.com/Lissy93/dashy/issues/709) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+9. ❌ Closed PR [#712](https://github.com/Lissy93/dashy/pull/712) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. 🎉 Merged PR [#711](https://github.com/Lissy93/dashy/pull/711) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 ➡️  [More Activity](/RECENT-ACTIVITY.md)
