@@ -82,16 +82,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <img align='right' width='85' src='https://i.ibb.co/qWWpD0v/astro-dab-128.png' alt='Astro Dab'>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#722](https://github.com/Lissy93/dashy/issues/722) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. ❗️ Reopened issue [#722](https://github.com/Lissy93/dashy/issues/722) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. 🗣 Commented on [#721](https://github.com/Lissy93/dashy/issues/721) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. ❗️ Opened issue [#3](https://github.com/redkubes/docusaurus-deploy-action/issues/3) in [redkubes/docusaurus-deploy-action](https://github.com/redkubes/docusaurus-deploy-action)
+2. 🗣 Commented on [#722](https://github.com/Lissy93/dashy/issues/722) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. ❗️ Reopened issue [#722](https://github.com/Lissy93/dashy/issues/722) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 4. 🗣 Commented on [#721](https://github.com/Lissy93/dashy/issues/721) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. 🗣 Commented on [#521](https://github.com/Lissy93/dashy/issues/521) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. 🗣 Commented on [#679](https://github.com/Lissy93/dashy/issues/679) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. ❗️ Reopened issue [#679](https://github.com/Lissy93/dashy/issues/679) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. 🗣 Commented on [#3052](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3052) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-9. 🗣 Commented on [#720](https://github.com/Lissy93/dashy/issues/720) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. 🗣 Commented on [#3052](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3052) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+5. 🗣 Commented on [#721](https://github.com/Lissy93/dashy/issues/721) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. 🗣 Commented on [#521](https://github.com/Lissy93/dashy/issues/521) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. 🗣 Commented on [#679](https://github.com/Lissy93/dashy/issues/679) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. ❗️ Reopened issue [#679](https://github.com/Lissy93/dashy/issues/679) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+9. 🗣 Commented on [#3052](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3052) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+10. 🗣 Commented on [#720](https://github.com/Lissy93/dashy/issues/720) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 ➡️  [More Activity](/RECENT-ACTIVITY.md)
