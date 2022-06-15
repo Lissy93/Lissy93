@@ -82,16 +82,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <img align='right' width='85' src='https://i.ibb.co/qWWpD0v/astro-dab-128.png' alt='Astro Dab'>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#682](https://github.com/Lissy93/dashy/issues/682) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. 💪 Opened PR [#734](https://github.com/Lissy93/dashy/pull/734) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 2. 🗣 Commented on [#682](https://github.com/Lissy93/dashy/issues/682) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. 🗣 Commented on [#732](https://github.com/Lissy93/dashy/issues/732) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. 🗣 Commented on [#729](https://github.com/Lissy93/dashy/issues/729) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. 💪 Opened PR [#730](https://github.com/Lissy93/dashy/pull/730) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. 🗣 Commented on [#727](https://github.com/Lissy93/dashy/issues/727) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. 🗣 Commented on [#682](https://github.com/Lissy93/dashy/issues/682) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. 🗣 Commented on [#732](https://github.com/Lissy93/dashy/issues/732) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. 🗣 Commented on [#729](https://github.com/Lissy93/dashy/issues/729) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. 💪 Opened PR [#730](https://github.com/Lissy93/dashy/pull/730) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 7. 🗣 Commented on [#727](https://github.com/Lissy93/dashy/issues/727) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 8. 🗣 Commented on [#727](https://github.com/Lissy93/dashy/issues/727) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 9. 🗣 Commented on [#727](https://github.com/Lissy93/dashy/issues/727) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. ❗️ Closed issue [#727](https://github.com/Lissy93/dashy/issues/727) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. 🗣 Commented on [#727](https://github.com/Lissy93/dashy/issues/727) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 ➡️  [More Activity](/RECENT-ACTIVITY.md)
