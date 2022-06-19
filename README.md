@@ -82,16 +82,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <img align='right' width='85' src='https://i.ibb.co/qWWpD0v/astro-dab-128.png' alt='Astro Dab'>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#741](https://github.com/Lissy93/dashy/pull/741) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. 🗣 Commented on [#740](https://github.com/Lissy93/dashy/issues/740) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. 💪 Opened PR [#738](https://github.com/Lissy93/dashy/pull/738) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. 🗣 Commented on [#2911](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/2911) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-5. 🗣 Commented on [#735](https://github.com/Lissy93/dashy/issues/735) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. ❌ Closed PR [#3052](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3052) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-7. 🗣 Commented on [#3052](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3052) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-8. 🗣 Commented on [#3052](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3052) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-9. 🗣 Commented on [#3060](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3060) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-10. 💪 Opened PR [#734](https://github.com/Lissy93/dashy/pull/734) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. 🗣 Commented on [#1067](https://github.com/federico-terzi/espanso/issues/1067) in [federico-terzi/espanso](https://github.com/federico-terzi/espanso)
+2. 🗣 Commented on [#191](https://github.com/Lissy93/personal-security-checklist/issues/191) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+3. 🎉 Merged PR [#741](https://github.com/Lissy93/dashy/pull/741) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. 🗣 Commented on [#740](https://github.com/Lissy93/dashy/issues/740) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. 💪 Opened PR [#738](https://github.com/Lissy93/dashy/pull/738) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. 🗣 Commented on [#2911](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/2911) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+7. 🗣 Commented on [#735](https://github.com/Lissy93/dashy/issues/735) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. ❌ Closed PR [#3052](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3052) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+9. 🗣 Commented on [#3052](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3052) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+10. 🗣 Commented on [#3052](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3052) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 <!--END_SECTION:activity-->
 
 ➡️  [More Activity](/RECENT-ACTIVITY.md)
