@@ -82,16 +82,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <img align='right' width='85' src='https://i.ibb.co/qWWpD0v/astro-dab-128.png' alt='Astro Dab'>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#735](https://github.com/Lissy93/dashy/issues/735) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. 🎉 Merged PR [#740](https://github.com/Lissy93/dashy/pull/740) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. 🎉 Merged PR [#1](https://github.com/Lissy93/go-apod/pull/1) in [Lissy93/go-apod](https://github.com/Lissy93/go-apod)
-4. ❗️ Closed issue [#191](https://github.com/Lissy93/personal-security-checklist/issues/191) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-5. 🗣 Commented on [#191](https://github.com/Lissy93/personal-security-checklist/issues/191) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-6. 🎉 Merged PR [#192](https://github.com/Lissy93/personal-security-checklist/pull/192) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-7. 🎉 Merged PR [#193](https://github.com/Lissy93/personal-security-checklist/pull/193) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-8. 🗣 Commented on [#191](https://github.com/Lissy93/personal-security-checklist/issues/191) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-9. 🗣 Commented on [#1067](https://github.com/federico-terzi/espanso/issues/1067) in [federico-terzi/espanso](https://github.com/federico-terzi/espanso)
-10. 🗣 Commented on [#191](https://github.com/Lissy93/personal-security-checklist/issues/191) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+1. 🗣 Commented on [#731](https://github.com/Lissy93/dashy/issues/731) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 🗣 Commented on [#735](https://github.com/Lissy93/dashy/issues/735) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. 🎉 Merged PR [#740](https://github.com/Lissy93/dashy/pull/740) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. 🎉 Merged PR [#1](https://github.com/Lissy93/go-apod/pull/1) in [Lissy93/go-apod](https://github.com/Lissy93/go-apod)
+5. ❗️ Closed issue [#191](https://github.com/Lissy93/personal-security-checklist/issues/191) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+6. 🗣 Commented on [#191](https://github.com/Lissy93/personal-security-checklist/issues/191) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+7. 🎉 Merged PR [#192](https://github.com/Lissy93/personal-security-checklist/pull/192) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+8. 🎉 Merged PR [#193](https://github.com/Lissy93/personal-security-checklist/pull/193) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+9. 🗣 Commented on [#191](https://github.com/Lissy93/personal-security-checklist/issues/191) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+10. 🗣 Commented on [#1067](https://github.com/federico-terzi/espanso/issues/1067) in [federico-terzi/espanso](https://github.com/federico-terzi/espanso)
 <!--END_SECTION:activity-->
 
 ➡️  [More Activity](/RECENT-ACTIVITY.md)
