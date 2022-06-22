@@ -82,16 +82,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <img align='right' width='85' src='https://i.ibb.co/qWWpD0v/astro-dab-128.png' alt='Astro Dab'>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#747](https://github.com/Lissy93/dashy/issues/747) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. ❗️ Reopened issue [#744](https://github.com/Lissy93/dashy/issues/744) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. ❗️ Closed issue [#744](https://github.com/Lissy93/dashy/issues/744) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. 🗣 Commented on [#744](https://github.com/Lissy93/dashy/issues/744) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. 🗣 Commented on [#748](https://github.com/Lissy93/dashy/issues/748) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 🗣 Commented on [#747](https://github.com/Lissy93/dashy/issues/747) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. ❗️ Reopened issue [#744](https://github.com/Lissy93/dashy/issues/744) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. ❗️ Closed issue [#744](https://github.com/Lissy93/dashy/issues/744) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 5. 🗣 Commented on [#744](https://github.com/Lissy93/dashy/issues/744) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. 🗣 Commented on [#11](https://github.com/PawelPleskaczynski/apod_api/issues/11) in [PawelPleskaczynski/apod_api](https://github.com/PawelPleskaczynski/apod_api)
-7. ❗️ Closed issue [#735](https://github.com/Lissy93/dashy/issues/735) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. 🎉 Merged PR [#745](https://github.com/Lissy93/dashy/pull/745) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. 🗣 Commented on [#731](https://github.com/Lissy93/dashy/issues/731) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. 🗣 Commented on [#735](https://github.com/Lissy93/dashy/issues/735) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. 🗣 Commented on [#744](https://github.com/Lissy93/dashy/issues/744) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. 🗣 Commented on [#11](https://github.com/PawelPleskaczynski/apod_api/issues/11) in [PawelPleskaczynski/apod_api](https://github.com/PawelPleskaczynski/apod_api)
+8. ❗️ Closed issue [#735](https://github.com/Lissy93/dashy/issues/735) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+9. 🎉 Merged PR [#745](https://github.com/Lissy93/dashy/pull/745) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. 🗣 Commented on [#731](https://github.com/Lissy93/dashy/issues/731) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 ➡️  [More Activity](/RECENT-ACTIVITY.md)
