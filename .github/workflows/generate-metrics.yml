@@ -53,6 +53,34 @@ jobs:
           plugin_sponsors: yes
           plugin_sponsors_sections: goal, list, about
           plugin_sponsors_size: 24
+  shorter-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: assets/shorter-metrics.svg
+          user: Lissy93
+          template: classic
+          base: activity, community, repositories
+          config_timezone: Europe/London
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_size: 28
+          plugin_people_types: followers, following
+          plugin_sponsors: yes
+          plugin_sponsors_past: yes
+          plugin_sponsors_sections: list
+          plugin_sponsors_size: 28
+          plugin_support: yes
+        
   sponsor-metrics:
     runs-on: ubuntu-latest
     permissions:
