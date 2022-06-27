@@ -50,15 +50,14 @@ jobs:
           plugin_reactions_limit_discussions: 100
           plugin_reactions_limit_discussions_comments: 100
           plugin_reactions_limit_issues: 100
-          plugin_repositories: yes
           plugin_sponsors: yes
-          plugin_sponsors_sections: goal, list, about
+          plugin_sponsors_sections: goal, list
           plugin_sponsors_size: 24
           plugin_traffic: yes
           plugin_gists: yes
           plugin_discussions: yes
 
-  # Main Metrics
+  # Main Metrics - Short
   shorter-metrics:
     runs-on: ubuntu-latest
     permissions:
@@ -88,6 +87,9 @@ jobs:
           plugin_traffic: yes
           plugin_lines: yes
           plugin_discussions: yes
+          plugin_discussions_categories: no
+          plugin_stargazers: yes
+          plugin_stargazers_charts_type: chartist
         
   # Sponsors Card
   sponsor-metrics:
@@ -127,7 +129,7 @@ jobs:
           plugin_calendar_limit: 10
   
   # Ticket (Issue + PR) Follow Ups
-  license-metrics:
+  ticket-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -188,7 +190,7 @@ jobs:
           filename: assets/metrics/activity.svg
           base: ""
           plugin_activity: yes
-          plugin_activity_limit: 10
+          plugin_activity_limit: 15
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, review, ref/create, public
 
@@ -203,6 +205,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics/repositories.svg
           base: ""
+          plugin_repositories: yes
           plugin_repositories_featured: >-
             lissy93/dashy, lissy93/personal-security-checklist, lissy93/go-apod, lissy93/dotfiles,
             lissy93/email-comparison, lissy93/awesome-selfhosted, lissy93/docker-tcpdump,
@@ -221,6 +224,7 @@ jobs:
         with:
           filename: assets/metrics/stackoverflow.svg
           base: ""
+          token: ${{ secrets.METRICS_TOKEN }}
           plugin_stackoverflow: yes
           plugin_stackoverflow_user: 979052
           plugin_stackoverflow_sections: answers-top
@@ -236,6 +240,7 @@ jobs:
         with:
           filename: assets/metrics/twitter.svg
           base: ""
+          token: ${{ secrets.METRICS_TOKEN }}
           plugin_tweets: yes
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugin_tweets_attachments: yes
@@ -252,6 +257,7 @@ jobs:
         with:
           filename: assets/metrics/blog-posts.svg
           base: ""
+          token: ${{ secrets.METRICS_TOKEN }}
           plugin_rss: yes
           plugin_rss_source: https://notes.aliciasykes.com/feed
           plugin_rss_limit: 8
@@ -266,6 +272,7 @@ jobs:
         with:
           filename: assets/metrics/wakatime.svg
           base: ""
+          token: ${{ secrets.METRICS_TOKEN }}
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_user: liss
