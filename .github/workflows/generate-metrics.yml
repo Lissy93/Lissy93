@@ -76,20 +76,10 @@ jobs:
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 200
-          plugin_people: yes
-          plugin_people_limit: 24
-          plugin_people_size: 28
-          plugin_people_types: followers, following
-          plugin_sponsors: yes
-          plugin_sponsors_past: yes
-          plugin_sponsors_sections: list
-          plugin_sponsors_size: 28
           plugin_traffic: yes
           plugin_lines: yes
           plugin_discussions: yes
           plugin_discussions_categories: no
-          plugin_stargazers: yes
-          plugin_stargazers_charts_type: chartist
         
   # Sponsors Card
   sponsor-metrics:

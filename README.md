@@ -67,7 +67,7 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 - [Pimping up Your DuckDuckGo Search Results 💄](https://notes.aliciasykes.com/23054/pimping-up-your-duckduckgo-search-results)
 <!-- BLOG-POST-LIST:END -->
 
-➡️  [More Posts](/BLOG-POSTS.md)
+➡️  **[More Posts](/BLOG-POSTS.md)**
 
 ----
 
@@ -79,7 +79,7 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
   <summary><b>⚡ Recent Activity</b></summary>
     <p>
             
-<img align='right' width='85' src='https://i.ibb.co/qWWpD0v/astro-dab-128.png' alt='Astro Dab'>
+<img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#767](https://github.com/Lissy93/dashy/pull/767) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
@@ -94,7 +94,7 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 10. 🗣 Commented on [#374](https://github.com/pawelmalak/flame/issues/374) in [pawelmalak/flame](https://github.com/pawelmalak/flame)
 <!--END_SECTION:activity-->
 
-➡️  [More Activity](/RECENT-ACTIVITY.md)
+➡️  **[More Activity](/RECENT-ACTIVITY.md)**
 
 ----
 
@@ -124,7 +124,24 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
   </p>
 </details>
   
-  
+
+
+<!-- Metrics -->
+<details>
+  <summary><b>📊 Metrics</b></summary>
+    <p>
+
+
+[<img align='left' src='https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/summary.svg' alt='Metrics'>](https://github.com/Lissy93/Lissy93/blob/master/METRICS.md)
+[<img align='right' src='https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/stargazers.svg' alt='Metrics'>](https://github.com/Lissy93/Lissy93/blob/master/METRICS.md)
+
+<br>
+
+➡️  **[More Metrics](/METRICS.md)**
+
+</p>
+</details>
+
 
 
 
