@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="892" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1285" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.label{background-color:#58a6ff30;color:#0366d6;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.label .label-right,.label.label-flex{display:flex;align-items:center}.label .label-right{font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.label,.people{padding:0 10px}.people .avatar{margin:0 2px}.sponsors{white-space:normal;margin:0 13px 2px}.sponsors.goal,code,span.code{padding:6px 8px;border-radius:5px;background-color:#7777771f}.sponsors .goal-text,.sponsors .past-text{display:flex;justify-content:space-between;font-style:italic;font-size:12px}.sponsors .goal-text{margin-bottom:4px}.sponsors .past-text{margin:8px 0 2px}.sponsors .avatar{margin:2px}code,span.code{padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code{display:inline-block}span.code{margin:0 4px -3px}.gemoji{height:1em;width:1em;margin-bottom:-.125em}.label-flex .gemoji{margin-right:.25rem}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart{padding:0 8px}.people{padding:0 10px}.people .avatar{margin:0 2px}.sponsors{white-space:normal;margin:0 13px 2px}.sponsors.goal,code,span.code{padding:6px 8px;border-radius:5px;background-color:#7777771f}.sponsors .goal-text,.sponsors .past-text{display:flex;justify-content:space-between;font-style:italic;font-size:12px}.sponsors .goal-text{margin-bottom:4px}.sponsors .past-text{margin:8px 0 2px}.sponsors .avatar{margin:2px}code,span.code{padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code{display:inline-block}span.code{margin:0 4px -3px}.ct-chart{display:flex;margin-left:-12px}.ct-line,.ct-point{stroke-width:2px!important;stroke:#58a6ff!important}.ct-point{stroke:#106cbc!important}.ct-area{fill:#58a6ff!important}.ct-label{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important}.ct-label.ct-horizontal{text-anchor:middle!important}.ct-grid{stroke:rgba(127,127,127,.4)!important}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}.ct-label{font-size:.75rem;line-height:1}.ct-line{fill:none}.ct-chart-line .ct-label{display:block;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex}.ct-label.ct-horizontal.ct-end,.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-start;-webkit-align-items:flex-start;-ms-flex-align:flex-start;align-items:flex-start;-webkit-box-pack:flex-start;-webkit-justify-content:flex-start;-ms-flex-pack:flex-start;justify-content:flex-start;text-align:left;text-anchor:start}.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-end;-webkit-align-items:flex-end;-ms-flex-align:flex-end;align-items:flex-end}.ct-grid{stroke-width:1px;stroke-dasharray:2px}.ct-point{stroke-linecap:round}.ct-line{}.ct-area{stroke:none;fill-opacity:.1}.ct-legend{margin-top:1em}.ct-series-a .ct-line,.ct-series-a .ct-point{background-color:#87ceeb;stroke:#87ceeb}.ct-series-a .ct-area{fill:#87ceeb}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            216678 Commits
+                            216679 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -203,19 +203,6 @@
                         </div>
                     </section>
                 </div>
-                <div class="row fill-width">
-                    <section>
-                        <div class="field wrap">
-                            <div class="label label-flex">🚀 Releases <div class="label-right">5</div></div>
-                            <div class="label label-flex">📣 Announcements <div class="label-right">3</div></div>
-                            <div class="label label-flex">💣 Breaking Change <div class="label-right">2</div></div>
-                            <div class="label label-flex">🔥 Hot Tips <div class="label-right">1</div></div>
-                            <div class="label label-flex"><img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> Project Updates <div class="label-right">1</div></div>
-                            <div class="label label-flex">💡 Ideas <div class="label-right">1</div></div>
-                            <div class="label label-flex">💬 General <div class="label-right">1</div></div>
-                        </div>
-                    </section>
-                </div>
             </section>
             <section class="habits">
                 <h2 class="field wrap">
@@ -230,6 +217,122 @@
                         <li>Mostly pushes code around 17:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
+                </div>
+            </section>
+            <section class="stargazers">
+                <h2 class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                    </svg>
+                    Stargazers over the last two weeks
+                </h2>
+                <div class="row margin-bottom">
+                    <section class="column chart chartist">
+                        <h3>Total stargazers</h3>
+                        <div class="ct-chart">
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="480" height="160" class="ct-chart-line">
+                                <!-- (optimized css) -->
+                                <g class="ct-grids">
+                                    <line y1="125" y2="125" x1="30" x2="465" class="ct-grid ct-vertical"/>
+                                    <line y1="97.5" y2="97.5" x1="30" x2="465" class="ct-grid ct-vertical"/>
+                                    <line y1="70" y2="70" x1="30" x2="465" class="ct-grid ct-vertical"/>
+                                    <line y1="42.5" y2="42.5" x1="30" x2="465" class="ct-grid ct-vertical"/>
+                                    <line y1="15" y2="15" x1="30" x2="465" class="ct-grid ct-vertical"/>
+                                </g>
+                                <g>
+                                    <g class="ct-series ct-series-a">
+                                        <path d="M30,125L30,119.5C41.154,116.292,52.308,112.485,63.462,109.875C74.615,107.265,85.769,105.302,96.923,103.275C108.077,101.248,119.231,99.645,130.385,97.638C141.538,95.63,152.692,93.707,163.846,91.175C175,88.643,186.154,85.206,197.308,81.963C208.462,78.719,219.615,74.648,230.769,71.65C241.923,68.652,253.077,66.055,264.231,63.675C275.385,61.295,286.538,59.475,297.692,57.213C308.846,54.95,320,52.375,331.154,50.063C342.308,47.75,353.462,45.616,364.615,43.325C375.769,41.034,386.923,38.932,398.077,36.313C409.231,33.693,420.385,29.381,431.538,27.375C442.692,25.369,453.846,24.35,465,22.838L465,125Z" class="ct-area"/>
+                                        <path d="M30,119.5C41.154,116.292,52.308,112.485,63.462,109.875C74.615,107.265,85.769,105.302,96.923,103.275C108.077,101.248,119.231,99.645,130.385,97.638C141.538,95.63,152.692,93.707,163.846,91.175C175,88.643,186.154,85.206,197.308,81.963C208.462,78.719,219.615,74.648,230.769,71.65C241.923,68.652,253.077,66.055,264.231,63.675C275.385,61.295,286.538,59.475,297.692,57.213C308.846,54.95,320,52.375,331.154,50.063C342.308,47.75,353.462,45.616,364.615,43.325C375.769,41.034,386.923,38.932,398.077,36.313C409.231,33.693,420.385,29.381,431.538,27.375C442.692,25.369,453.846,24.35,465,22.838" class="ct-line"/>
+                                        <line x1="30" y1="119.5" x2="30.01" y2="119.5" class="ct-point" ct:value="14440"/>
+                                        <line x1="63.46153846153846" y1="109.875" x2="63.47153846153846" y2="109.875" class="ct-point" ct:value="14510"/>
+                                        <line x1="96.92307692307692" y1="103.275" x2="96.93307692307692" y2="103.275" class="ct-point" ct:value="14558"/>
+                                        <line x1="130.3846153846154" y1="97.6375" x2="130.39461538461538" y2="97.6375" class="ct-point" ct:value="14599"/>
+                                        <line x1="163.84615384615384" y1="91.175" x2="163.85615384615383" y2="91.175" class="ct-point" ct:value="14646"/>
+                                        <line x1="197.3076923076923" y1="81.9625" x2="197.31769230769228" y2="81.9625" class="ct-point" ct:value="14713"/>
+                                        <line x1="230.76923076923077" y1="71.65" x2="230.77923076923076" y2="71.65" class="ct-point" ct:value="14788"/>
+                                        <line x1="264.2307692307692" y1="63.675" x2="264.2407692307692" y2="63.675" class="ct-point" ct:value="14846"/>
+                                        <line x1="297.6923076923077" y1="57.212500000000006" x2="297.70230769230767" y2="57.212500000000006" class="ct-point" ct:value="14893"/>
+                                        <line x1="331.15384615384613" y1="50.0625" x2="331.1638461538461" y2="50.0625" class="ct-point" ct:value="14945"/>
+                                        <line x1="364.6153846153846" y1="43.325" x2="364.6253846153846" y2="43.325" class="ct-point" ct:value="14994"/>
+                                        <line x1="398.07692307692304" y1="36.3125" x2="398.08692307692303" y2="36.3125" class="ct-point" ct:value="15045"/>
+                                        <line x1="431.53846153846155" y1="27.375" x2="431.54846153846154" y2="27.375" class="ct-point" ct:value="15110"/>
+                                        <line x1="465" y1="22.837500000000006" x2="465.01" y2="22.837500000000006" class="ct-point" ct:value="15143"/>
+                                    <text x="30" y="114.5" class="ct-post">14.4k</text><text x="63.46153846153846" y="104.875" class="ct-post">14.5k</text><text x="96.92307692307692" y="98.275" class="ct-post">14.5k</text><text x="130.3846153846154" y="92.6375" class="ct-post">14.6k</text><text x="163.84615384615384" y="86.175" class="ct-post">14.6k</text><text x="197.3076923076923" y="76.9625" class="ct-post">14.7k</text><text x="230.76923076923077" y="66.65" class="ct-post">14.7k</text><text x="264.2307692307692" y="58.675" class="ct-post">14.8k</text><text x="297.6923076923077" y="52.212500000000006" class="ct-post">14.8k</text><text x="331.15384615384613" y="45.0625" class="ct-post">14.9k</text><text x="364.6153846153846" y="38.325" class="ct-post">14.9k</text><text x="398.07692307692304" y="31.3125" class="ct-post">15k</text><text x="431.53846153846155" y="22.375" class="ct-post">15.1k</text><text x="465" y="17.837500000000006" class="ct-post">15.1k</text></g>
+                                </g>
+                                <g class="ct-labels">
+                                    <text x="30" y="145" width="33.46153846153846" height="20" class="ct-label ct-horizontal ct-end">14 June</text>
+                                    <text x="63.46153846153846" y="145" width="33.46153846153846" height="20" class="ct-label ct-horizontal ct-end">15</text>
+                                    <text x="96.92307692307692" y="145" width="33.46153846153847" height="20" class="ct-label ct-horizontal ct-end">16</text>
+                                    <text x="130.3846153846154" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">17</text>
+                                    <text x="163.84615384615384" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">18</text>
+                                    <text x="197.3076923076923" y="145" width="33.46153846153848" height="20" class="ct-label ct-horizontal ct-end">19</text>
+                                    <text x="230.76923076923077" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">20</text>
+                                    <text x="264.2307692307692" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">21</text>
+                                    <text x="297.6923076923077" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">22</text>
+                                    <text x="331.15384615384613" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">23</text>
+                                    <text x="364.6153846153846" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">24</text>
+                                    <text x="398.07692307692304" y="145" width="33.46153846153851" height="20" class="ct-label ct-horizontal ct-end">25</text>
+                                    <text x="431.53846153846155" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">26</text>
+                                    <text x="465" y="145" width="30" height="20" class="ct-label ct-horizontal ct-end">27</text>
+                                </g>
+                            </svg>
+                            <div class="ct-legend">
+                            </div>
+                        </div>
+                    </section>
+                    <section class="column chart chartist">
+                        <h3>New stargazers per day</h3>
+                        <div class="ct-chart">
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="480" height="160" class="ct-chart-line">
+                                <!-- (optimized css) -->
+                                <g class="ct-grids">
+                                    <line y1="125" y2="125" x1="30" x2="465" class="ct-grid ct-vertical"/>
+                                    <line y1="97.5" y2="97.5" x1="30" x2="465" class="ct-grid ct-vertical"/>
+                                    <line y1="70" y2="70" x1="30" x2="465" class="ct-grid ct-vertical"/>
+                                    <line y1="42.5" y2="42.5" x1="30" x2="465" class="ct-grid ct-vertical"/>
+                                    <line y1="15" y2="15" x1="30" x2="465" class="ct-grid ct-vertical"/>
+                                </g>
+                                <g>
+                                    <g class="ct-series ct-series-a">
+                                        <path d="M30,125L30,27.1C41.154,46.9,52.308,79.798,63.462,86.5C74.615,93.202,85.769,96.653,96.923,98.6C108.077,100.547,119.231,102.45,130.385,102.45C141.538,102.45,152.692,100.842,163.846,99.15C175,97.458,186.154,90.245,197.308,88.15C208.462,86.055,219.615,83.75,230.769,83.75C241.923,83.75,253.077,90.651,264.231,93.1C275.385,95.549,286.538,99.15,297.692,99.15C308.846,99.15,320,96.4,331.154,96.4C342.308,96.4,353.462,98.05,364.615,98.05C375.769,98.05,386.923,97.592,398.077,96.95C409.231,96.308,420.385,89.25,431.538,89.25C442.692,89.25,453.846,100.983,465,106.85L465,125Z" class="ct-area"/>
+                                        <path d="M30,27.1C41.154,46.9,52.308,79.798,63.462,86.5C74.615,93.202,85.769,96.653,96.923,98.6C108.077,100.547,119.231,102.45,130.385,102.45C141.538,102.45,152.692,100.842,163.846,99.15C175,97.458,186.154,90.245,197.308,88.15C208.462,86.055,219.615,83.75,230.769,83.75C241.923,83.75,253.077,90.651,264.231,93.1C275.385,95.549,286.538,99.15,297.692,99.15C308.846,99.15,320,96.4,331.154,96.4C342.308,96.4,353.462,98.05,364.615,98.05C375.769,98.05,386.923,97.592,398.077,96.95C409.231,96.308,420.385,89.25,431.538,89.25C442.692,89.25,453.846,100.983,465,106.85" class="ct-line"/>
+                                        <line x1="30" y1="27.099999999999994" x2="30.01" y2="27.099999999999994" class="ct-point" ct:value="178"/>
+                                        <line x1="63.46153846153846" y1="86.5" x2="63.47153846153846" y2="86.5" class="ct-point" ct:value="70"/>
+                                        <line x1="96.92307692307692" y1="98.6" x2="96.93307692307692" y2="98.6" class="ct-point" ct:value="48"/>
+                                        <line x1="130.3846153846154" y1="102.45" x2="130.39461538461538" y2="102.45" class="ct-point" ct:value="41"/>
+                                        <line x1="163.84615384615384" y1="99.15" x2="163.85615384615383" y2="99.15" class="ct-point" ct:value="47"/>
+                                        <line x1="197.3076923076923" y1="88.15" x2="197.31769230769228" y2="88.15" class="ct-point" ct:value="67"/>
+                                        <line x1="230.76923076923077" y1="83.75" x2="230.77923076923076" y2="83.75" class="ct-point" ct:value="75"/>
+                                        <line x1="264.2307692307692" y1="93.1" x2="264.2407692307692" y2="93.1" class="ct-point" ct:value="58"/>
+                                        <line x1="297.6923076923077" y1="99.15" x2="297.70230769230767" y2="99.15" class="ct-point" ct:value="47"/>
+                                        <line x1="331.15384615384613" y1="96.4" x2="331.1638461538461" y2="96.4" class="ct-point" ct:value="52"/>
+                                        <line x1="364.6153846153846" y1="98.05" x2="364.6253846153846" y2="98.05" class="ct-point" ct:value="49"/>
+                                        <line x1="398.07692307692304" y1="96.95" x2="398.08692307692303" y2="96.95" class="ct-point" ct:value="51"/>
+                                        <line x1="431.53846153846155" y1="89.25" x2="431.54846153846154" y2="89.25" class="ct-point" ct:value="65"/>
+                                        <line x1="465" y1="106.85" x2="465.01" y2="106.85" class="ct-point" ct:value="33"/>
+                                    <text x="30" y="22.099999999999994" class="ct-post">+178</text><text x="63.46153846153846" y="81.5" class="ct-post">+70</text><text x="96.92307692307692" y="93.6" class="ct-post">+48</text><text x="130.3846153846154" y="97.45" class="ct-post">+41</text><text x="163.84615384615384" y="94.15" class="ct-post">+47</text><text x="197.3076923076923" y="83.15" class="ct-post">+67</text><text x="230.76923076923077" y="78.75" class="ct-post">+75</text><text x="264.2307692307692" y="88.1" class="ct-post">+58</text><text x="297.6923076923077" y="94.15" class="ct-post">+47</text><text x="331.15384615384613" y="91.4" class="ct-post">+52</text><text x="364.6153846153846" y="93.05" class="ct-post">+49</text><text x="398.07692307692304" y="91.95" class="ct-post">+51</text><text x="431.53846153846155" y="84.25" class="ct-post">+65</text><text x="465" y="101.85" class="ct-post">+33</text></g>
+                                </g>
+                                <g class="ct-labels">
+                                    <text x="30" y="145" width="33.46153846153846" height="20" class="ct-label ct-horizontal ct-end">14 June</text>
+                                    <text x="63.46153846153846" y="145" width="33.46153846153846" height="20" class="ct-label ct-horizontal ct-end">15</text>
+                                    <text x="96.92307692307692" y="145" width="33.46153846153847" height="20" class="ct-label ct-horizontal ct-end">16</text>
+                                    <text x="130.3846153846154" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">17</text>
+                                    <text x="163.84615384615384" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">18</text>
+                                    <text x="197.3076923076923" y="145" width="33.46153846153848" height="20" class="ct-label ct-horizontal ct-end">19</text>
+                                    <text x="230.76923076923077" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">20</text>
+                                    <text x="264.2307692307692" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">21</text>
+                                    <text x="297.6923076923077" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">22</text>
+                                    <text x="331.15384615384613" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">23</text>
+                                    <text x="364.6153846153846" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">24</text>
+                                    <text x="398.07692307692304" y="145" width="33.46153846153851" height="20" class="ct-label ct-horizontal ct-end">25</text>
+                                    <text x="431.53846153846155" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">26</text>
+                                    <text x="465" y="145" width="30" height="20" class="ct-label ct-horizontal ct-end">27</text>
+                                </g>
+                            </svg>
+                            <div class="ct-legend">
+                            </div>
+                        </div>
+                    </section>
                 </div>
             </section>
             <section>
