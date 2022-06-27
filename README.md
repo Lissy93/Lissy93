@@ -131,13 +131,12 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
   <summary><b>📊 Metrics</b></summary>
     <p>
 
+**[➡️ More Metrics](/METRICS.md)**
 
-[<img align='left' src='https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/summary.svg' alt='Metrics'>](https://github.com/Lissy93/Lissy93/blob/master/METRICS.md)
-[<img align='right' src='https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/stargazers.svg' alt='Metrics'>](https://github.com/Lissy93/Lissy93/blob/master/METRICS.md)
+[<img align='left' width='370' src='https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/summary.svg' alt='Metrics'>](https://github.com/Lissy93/Lissy93/blob/master/METRICS.md)
+[<img align='right' width='370' src='https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/stargazers.svg' alt='Metrics'>](https://github.com/Lissy93/Lissy93/blob/master/METRICS.md)
 
-<br>
 
-➡️  **[More Metrics](/METRICS.md)**
 
 </p>
 </details>
