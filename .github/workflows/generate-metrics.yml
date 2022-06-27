@@ -15,7 +15,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: assets/all-metrics.svg
+          filename: assets/metrics/all.svg
           # Options
           user: Lissy93
           template: classic
@@ -56,6 +56,7 @@ jobs:
           plugin_sponsors_size: 24
           plugin_traffic: yes
           plugin_gists: yes
+          plugin_discussions: yes
 
   # Main Metrics
   shorter-metrics:
@@ -66,7 +67,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: assets/shorter-metrics.svg
+          filename: assets/metrics/summary.svg
           user: Lissy93
           template: classic
           base: activity, community, repositories
@@ -85,6 +86,8 @@ jobs:
           plugin_sponsors_sections: list
           plugin_sponsors_size: 28
           plugin_traffic: yes
+          plugin_lines: yes
+          plugin_discussions: yes
         
   # Sponsors Card
   sponsor-metrics:
@@ -95,7 +98,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: assets/sponsor-metrics.svg
+          filename: assets/metrics/sponsors.svg
           # Options
           user: Lissy93
           template: classic
@@ -115,7 +118,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: assets/historical-contributions-metrics.svg
+          filename: assets/metrics/contributions.svg
           user: Lissy93
           template: classic
           base: ""
@@ -123,7 +126,7 @@ jobs:
           plugin_calendar: yes
           plugin_calendar_limit: 10
   
-  # Repository Licenses
+  # Ticket (Issue + PR) Follow Ups
   license-metrics:
     runs-on: ubuntu-latest
     permissions:
@@ -132,15 +135,10 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: assets/license-metrics.svg
-          user: Lissy93
+          filename: assets/metrics/tickets.svg
           base: ""
-          template: repository
-          repo: metrics
-          plugin_licenses: yes
-          plugin_licenses_setup: npm ci
-          plugin_licenses_legal: no
-          plugin_licenses_ratio: yes
+          plugin_followup: yes
+          plugin_followup_indepth: yes
 
   
   # Coding Habits
@@ -152,7 +150,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: assets/coding-habits-metrics.svg
+          filename: assets/metrics/habits.svg
           user: Lissy93
           base: ""
           plugin_habits: yes
@@ -162,3 +160,113 @@ jobs:
           plugin_habits_days: 28
           plugin_habits_from: 500
           config_timezone: Europe/London
+
+  
+  # Total Stargazers
+  stargazer-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: assets/metrics/stargazers.svg
+          base: ""
+          plugin_stargazers: yes
+          plugin_stargazers_charts_type: chartist
+
+  # Recent Activity
+  activity-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: assets/metrics/activity.svg
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 10
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create, public
+
+  # Pinned Repositories
+  repository-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: assets/metrics/repositories.svg
+          base: ""
+          plugin_repositories_featured: >-
+            lissy93/dashy, lissy93/personal-security-checklist, lissy93/go-apod, lissy93/dotfiles,
+            lissy93/email-comparison, lissy93/awesome-selfhosted, lissy93/docker-tcpdump,
+            lissy93/callisto-theme-standard-notes, lissy93/all-the-countries, lissy93/lissy93,
+            lissy93/espanso-config, lissy93/minimal-terminal-prompt,
+            lissy93/twitter-sentiment-visualisation, lissy93/hasami-shogi, lissy93/nfu,
+            lissy93/anti-theft-charge, lissy93/pax, lissy93/md-cv-maker
+  
+  # StackOverflow Metrics
+  stackoverflow-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/stackoverflow.svg
+          base: ""
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_user: 979052
+          plugin_stackoverflow_sections: answers-top
+          plugin_stackoverflow_limit: 2
+
+  # Twitter Metrics
+  twitter-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/twitter.svg
+          base: ""
+          plugin_tweets: yes
+          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+          plugin_tweets_attachments: yes
+          plugin_tweets_user: Lissy_Sykes
+          plugin_tweets_limit: 5
+
+  # RSS Feed
+  blog-post-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/blog-posts.svg
+          base: ""
+          plugin_rss: yes
+          plugin_rss_source: https://notes.aliciasykes.com/feed
+          plugin_rss_limit: 8
+
+  # Wakatime Metrics
+  wakatime-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/wakatime.svg
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_user: liss
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
