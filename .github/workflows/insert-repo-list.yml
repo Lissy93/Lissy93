@@ -10,22 +10,17 @@ env:
   STARRED_NUM: 1000
 
 jobs:
-  build:
-    name: Build
+  add-repos:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: My GitHub Status
-        uses: yihong0618/github-readme-stats@main
+      - name: Run readme-repos-list
+        uses: koj-co/readme-repos-list@master
         with:
-          STARRED_NUM: ${{ env.STARRED_NUM }}
-
-      - name: Push README
-        uses: github-actions-x/commit@v2.6
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "👔 Updates repo list"
-          files: REPO-LIST.md
-          rebase: "true"
-          name: ${{ env.GITHUB_NAME }}
-          email: ${{ env.GITHUB_EMAIL }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          query: "user:lissy93"
+          max: 100
+          path: ./REPO-LIST.md
+          start: '<!--START_SECTION:my_github-->'
+          end: '<!--END_SECTION:my_github-->'
+          commit-message: '📂 Update repo list'
+ 
