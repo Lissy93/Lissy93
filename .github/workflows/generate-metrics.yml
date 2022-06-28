@@ -1,7 +1,7 @@
 name: 📊 Generates Metrics
 on:
   schedule:
-    - cron: '0 0 * * *' # Run every night at midnight
+    - cron: '40 23 * * *' # Run every evening, twenty mins before midnight
   workflow_dispatch:
   
 jobs:
@@ -203,7 +203,23 @@ jobs:
             lissy93/espanso-config, lissy93/minimal-terminal-prompt,
             lissy93/twitter-sentiment-visualisation, lissy93/hasami-shogi, lissy93/nfu,
             lissy93/anti-theft-charge, lissy93/pax, lissy93/md-cv-maker
-  
+   
+   
+ # Starred Topics
+  starred-topics-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: assets/metrics/topics.svg
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 20
+          plugin_topics_mode: icons
+            
   # StackOverflow Metrics
   stackoverflow-metrics:
     runs-on: ubuntu-latest
@@ -218,7 +234,7 @@ jobs:
           plugin_stackoverflow: yes
           plugin_stackoverflow_user: 979052
           plugin_stackoverflow_sections: answers-top
-          plugin_stackoverflow_limit: 2
+          plugin_stackoverflow_limit: 5
 
   # Twitter Metrics
   twitter-metrics:
