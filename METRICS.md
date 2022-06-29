@@ -16,10 +16,10 @@
 [<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/blog-posts.svg">][blog]
 [<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/wakatime.svg">][code-stats]
 
-[<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/activity.svg">][activity]
-[<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/repositories.svg">][repositories]
+[<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/activity.svg">][activity]
+[<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/repositories.svg">][repositories]
 
-[<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/contributions.svg">](#)
+[<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/contributions.svg">](#)
 [<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/sponsors.svg">][sponsors]
 
 
