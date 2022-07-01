@@ -8,19 +8,34 @@
 
 ---
 
+[<img align="right" width="500" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/reactions.svg">](#)
 [<img align="left" width="400" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/tickets.svg">](#)
+
 [<img align="right" width="500" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/stargazers.svg">](#)
+[<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/blog-posts.svg">][blog]
 
 [<img align="left" width="400" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/habits.svg">](#)
+[<img align="right" width="500" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/discussions.svg">](#)
+
+
+
 [<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/stackoverflow.svg">][stackoverflow]
-[<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/blog-posts.svg">][blog]
+[<img align="right" width="500" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/gists.svg">](#)
+
+
 [<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/wakatime.svg">][code-stats]
 
 [<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/activity.svg">][activity]
 [<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/repositories.svg">][repositories]
 
+[<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/achievements.svg">](#)
+
 [<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/contributions.svg">](#)
-[<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/sponsors.svg">][sponsors]
+[<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/sponsors.svg">][sponsors]
+[<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/people.svg">](#)
+
+[<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/languages.svg">](#)
+
 
 
 [code-stats]: https://codestats.net/users/alicia "Code Stats - Alicia"
