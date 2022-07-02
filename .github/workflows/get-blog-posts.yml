@@ -11,16 +11,18 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in listed.to posts into blog page
-        uses: gautamkrishnar/blog-post-workflow@master
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://notes.aliciasykes.com/feed"
           max_post_count: 100
           readme_path: BLOG-POSTS.md
           gh_token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          commit_message: '📰 Updates recent blog posts (all)'
       - name: Pull in listed.to posts into readme
-        uses: gautamkrishnar/blog-post-workflow@master
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://notes.aliciasykes.com/feed"
           max_post_count: 8
           readme_path: README.md
           gh_token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          commit_message: '📰 Updates recent blog posts (short)'
