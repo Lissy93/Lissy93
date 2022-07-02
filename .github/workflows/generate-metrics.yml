@@ -16,6 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics/all.svg
+          committer_message: "📊 Updates metrics - all"
           # Options
           user: Lissy93
           template: classic
@@ -67,6 +68,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics/summary.svg
+          committer_message: "📊 Updates metrics - summary"
           user: Lissy93
           template: classic
           base: activity, community, repositories
@@ -91,6 +93,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics/sponsors.svg
+          committer_message: "📊 Updates metrics - sponsors"
           # Options
           user: Lissy93
           template: classic
@@ -111,6 +114,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics/contributions.svg
+          committer_message: "📊 Updates metrics - contributions"
           user: Lissy93
           template: classic
           base: ""
@@ -128,6 +132,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics/tickets.svg
+          committer_message: "📊 Updates metrics - tickets"
           base: ""
           plugin_followup: yes
           plugin_followup_indepth: yes
@@ -143,6 +148,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics/habits.svg
+          committer_message: "📊 Updates metrics - habbits"
           user: Lissy93
           base: ""
           plugin_habits: yes
@@ -164,6 +170,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics/stargazers.svg
+          committer_message: "📊 Updates metrics - stargazers"
           base: ""
           plugin_stargazers: yes
           plugin_stargazers_charts_type: chartist
@@ -178,6 +185,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics/activity.svg
+          committer_message: "📊 Updates metrics - activity"
           base: ""
           plugin_activity: yes
           plugin_activity_limit: 15
@@ -194,6 +202,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics/reactions.svg
+          committer_message: "📊 Updates metrics - reactions"
           base: ""
           plugin_reactions: yes
           plugin_reactions_limit: 800
@@ -228,6 +237,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics/languages.svg
+          committer_message: "📊 Updates metrics - languages"
           base: ""
           plugin_languages: yes
           plugin_languages_indepth: yes
@@ -248,6 +258,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics/achievements.svg
+          committer_message: "📊 Updates metrics - acheivments"
           base: ""
           plugin_achievements: yes
           plugin_achievements_threshold: B
@@ -263,6 +274,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics/notable.svg
+          committer_message: "📊 Updates metrics - notable contribs"
           base: ""
           plugin_notable: yes
           plugin_notable_indepth: yes
@@ -280,6 +292,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics/discussions.svg
+          committer_message: "📊 Updates metrics - discussions"
           base: ""
           plugin_discussions: yes
           plugin_discussions_categories_limit: 12
@@ -294,6 +307,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics/gists.svg
+          committer_message: "📊 Updates metrics - gists"
           base: ""
           plugin_gists: yes                 
    
@@ -307,6 +321,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics/starlists.svg
+          committer_message: "📊 Updates metrics - starlists"
           base: ""
           plugin_starlists: yes
           plugin_starlists_languages: yes
@@ -323,6 +338,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics/intro.svg
+          committer_message: "📊 Updates metrics - intro"
           base: ""
           plugin_introduction: yes  
           
@@ -336,6 +352,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics/repositories.svg
+          committer_message: "📊 Updates metrics - repositories"
           base: ""
           plugin_repositories: yes
           plugin_repositories_featured: >-
@@ -357,6 +374,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics/topics.svg
+          committer_message: "📊 Updates metrics - topics"
           base: ""
           plugin_topics: yes
           plugin_topics_limit: 20
@@ -371,6 +389,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: assets/metrics/stackoverflow.svg
+          committer_message: "📊 Updates metrics - stackoverflow"
           base: ""
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_stackoverflow: yes
@@ -387,6 +406,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: assets/metrics/twitter.svg
+          committer_message: "📊 Updates metrics - twitter"
           base: ""
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_tweets: yes
@@ -404,6 +424,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: assets/metrics/blog-posts.svg
+          committer_message: "📊 Updates metrics - blog"
           base: ""
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_rss: yes
@@ -419,6 +440,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: assets/metrics/wakatime.svg
+          committer_message: "📊 Updates metrics - wakatime"
           base: ""
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_wakatime: yes
