@@ -1,5 +1,8 @@
 # Recent Blog Posts
 
+[![Visit Blog](https://img.shields.io/badge/Blog-notes.aliciasykes.com-%2305d2bf?logo=aseprite&style=flat-square&logoColor=aqua)](https://notes.aliciasykes.com/)
+[![Subscribe via RSS](https://img.shields.io/badge/RSS-Subscribe-%23FFA500?logo=rss&style=flat-square)](https://notes.aliciasykes.com/feed)
+
 <!-- BLOG-POST-LIST:START -->
 - [GitHub Markdown Tricks 🐙](https://notes.aliciasykes.com/36402/github-markdown-tricks)
 - [Comparison of Private / Secure Emai Providers 📬](https://notes.aliciasykes.com/35375/comparison-of-private-secure-emai-providers)
