@@ -8,40 +8,51 @@
 
 ---
 
-[<img align="right" width="500" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/reactions.svg">](#)
-[<img align="left" width="400" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/tickets.svg">](#)
+[<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/reactions.svg">](#)
+[<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/tickets.svg">](#)
 
-[<img align="right" width="500" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/stargazers.svg">](#)
+[<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/stargazers.svg">][git-stars]
 [<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/blog-posts.svg">][blog]
 
-[<img align="left" width="400" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/habits.svg">](#)
-[<img align="right" width="500" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/discussions.svg">](#)
+[<img align="left" width="400" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/habits.svg">][code-stats]
+[<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/discussions.svg">](#)
 
+[<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/stackoverflow.svg">][stackoverflow]
+[<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/gists.svg">][gists]
 
-
-[<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/stackoverflow.svg">][stackoverflow]
-[<img align="right" width="500" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/gists.svg">](#)
-
-
-[<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/wakatime.svg">][code-stats]
-
-[<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/activity.svg">][activity]
+[<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/wakatime.svg">][code-stats]
 [<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/repositories.svg">][repositories]
 
-[<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/achievements.svg">](#)
+[<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/sponsors.svg">][sponsors]
+[<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/people.svg">][followers]
+[<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/notable.svg">](#)
+
+[<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/activity.svg">][activity]
+[<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/languages.svg">][language-stats]
 
 [<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/contributions.svg">](#)
-[<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/sponsors.svg">][sponsors]
-[<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/people.svg">](#)
+[<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/achievements.svg">][achievements]
 
-[<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/languages.svg">](#)
+[<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/topics.svg">][starlist]
+[<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/starlists.svg">][starlist]
 
 
-
-[code-stats]: https://codestats.net/users/alicia "Code Stats - Alicia"
-[activity]: https://github.com/Lissy93/Lissy93/blob/master/RECENT-ACTIVITY.md "Recent Activity"
-[repositories]: https://github.com/Lissy93?tab=repositories&q=&type=&language=&sort=stargazers "Repositories - @Lissy93"
-[sponsors]: https://github.com/sponsors/Lissy93 "Sponsors - @Lissy93"
-[stackoverflow]: https://stackoverflow.com/users/979052/lissy93 "StackOverflow - Lissy93"
+<!-- Links within repo -->
+[activity]: /RECENT-ACTIVITY.md "Recent Activity"
+[starlist]: /STARRED-REPOS.md "Starred Repos"
+<!-- Links within GitHub -->
+[gists]: https://gist.github.com/Lissy93 "GitHub Gists - @Lissy93"
+[sponsors]: https://github.com/sponsors/Lissy93 "GitHub Sponsors - @Lissy93"
+[followers]: https://github.com/Lissy93?tab=followers "GitHub Followers - @Lissy93"
+[repositories]: https://github.com/Lissy93?tab=repositories&sort=stargazers "GitHub Repos - @Lissy93"
+<!-- Links to website, blog, social profiles -->
+[website]: https://aliciasykes.com/ "Website - Alicia Sykes"
 [blog]: https://notes.aliciasykes.com/ "Blog - Alicia Sykes"
-
+[twitter]: https://twitter.com/Lissy_Sykes "Twitter - @Lissy_Sykes"
+[stackoverflow]: https://stackoverflow.com/users/979052/lissy93 "StackOverflow - Lissy93"
+<!-- Links to code statistsics sites -->
+[code-stats]: https://codestats.net/users/alicia "Code Stats - Alicia"
+[git-stars]: https://gitstar-ranking.com/Lissy93 "Git Star Ranking - Lissy93"
+[achievements]: https://profile.codersrank.io/user/lissy93 "Codersrank - Lissy93"
+[language-stats]: https://sourcerer.io/lissy93 "Sourcerer - Lissy93"
+[activity]: https://hacknical.com/Lissy93/github "Hacknical - Lissy93"
