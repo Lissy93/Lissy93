@@ -121,16 +121,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#789](https://github.com/Lissy93/dashy/issues/789) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. 🗣 Commented on [#789](https://github.com/Lissy93/dashy/issues/789) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. 🗣 Commented on [#787](https://github.com/Lissy93/dashy/issues/787) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. 🎉 Merged PR [#788](https://github.com/Lissy93/dashy/pull/788) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. 🗣 Commented on [#787](https://github.com/Lissy93/dashy/issues/787) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. 🎉 Merged PR [#785](https://github.com/Lissy93/dashy/pull/785) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. 🗣 Commented on [#82](https://github.com/bakito/adguardhome-sync/issues/82) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
-8. 🗣 Commented on [#1128](https://github.com/lowlighter/metrics/issues/1128) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-9. 💪 Opened PR [#1128](https://github.com/lowlighter/metrics/pull/1128) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-10. ❗️ Closed issue [#689](https://github.com/Lissy93/dashy/issues/689) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. 🗣 Commented on [#2242](https://github.com/sindresorhus/awesome/issues/2242) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+2. ❗️ Closed issue [#789](https://github.com/Lissy93/dashy/issues/789) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. 🗣 Commented on [#789](https://github.com/Lissy93/dashy/issues/789) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. 🗣 Commented on [#787](https://github.com/Lissy93/dashy/issues/787) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. 🎉 Merged PR [#788](https://github.com/Lissy93/dashy/pull/788) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. 🗣 Commented on [#787](https://github.com/Lissy93/dashy/issues/787) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. 🎉 Merged PR [#785](https://github.com/Lissy93/dashy/pull/785) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. 🗣 Commented on [#82](https://github.com/bakito/adguardhome-sync/issues/82) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
+9. 🗣 Commented on [#1128](https://github.com/lowlighter/metrics/issues/1128) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+10. 💪 Opened PR [#1128](https://github.com/lowlighter/metrics/pull/1128) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
