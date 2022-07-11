@@ -121,16 +121,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#182](https://github.com/Lissy93/personal-security-checklist/issues/182) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-2. ❗️ Closed issue [#19](https://github.com/Lissy93/awesome-privacy/issues/19) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-3. 🗣 Commented on [#19](https://github.com/Lissy93/awesome-privacy/issues/19) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-4. 🗣 Commented on [#137](https://github.com/Lissy93/personal-security-checklist/issues/137) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-5. 🗣 Commented on [#194](https://github.com/Lissy93/personal-security-checklist/issues/194) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-6. 🗣 Commented on [#194](https://github.com/caarlos0/watchub/issues/194) in [caarlos0/watchub](https://github.com/caarlos0/watchub)
-7. 🗣 Commented on [#182](https://github.com/Lissy93/personal-security-checklist/issues/182) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-8. 🗣 Commented on [#791](https://github.com/Lissy93/dashy/issues/791) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. ❗️ Closed issue [#791](https://github.com/Lissy93/dashy/issues/791) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. 🗣 Commented on [#791](https://github.com/Lissy93/dashy/issues/791) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. 🗣 Commented on [#26](https://github.com/Lissy93/awesome-privacy/issues/26) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+2. 🗣 Commented on [#721](https://github.com/Lissy93/dashy/issues/721) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. 🗣 Commented on [#793](https://github.com/Lissy93/dashy/issues/793) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. 🗣 Commented on [#2242](https://github.com/sindresorhus/awesome/issues/2242) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+5. 🗣 Commented on [#182](https://github.com/Lissy93/personal-security-checklist/issues/182) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+6. ❗️ Closed issue [#19](https://github.com/Lissy93/awesome-privacy/issues/19) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+7. 🗣 Commented on [#19](https://github.com/Lissy93/awesome-privacy/issues/19) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+8. 🗣 Commented on [#137](https://github.com/Lissy93/personal-security-checklist/issues/137) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+9. 🗣 Commented on [#194](https://github.com/Lissy93/personal-security-checklist/issues/194) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+10. 🗣 Commented on [#194](https://github.com/caarlos0/watchub/issues/194) in [caarlos0/watchub](https://github.com/caarlos0/watchub)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
