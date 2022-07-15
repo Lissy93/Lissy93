@@ -121,16 +121,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#18](https://github.com/Lissy93/uptime/issues/18) in [Lissy93/uptime](https://github.com/Lissy93/uptime)
-2. 🗣 Commented on [#18](https://github.com/Lissy93/uptime/issues/18) in [Lissy93/uptime](https://github.com/Lissy93/uptime)
-3. ❗️ Closed issue [#17](https://github.com/Lissy93/uptime/issues/17) in [Lissy93/uptime](https://github.com/Lissy93/uptime)
-4. 🗣 Commented on [#17](https://github.com/Lissy93/uptime/issues/17) in [Lissy93/uptime](https://github.com/Lissy93/uptime)
-5. ❗️ Opened issue [#18](https://github.com/Lissy93/uptime/issues/18) in [Lissy93/uptime](https://github.com/Lissy93/uptime)
-6. ❗️ Opened issue [#17](https://github.com/Lissy93/uptime/issues/17) in [Lissy93/uptime](https://github.com/Lissy93/uptime)
-7. 🗣 Commented on [#182](https://github.com/Lissy93/personal-security-checklist/issues/182) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-8. 🎉 Merged PR [#30](https://github.com/Lissy93/awesome-privacy/pull/30) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-9. 🗣 Commented on [#19](https://github.com/Lissy93/personal-security-checklist/issues/19) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-10. 🗣 Commented on [#19](https://github.com/Lissy93/personal-security-checklist/issues/19) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+1. ❗️ Closed issue [#31](https://github.com/Lissy93/awesome-privacy/issues/31) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+2. 🗣 Commented on [#31](https://github.com/Lissy93/awesome-privacy/issues/31) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+3. ❗️ Closed issue [#18](https://github.com/Lissy93/uptime/issues/18) in [Lissy93/uptime](https://github.com/Lissy93/uptime)
+4. 🗣 Commented on [#18](https://github.com/Lissy93/uptime/issues/18) in [Lissy93/uptime](https://github.com/Lissy93/uptime)
+5. ❗️ Closed issue [#17](https://github.com/Lissy93/uptime/issues/17) in [Lissy93/uptime](https://github.com/Lissy93/uptime)
+6. 🗣 Commented on [#17](https://github.com/Lissy93/uptime/issues/17) in [Lissy93/uptime](https://github.com/Lissy93/uptime)
+7. ❗️ Opened issue [#18](https://github.com/Lissy93/uptime/issues/18) in [Lissy93/uptime](https://github.com/Lissy93/uptime)
+8. ❗️ Opened issue [#17](https://github.com/Lissy93/uptime/issues/17) in [Lissy93/uptime](https://github.com/Lissy93/uptime)
+9. 🗣 Commented on [#182](https://github.com/Lissy93/personal-security-checklist/issues/182) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+10. 🎉 Merged PR [#30](https://github.com/Lissy93/awesome-privacy/pull/30) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
