@@ -311,13 +311,14 @@ jobs:
           base: ""
           plugin_repositories: yes
           plugin_repositories_featured: >-
-            lissy93/dashy, lissy93/personal-security-checklist, lissy93/go-apod, lissy93/dotfiles,
-            lissy93/email-comparison, lissy93/awesome-selfhosted, lissy93/docker-tcpdump,
-            lissy93/callisto-theme-standard-notes, lissy93/all-the-countries, lissy93/lissy93,
-            lissy93/espanso-config, lissy93/minimal-terminal-prompt,
+            lissy93/dashy, lissy93/personal-security-checklist, lissy93/awesome-privacy, lissy93/go-apod,
+            lissy93/dotfiles,lissy93/email-comparison, lissy93/awesome-selfhosted, lissy93/docker-tcpdump,
+            lissy93/pax, lissy93/all-the-countries, lissy93/minesweper,
+            lissy93/callisto-theme-standard-notes, lissy93/lissy93,
             lissy93/twitter-sentiment-visualisation, lissy93/hasami-shogi, lissy93/nfu,
-            lissy93/anti-theft-charge, lissy93/pax, lissy93/md-cv-maker
-   
+            lissy93/espanso-config, lissy93/minimal-terminal-prompt,
+            lissy93/anti-theft-charge, lissy93/md-cv-maker,
+            lissy93/alicia-sykes-website, lissy93/happy-app, lissy93/conky-system-stats-widget
    
  # Starred Topics
   starred-topics-metrics:
