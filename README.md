@@ -121,16 +121,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#23](https://github.com/Lissy93/uptime/issues/23) in [Lissy93/uptime](https://github.com/Lissy93/uptime)
-2. 🗣 Commented on [#23](https://github.com/Lissy93/uptime/issues/23) in [Lissy93/uptime](https://github.com/Lissy93/uptime)
-3. ❗️ Opened issue [#23](https://github.com/Lissy93/uptime/issues/23) in [Lissy93/uptime](https://github.com/Lissy93/uptime)
-4. 🗣 Commented on [#22](https://github.com/Lissy93/uptime/issues/22) in [Lissy93/uptime](https://github.com/Lissy93/uptime)
-5. ❗️ Closed issue [#22](https://github.com/Lissy93/uptime/issues/22) in [Lissy93/uptime](https://github.com/Lissy93/uptime)
-6. 🗣 Commented on [#21](https://github.com/Lissy93/uptime/issues/21) in [Lissy93/uptime](https://github.com/Lissy93/uptime)
-7. ❗️ Closed issue [#21](https://github.com/Lissy93/uptime/issues/21) in [Lissy93/uptime](https://github.com/Lissy93/uptime)
-8. ❗️ Opened issue [#22](https://github.com/Lissy93/uptime/issues/22) in [Lissy93/uptime](https://github.com/Lissy93/uptime)
-9. ❗️ Opened issue [#21](https://github.com/Lissy93/uptime/issues/21) in [Lissy93/uptime](https://github.com/Lissy93/uptime)
-10. ❗️ Closed issue [#20](https://github.com/Lissy93/uptime/issues/20) in [Lissy93/uptime](https://github.com/Lissy93/uptime)
+1. ❗️ Closed issue [#26](https://github.com/Lissy93/uptime/issues/26) in [Lissy93/uptime](https://github.com/Lissy93/uptime)
+2. 🗣 Commented on [#26](https://github.com/Lissy93/uptime/issues/26) in [Lissy93/uptime](https://github.com/Lissy93/uptime)
+3. ❗️ Opened issue [#26](https://github.com/Lissy93/uptime/issues/26) in [Lissy93/uptime](https://github.com/Lissy93/uptime)
+4. ❗️ Closed issue [#25](https://github.com/Lissy93/uptime/issues/25) in [Lissy93/uptime](https://github.com/Lissy93/uptime)
+5. 🗣 Commented on [#25](https://github.com/Lissy93/uptime/issues/25) in [Lissy93/uptime](https://github.com/Lissy93/uptime)
+6. ❗️ Opened issue [#25](https://github.com/Lissy93/uptime/issues/25) in [Lissy93/uptime](https://github.com/Lissy93/uptime)
+7. ❗️ Closed issue [#24](https://github.com/Lissy93/uptime/issues/24) in [Lissy93/uptime](https://github.com/Lissy93/uptime)
+8. 🗣 Commented on [#24](https://github.com/Lissy93/uptime/issues/24) in [Lissy93/uptime](https://github.com/Lissy93/uptime)
+9. ❗️ Opened issue [#24](https://github.com/Lissy93/uptime/issues/24) in [Lissy93/uptime](https://github.com/Lissy93/uptime)
+10. 🗣 Commented on [#802](https://github.com/Lissy93/dashy/issues/802) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
