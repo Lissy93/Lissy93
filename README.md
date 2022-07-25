@@ -121,16 +121,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/Lissy93/awesome-privacy/pull/49) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-2. 🎉 Merged PR [#52](https://github.com/Lissy93/awesome-privacy/pull/52) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-3. 🎉 Merged PR [#46](https://github.com/Lissy93/awesome-privacy/pull/46) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-4. ❗️ Closed issue [#40](https://github.com/Lissy93/awesome-privacy/issues/40) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-5. 🗣 Commented on [#40](https://github.com/Lissy93/awesome-privacy/issues/40) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-6. 🗣 Commented on [#815](https://github.com/Lissy93/dashy/issues/815) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. ❌ Closed PR [#43](https://github.com/Lissy93/awesome-privacy/pull/43) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-8. 🗣 Commented on [#43](https://github.com/Lissy93/awesome-privacy/issues/43) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-9. 🗣 Commented on [#818](https://github.com/Lissy93/dashy/issues/818) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. ❗️ Closed issue [#818](https://github.com/Lissy93/dashy/issues/818) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. 🎉 Merged PR [#47](https://github.com/Lissy93/awesome-privacy/pull/47) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+2. 🎉 Merged PR [#51](https://github.com/Lissy93/awesome-privacy/pull/51) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+3. 🎉 Merged PR [#49](https://github.com/Lissy93/awesome-privacy/pull/49) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+4. 🎉 Merged PR [#52](https://github.com/Lissy93/awesome-privacy/pull/52) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+5. 🎉 Merged PR [#46](https://github.com/Lissy93/awesome-privacy/pull/46) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+6. ❗️ Closed issue [#40](https://github.com/Lissy93/awesome-privacy/issues/40) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+7. 🗣 Commented on [#40](https://github.com/Lissy93/awesome-privacy/issues/40) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+8. 🗣 Commented on [#815](https://github.com/Lissy93/dashy/issues/815) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+9. ❌ Closed PR [#43](https://github.com/Lissy93/awesome-privacy/pull/43) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+10. 🗣 Commented on [#43](https://github.com/Lissy93/awesome-privacy/issues/43) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
