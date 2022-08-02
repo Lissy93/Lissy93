@@ -2,6 +2,7 @@
 <h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 𝙰𝚕𝚒𝚌𝚒𝚊</h1>
 
 <p align="center">
+   <kbd>
   <a href="https://twitter.com/Lissy_Sykes"><img src="https://img.shields.io/badge/-@Lissy_Sykes-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/979052/alicia"><img src="https://img.shields.io/badge/-Alicia-f48225?style=flat&logo=Stackoverflow&logoColor=white" /></a>
   <a href="https://profile.codersrank.io/user/lissy93"><img src="https://img.shields.io/badge/-Lissy93-72a0a8?style=flat&logo=CodersRank&logoColor=white" /></a>
@@ -11,6 +12,7 @@
   <a href="https://keybase.io/aliciasykes"><img src="https://img.shields.io/badge/-aliciasykes-5e78ef?style=flat&logo=keybase&logoColor=white" /></a>
   <a href="https://www.reddit.com/user/lissy93"><img src="https://img.shields.io/badge/-Lissy93-ff4500?style=flat&logo=reddit&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/aliciasykes"><img src="https://img.shields.io/badge/-Alicia_Sykes-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+  </kbd>
 </p>
   
 <p align="center">
