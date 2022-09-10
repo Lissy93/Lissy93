@@ -124,16 +124,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#489](https://github.com/felixhageloh/uebersicht/issues/489) in [felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht)
-2. 🎉 Merged PR [#870](https://github.com/Lissy93/dashy/pull/870) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. 🎉 Merged PR [#95](https://github.com/Lissy93/awesome-privacy/pull/95) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-4. 🎉 Merged PR [#875](https://github.com/Lissy93/dashy/pull/875) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. 🎉 Merged PR [#15](https://github.com/Lissy93/callisto-theme-standard-notes/pull/15) in [Lissy93/callisto-theme-standard-notes](https://github.com/Lissy93/callisto-theme-standard-notes)
-6. 🎉 Merged PR [#885](https://github.com/Lissy93/dashy/pull/885) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. 🗣 Commented on [#875](https://github.com/Lissy93/dashy/issues/875) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. 🎉 Merged PR [#97](https://github.com/Lissy93/awesome-privacy/pull/97) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-9. 🗣 Commented on [#823](https://github.com/Lissy93/dashy/issues/823) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. 💪 Opened PR [#878](https://github.com/Lissy93/dashy/pull/878) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. ❌ Closed PR [#81](https://github.com/Lissy93/awesome-privacy/pull/81) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+2. 🗣 Commented on [#81](https://github.com/Lissy93/awesome-privacy/issues/81) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+3. 🗣 Commented on [#489](https://github.com/felixhageloh/uebersicht/issues/489) in [felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht)
+4. 🎉 Merged PR [#870](https://github.com/Lissy93/dashy/pull/870) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. 🎉 Merged PR [#95](https://github.com/Lissy93/awesome-privacy/pull/95) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+6. 🎉 Merged PR [#875](https://github.com/Lissy93/dashy/pull/875) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. 🎉 Merged PR [#15](https://github.com/Lissy93/callisto-theme-standard-notes/pull/15) in [Lissy93/callisto-theme-standard-notes](https://github.com/Lissy93/callisto-theme-standard-notes)
+8. 🎉 Merged PR [#885](https://github.com/Lissy93/dashy/pull/885) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+9. 🗣 Commented on [#875](https://github.com/Lissy93/dashy/issues/875) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. 🎉 Merged PR [#97](https://github.com/Lissy93/awesome-privacy/pull/97) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
