@@ -59,6 +59,7 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
       
       
 <!-- BLOG-POST-LIST:START -->
+- [Fun with console.log&lpar;&rpar;  💿](https://notes.aliciasykes.com/38041/fun-with-console-log)
 - [GitHub Markdown Tricks 🐙](https://notes.aliciasykes.com/36402/github-markdown-tricks)
 - [Comparison of Private / Secure Emai Providers 📬](https://notes.aliciasykes.com/35375/comparison-of-private-secure-emai-providers)
 - [One-Line Web Server 🖥️](https://notes.aliciasykes.com/32456/one-line-web-server)
@@ -66,7 +67,6 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 - [Using Espanso to boost Efficiency 🚤](https://notes.aliciasykes.com/25213/using-espanso-to-boost-efficiency)
 - [My Life in Months 🗓️](https://notes.aliciasykes.com/24701/my-life-in-months)
 - [Quick How-To Guides 💫](https://notes.aliciasykes.com/23844/quick-how-to-guides)
-- [SSH Tarpit with EndleSsh 🪤🕳️](https://notes.aliciasykes.com/23745/ssh-tarpit-with-endlessh)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️  **[More Posts](/BLOG-POSTS.md)**
