@@ -124,16 +124,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#905](https://github.com/Lissy93/dashy/pull/905) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. ❌ Closed PR [#897](https://github.com/Lissy93/dashy/pull/897) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. ❌ Closed PR [#882](https://github.com/Lissy93/dashy/pull/882) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. ❌ Closed PR [#878](https://github.com/Lissy93/dashy/pull/878) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. ❌ Closed PR [#861](https://github.com/Lissy93/dashy/pull/861) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. ❌ Closed PR [#853](https://github.com/Lissy93/dashy/pull/853) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. ❌ Closed PR [#847](https://github.com/Lissy93/dashy/pull/847) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. 🗣 Commented on [#900](https://github.com/Lissy93/dashy/issues/900) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. 🗣 Commented on [#909](https://github.com/Lissy93/dashy/issues/909) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. 🎉 Merged PR [#900](https://github.com/Lissy93/dashy/pull/900) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. 🗣 Commented on [#860](https://github.com/Lissy93/dashy/issues/860) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 🗣 Commented on [#860](https://github.com/Lissy93/dashy/issues/860) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. 🗣 Commented on [#909](https://github.com/Lissy93/dashy/issues/909) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. ❌ Closed PR [#905](https://github.com/Lissy93/dashy/pull/905) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. ❌ Closed PR [#897](https://github.com/Lissy93/dashy/pull/897) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. ❌ Closed PR [#882](https://github.com/Lissy93/dashy/pull/882) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. ❌ Closed PR [#878](https://github.com/Lissy93/dashy/pull/878) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. ❌ Closed PR [#861](https://github.com/Lissy93/dashy/pull/861) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+9. ❌ Closed PR [#853](https://github.com/Lissy93/dashy/pull/853) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. ❌ Closed PR [#847](https://github.com/Lissy93/dashy/pull/847) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
