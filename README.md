@@ -1,3 +1,5 @@
+> ⚠️ _I'm sick with Covid atm, so there may be a slight delay in responding to tickets._<br>
+_Apologies for any inconvinience, I should be back up and running again soon_
 
 <h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 𝙰𝚕𝚒𝚌𝚒𝚊</h1>
 
@@ -14,6 +16,7 @@
   <a href="https://www.linkedin.com/in/aliciasykes"><img src="https://img.shields.io/badge/-Alicia_Sykes-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
   </kbd>
 </p>
+
   
 <p align="center">
 <a href="mailto:alicia@omg.lol"><code>alicia at omg dot lol</code></a> │ <a href="https://keybase.io/aliciasykes/pgp_keys.asc?fingerprint=0688f8d34587d954e9e51fb8fedb68f55c0283a7"><code>FEDB 68F5 5C02 83A7</code></a> │ <a href="https://matrix.to/#/@lissy93:matrix.org"><code>@lissy93:matrix.org</code></a>
