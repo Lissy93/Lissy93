@@ -8,6 +8,7 @@
 - [GitHub Markdown Tricks 🐙](https://notes.aliciasykes.com/36402/github-markdown-tricks)
 - [Comparison of Private / Secure Emai Providers 📬](https://notes.aliciasykes.com/35375/comparison-of-private-secure-emai-providers)
 - [One-Line Web Server 🖥️](https://notes.aliciasykes.com/32456/one-line-web-server)
+- [NPM Dependency Security Best Practices 📦](https://notes.aliciasykes.com/28300/npm-dependency-security-best-practices)
 - [Dashy - A Self-Hosted Home Lab Dashboard 🚀](https://notes.aliciasykes.com/25291/dashy-a-self-hosted-home-lab-dashboard)
 - [Using Espanso to boost Efficiency 🚤](https://notes.aliciasykes.com/25213/using-espanso-to-boost-efficiency)
 - [My Life in Months 🗓️](https://notes.aliciasykes.com/24701/my-life-in-months)
