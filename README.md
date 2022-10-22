@@ -124,16 +124,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#108](https://github.com/Lissy93/awesome-privacy/pull/108) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-2. 🎉 Merged PR [#107](https://github.com/Lissy93/awesome-privacy/pull/107) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-3. 🎉 Merged PR [#206](https://github.com/Lissy93/personal-security-checklist/pull/206) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-4. ❌ Closed PR [#205](https://github.com/Lissy93/personal-security-checklist/pull/205) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-5. 🎉 Merged PR [#8](https://github.com/Lissy93/email-comparison/pull/8) in [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison)
-6. ❌ Closed PR [#202](https://github.com/Lissy93/personal-security-checklist/pull/202) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-7. ❌ Closed PR [#204](https://github.com/Lissy93/personal-security-checklist/pull/204) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-8. 🗣 Commented on [#941](https://github.com/Lissy93/dashy/issues/941) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. 🎉 Merged PR [#201](https://github.com/Lissy93/personal-security-checklist/pull/201) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-10. 🎉 Merged PR [#104](https://github.com/Lissy93/awesome-privacy/pull/104) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+1. 🗣 Commented on [#945](https://github.com/Lissy93/dashy/issues/945) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 🎉 Merged PR [#945](https://github.com/Lissy93/dashy/pull/945) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. 🎉 Merged PR [#108](https://github.com/Lissy93/awesome-privacy/pull/108) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+4. 🎉 Merged PR [#107](https://github.com/Lissy93/awesome-privacy/pull/107) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+5. 🎉 Merged PR [#206](https://github.com/Lissy93/personal-security-checklist/pull/206) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+6. ❌ Closed PR [#205](https://github.com/Lissy93/personal-security-checklist/pull/205) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+7. 🎉 Merged PR [#8](https://github.com/Lissy93/email-comparison/pull/8) in [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison)
+8. ❌ Closed PR [#202](https://github.com/Lissy93/personal-security-checklist/pull/202) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+9. ❌ Closed PR [#204](https://github.com/Lissy93/personal-security-checklist/pull/204) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+10. 🗣 Commented on [#941](https://github.com/Lissy93/dashy/issues/941) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
