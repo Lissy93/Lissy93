@@ -1,6 +1,3 @@
-> ⚠️ _I'm sick with Covid atm, so there may be a slight delay in responding to tickets._<br>
-_Apologies for any inconvinience, I should be back up and running again soon_
-
 <h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 𝙰𝚕𝚒𝚌𝚒𝚊</h1>
 
 <p align="center">
