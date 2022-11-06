@@ -23,3 +23,21 @@
 | [![D3.js](https://img.shields.io/static/v1?label=&message=D3.js&color=F9A03C&logo=d3dotjs&logoColor=FFFFFF)](https://github.com/Lissy93?tab=repositories&language=JavaScript) [🌐](https://d3js.org/) | [![twitter-sentiment-visualisation](https://img.shields.io/static/v1?label=&message=twitter-sentiment-visualisation&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/twitter-sentiment-visualisation) [![voronoi-site-template](https://img.shields.io/static/v1?label=&message=voronoi-site-template&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/voronoi-site-template) [![happy-app](https://img.shields.io/static/v1?label=&message=happy-app&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/happy-app) [![realtime-speech-analytics](https://img.shields.io/static/v1?label=&message=realtime-speech-analytics&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/realtime-speech-analytics) |
 | [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&logo=html5&logoColor=FFFFFF)]([#](https://github.com/Lissy93?tab=repositories&language=HTML)) | [![md-cv-maker](https://img.shields.io/static/v1?label=&message=md-cv-maker&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/md-cv-maker) [![email-extractor](https://img.shields.io/static/v1?label=&message=email-extractor&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/email-extractor) [![bullet-convertor](https://img.shields.io/static/v1?label=&message=bullet-convertor&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/bullet-convertor) [![cyber-defence-presentation](https://img.shields.io/static/v1?label=&message=cyber-defence-presentation&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/cyber-defence-presentation) [![voronoi-site-template](https://img.shields.io/static/v1?label=&message=voronoi-site-template&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/voronoi-site-template) [![web-dev-school](https://img.shields.io/static/v1?label=&message=web-dev-school&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/web-dev-school) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
+
+<details>
+  <summary>Info</summary>
+  
+  #### What
+The above list are projects I've built categorised by language / tech stack.
+
+#### Why
+I feel uncomfortable saying that I have experience with a certain technology, if I don't have anything to show for it. So this list acts as a reference I can use to show examples of code I've written with a given language or tech stack. And that means the list of skills I put on my CV is not completely basless. 
+
+#### How
+The list is generated with GH actions, using [gleich/profile_stack](https://github.com/gleich/profile_stack).
+
+#### Where
+Everything I do in my own time is published on my GitHub.
+I've obviously worked on many projects which can't be listed above, since they were done on a contract and are not open source.
+  
+</details>
