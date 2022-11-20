@@ -4,6 +4,7 @@
 [![Subscribe via RSS](https://img.shields.io/badge/RSS-Subscribe-%23FFA500?logo=rss&style=flat-square)](https://notes.aliciasykes.com/feed)
 
 <!-- BLOG-POST-LIST:START -->
+- [50+ Awesome Dev Tool Tips 🔥](https://notes.aliciasykes.com/40065/50-awesome-dev-tool-tips)
 - [Fun with console.log&lpar;&rpar;  💿](https://notes.aliciasykes.com/38041/fun-with-console-log)
 - [GitHub Markdown Tricks 🐙](https://notes.aliciasykes.com/36402/github-markdown-tricks)
 - [Comparison of Private / Secure Emai Providers 📬](https://notes.aliciasykes.com/35375/comparison-of-private-secure-emai-providers)
