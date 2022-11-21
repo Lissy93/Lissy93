@@ -124,16 +124,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#125](https://github.com/Lissy93/awesome-privacy/pull/125) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-2. 🎉 Merged PR [#16](https://github.com/Lissy93/callisto-theme-standard-notes/pull/16) in [Lissy93/callisto-theme-standard-notes](https://github.com/Lissy93/callisto-theme-standard-notes)
-3. 🎉 Merged PR [#115](https://github.com/Lissy93/awesome-privacy/pull/115) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-4. 🗣 Commented on [#239](https://github.com/standardnotes/listed/issues/239) in [standardnotes/listed](https://github.com/standardnotes/listed)
-5. 🗣 Commented on [#940](https://github.com/Lissy93/dashy/issues/940) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. 🎉 Merged PR [#940](https://github.com/Lissy93/dashy/pull/940) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. 🗣 Commented on [#666](https://github.com/upptime/upptime/issues/666) in [upptime/upptime](https://github.com/upptime/upptime)
-8. 🎉 Merged PR [#3](https://github.com/Lissy93/Brewfile/pull/3) in [Lissy93/Brewfile](https://github.com/Lissy93/Brewfile)
-9. 💪 Opened PR [#666](https://github.com/upptime/upptime/pull/666) in [upptime/upptime](https://github.com/upptime/upptime)
-10. 🎉 Merged PR [#114](https://github.com/Lissy93/awesome-privacy/pull/114) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+1. 🗣 Commented on [#976](https://github.com/Lissy93/dashy/issues/976) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 🎉 Merged PR [#125](https://github.com/Lissy93/awesome-privacy/pull/125) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+3. 🎉 Merged PR [#16](https://github.com/Lissy93/callisto-theme-standard-notes/pull/16) in [Lissy93/callisto-theme-standard-notes](https://github.com/Lissy93/callisto-theme-standard-notes)
+4. 🎉 Merged PR [#115](https://github.com/Lissy93/awesome-privacy/pull/115) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+5. 🗣 Commented on [#239](https://github.com/standardnotes/listed/issues/239) in [standardnotes/listed](https://github.com/standardnotes/listed)
+6. 🗣 Commented on [#940](https://github.com/Lissy93/dashy/issues/940) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. 🎉 Merged PR [#940](https://github.com/Lissy93/dashy/pull/940) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. 🗣 Commented on [#666](https://github.com/upptime/upptime/issues/666) in [upptime/upptime](https://github.com/upptime/upptime)
+9. 🎉 Merged PR [#3](https://github.com/Lissy93/Brewfile/pull/3) in [Lissy93/Brewfile](https://github.com/Lissy93/Brewfile)
+10. 💪 Opened PR [#666](https://github.com/upptime/upptime/pull/666) in [upptime/upptime](https://github.com/upptime/upptime)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
