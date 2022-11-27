@@ -59,6 +59,7 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
       
       
 <!-- BLOG-POST-LIST:START -->
+- [Generate Pretty Code / App Screenshots 📸](https://notes.aliciasykes.com/40473/generate-pretty-code-app-screenshots)
 - [50+ Awesome Dev Tool Tips 🔥](https://notes.aliciasykes.com/40065/50-awesome-dev-tool-tips)
 - [Fun with console.log&lpar;&rpar;  💿](https://notes.aliciasykes.com/38041/fun-with-console-log)
 - [GitHub Markdown Tricks 🐙](https://notes.aliciasykes.com/36402/github-markdown-tricks)
@@ -66,7 +67,6 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 - [One-Line Web Server 🖥️](https://notes.aliciasykes.com/32456/one-line-web-server)
 - [NPM Dependency Security Best Practices 📦](https://notes.aliciasykes.com/28300/npm-dependency-security-best-practices)
 - [Dashy - A Self-Hosted Home Lab Dashboard 🚀](https://notes.aliciasykes.com/25291/dashy-a-self-hosted-home-lab-dashboard)
-- [Using Espanso to boost Efficiency 🚤](https://notes.aliciasykes.com/25213/using-espanso-to-boost-efficiency)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️  **[More Posts](/BLOG-POSTS.md)**
