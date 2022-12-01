@@ -1,26 +1,27 @@
-<h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 𝙰𝚕𝚒𝚌𝚒𝚊</h1>
+<h1 align="center" title="...and I'm happy to see you here :)">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 𝙰𝚕𝚒𝚌𝚒𝚊</h1>
 
 <p align="center">
    <kbd>
-  <a href="https://twitter.com/Lissy_Sykes"><img src="https://img.shields.io/badge/-@Lissy_Sykes-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/979052/alicia"><img src="https://img.shields.io/badge/-Alicia-f48225?style=flat&logo=Stackoverflow&logoColor=white" /></a>
-  <a href="https://profile.codersrank.io/user/lissy93"><img src="https://img.shields.io/badge/-Lissy93-72a0a8?style=flat&logo=CodersRank&logoColor=white" /></a>
-  <a href="https://github.com/Lissy93"><img src="https://img.shields.io/badge/-Lissy93-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
-  <a href="https://aliciasykes.com"><img src="https://img.shields.io/badge/-aliciasykes.com-ff5757?style=flat&logo=ApacheSpark&logoColor=white" /></a>
-  <a href="https://notes.aliciasykes.com"><img src="https://img.shields.io/badge/-Notes-262654?style=flat&logo=micro.blog&logoColor=white" /></a>
-  <a href="https://keybase.io/aliciasykes"><img src="https://img.shields.io/badge/-aliciasykes-5e78ef?style=flat&logo=keybase&logoColor=white" /></a>
-  <a href="https://www.reddit.com/user/lissy93"><img src="https://img.shields.io/badge/-Lissy93-ff4500?style=flat&logo=reddit&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/aliciasykes"><img src="https://img.shields.io/badge/-Alicia_Sykes-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/Lissy_Sykes" title="Twitter - @Lissy_Sykes"><img src="https://img.shields.io/badge/-@Lissy_Sykes-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/979052/alicia" title="StackOverflow - Alicia Sykes"><img src="https://img.shields.io/badge/-Alicia-f48225?style=flat&logo=Stackoverflow&logoColor=white" /></a>
+  <a href="https://keybase.io/aliciasykes" title="Keybase - Alicia Sykes"><img src="https://img.shields.io/badge/-aliciasykes-5e78ef?style=flat&logo=keybase&logoColor=white" /></a>
+  <a href="https://www.reddit.com/user/lissy93" title="Reddit - u/lissy93"><img src="https://img.shields.io/badge/-Lissy93-ff4500?style=flat&logo=reddit&logoColor=white" /></a>
+  <a href="https://dev.to/lissy93" title="Dev.to - @Lissy93"><img src="https://img.shields.io/badge/-Lissy93-0A0A0A?style=flat&logo=Dev.to&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aliciasykes" title="LinkedIn - Alicia Sykes"><img src="https://img.shields.io/badge/-Alicia_Sykes-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://aliciasykes.com" title="Personal Website - aliciasykes.com"><img src="https://img.shields.io/badge/-aliciasykes.com-ff5757?style=flat&logo=ApacheSpark&logoColor=white" /></a>
+  <a href="https://notes.aliciasykes.com" title="Personal Blog - notes.aliciasykes.com"><img src="https://img.shields.io/badge/-Notes-262654?style=flat&logo=micro.blog&logoColor=white" /></a>
+  <a href="https://github.com/Lissy93" title="GitHub - @Lissy93"><img src="https://img.shields.io/badge/-Lissy93-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
+
   </kbd>
 </p>
 
   
 <p align="center">
-<a href="mailto:alicia@omg.lol"><code>alicia at omg dot lol</code></a> │ <a href="https://keybase.io/aliciasykes/pgp_keys.asc?fingerprint=0688f8d34587d954e9e51fb8fedb68f55c0283a7"><code>FEDB 68F5 5C02 83A7</code></a> │ <a href="https://matrix.to/#/@lissy93:matrix.org"><code>@lissy93:matrix.org</code></a>
+<a href="mailto:alicia@omg.lol" title="Email Address"><code>alicia at omg dot lol</code></a> │ <a href="https://keybase.io/aliciasykes/pgp_keys.asc?fingerprint=0688f8d34587d954e9e51fb8fedb68f55c0283a7" title="PGP Public Key"><code>FEDB 68F5 5C02 83A7</code></a> │ <a href="https://matrix.to/#/@lissy93:matrix.org" title="Matrix User ID"><code>@lissy93:matrix.org</code></a>
 </p>
   
 <p align="center">
-<img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" />
+<a href="https://gitstar-ranking.com/Lissy93" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 </p>
 
 
