@@ -2,6 +2,8 @@
 
 [![Visit Blog](https://img.shields.io/badge/Blog-notes.aliciasykes.com-%2305d2bf?logo=aseprite&style=flat-square&logoColor=aqua)](https://notes.aliciasykes.com/)
 [![Subscribe via RSS](https://img.shields.io/badge/RSS-Subscribe-%23FFA500?logo=rss&style=flat-square)](https://notes.aliciasykes.com/feed)
+[![View Dev.to Profile](https://img.shields.io/badge/Dev.to-@Lissy93-%23a300ff?logo=Dev.to&style=flat-square)](https://dev.to/lissy93)
+
 
 <!-- BLOG-POST-LIST:START -->
 - [Generate Pretty Code / App Screenshots 📸](https://notes.aliciasykes.com/40473/generate-pretty-code-app-screenshots)
