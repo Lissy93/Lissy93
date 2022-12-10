@@ -1,0 +1,24 @@
+name: 💠 3D Contrib Pattern
+on:
+  schedule:
+    - cron: '0 2 * * 0' # At 02:00 on Sunday
+  workflow_dispatch: # Or when manually dispatched
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v2
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner || 'Lissy93' }}
+      - name: Commit & Push
+        run: |
+          git config user.name liss-bot
+          git config user.email alicia-gh-bot@mail.as93.net
+          git add -A .
+          git commit -m "💠 Updtaes 3D contribution pattern"
+          git push
+  
+  
