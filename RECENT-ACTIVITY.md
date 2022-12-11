@@ -1,5 +1,13 @@
 # Recent Activity
 
+<!-- Summary card -->
+<img
+  align="right"
+  width="500"
+  alt="Profile data, generated with yoshi389111/github-profile-3d-contrib"
+  src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/profile-3d-contrib/profile-gitblock.svg"
+/>
+
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#13](https://github.com/gleich/profile_stack/issues/13) in [gleich/profile_stack](https://github.com/gleich/profile_stack)
 2. 🎉 Merged PR [#132](https://github.com/Lissy93/awesome-privacy/pull/132) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
