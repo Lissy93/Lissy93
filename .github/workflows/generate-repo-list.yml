@@ -11,12 +11,12 @@ jobs:
       - name: Github Profile Repositories
         uses: ntsd/github-profile-repositories@master
         with:
-          github-token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           template-file: "./assets/repo-list-template.md"
           render-file: "./REPO-LIST.md"
-          limit: 25
-          repositories-order-by: "STARGAZERS"
-          contributed-order-by: "OCCURRED_AT"
+          # limit: 25
+          # repositories-order-by: "STARGAZERS"
+          # contributed-order-by: "OCCURRED_AT"
       - name: Commit files
         run: |
           git config --local user.email "alicia-gh-bot@mail.as93.net"
