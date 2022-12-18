@@ -68,6 +68,7 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
       
       
 <!-- BLOG-POST-LIST:START -->
+- [20 Git Commands you &lpar;probably&rpar; didn&#39;t know 🧙‍♂️](https://notes.aliciasykes.com/41171/20-git-commands-you-probably-didn-t-know)
 - [Super Useful CSS Resources 🌈](https://notes.aliciasykes.com/40638/super-useful-css-resources)
 - [Generate Pretty Code / App Screenshots 📸](https://notes.aliciasykes.com/40473/generate-pretty-code-app-screenshots)
 - [50+ Awesome Dev Tool Tips 🔥](https://notes.aliciasykes.com/40065/50-awesome-dev-tool-tips)
@@ -75,7 +76,6 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 - [GitHub Markdown Tricks 🐙](https://notes.aliciasykes.com/36402/github-markdown-tricks)
 - [Comparison of Private / Secure Emai Providers 📬](https://notes.aliciasykes.com/35375/comparison-of-private-secure-emai-providers)
 - [One-Line Web Server 🖥️](https://notes.aliciasykes.com/32456/one-line-web-server)
-- [NPM Dependency Security Best Practices 📦](https://notes.aliciasykes.com/28300/npm-dependency-security-best-practices)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️  **[More Posts](/BLOG-POSTS.md)**
