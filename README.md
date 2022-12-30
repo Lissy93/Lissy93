@@ -133,16 +133,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Lissy93/minimal-terminal-prompt/issues/2) in [Lissy93/minimal-terminal-prompt](https://github.com/Lissy93/minimal-terminal-prompt)
-2. ❗️ Closed issue [#2](https://github.com/Lissy93/minimal-terminal-prompt/issues/2) in [Lissy93/minimal-terminal-prompt](https://github.com/Lissy93/minimal-terminal-prompt)
-3. 🎉 Merged PR [#3](https://github.com/Lissy93/minimal-terminal-prompt/pull/3) in [Lissy93/minimal-terminal-prompt](https://github.com/Lissy93/minimal-terminal-prompt)
-4. 💪 Opened PR [#3](https://github.com/Lissy93/minimal-terminal-prompt/pull/3) in [Lissy93/minimal-terminal-prompt](https://github.com/Lissy93/minimal-terminal-prompt)
-5. 🎉 Merged PR [#138](https://github.com/Lissy93/awesome-privacy/pull/138) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-6. 🎉 Merged PR [#1](https://github.com/Lissy93/minimal-terminal-prompt/pull/1) in [Lissy93/minimal-terminal-prompt](https://github.com/Lissy93/minimal-terminal-prompt)
-7. 🎉 Merged PR [#1017](https://github.com/Lissy93/dashy/pull/1017) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. 🎉 Merged PR [#5](https://github.com/Lissy93/Brewfile/pull/5) in [Lissy93/Brewfile](https://github.com/Lissy93/Brewfile)
-9. 💪 Opened PR [#1015](https://github.com/Lissy93/dashy/pull/1015) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. ❌ Closed PR [#1010](https://github.com/Lissy93/dashy/pull/1010) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. 🗣 Commented on [#46](https://github.com/medyo/hackertab.dev/issues/46) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
+2. 🗣 Commented on [#2](https://github.com/Lissy93/minimal-terminal-prompt/issues/2) in [Lissy93/minimal-terminal-prompt](https://github.com/Lissy93/minimal-terminal-prompt)
+3. ❗️ Closed issue [#2](https://github.com/Lissy93/minimal-terminal-prompt/issues/2) in [Lissy93/minimal-terminal-prompt](https://github.com/Lissy93/minimal-terminal-prompt)
+4. 🎉 Merged PR [#3](https://github.com/Lissy93/minimal-terminal-prompt/pull/3) in [Lissy93/minimal-terminal-prompt](https://github.com/Lissy93/minimal-terminal-prompt)
+5. 💪 Opened PR [#3](https://github.com/Lissy93/minimal-terminal-prompt/pull/3) in [Lissy93/minimal-terminal-prompt](https://github.com/Lissy93/minimal-terminal-prompt)
+6. 🎉 Merged PR [#138](https://github.com/Lissy93/awesome-privacy/pull/138) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+7. 🎉 Merged PR [#1](https://github.com/Lissy93/minimal-terminal-prompt/pull/1) in [Lissy93/minimal-terminal-prompt](https://github.com/Lissy93/minimal-terminal-prompt)
+8. 🎉 Merged PR [#1017](https://github.com/Lissy93/dashy/pull/1017) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+9. 🎉 Merged PR [#5](https://github.com/Lissy93/Brewfile/pull/5) in [Lissy93/Brewfile](https://github.com/Lissy93/Brewfile)
+10. 💪 Opened PR [#1015](https://github.com/Lissy93/dashy/pull/1015) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
