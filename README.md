@@ -133,16 +133,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#994](https://github.com/Lissy93/dashy/pull/994) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. 🎉 Merged PR [#142](https://github.com/Lissy93/awesome-privacy/pull/142) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-3. 🎉 Merged PR [#141](https://github.com/Lissy93/awesome-privacy/pull/141) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-4. 🎉 Merged PR [#140](https://github.com/Lissy93/awesome-privacy/pull/140) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-5. 🎉 Merged PR [#1030](https://github.com/Lissy93/dashy/pull/1030) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. 🎉 Merged PR [#1029](https://github.com/Lissy93/dashy/pull/1029) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. 🗣 Commented on [#46](https://github.com/medyo/hackertab.dev/issues/46) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
-8. 🗣 Commented on [#2](https://github.com/Lissy93/minimal-terminal-prompt/issues/2) in [Lissy93/minimal-terminal-prompt](https://github.com/Lissy93/minimal-terminal-prompt)
-9. ❗️ Closed issue [#2](https://github.com/Lissy93/minimal-terminal-prompt/issues/2) in [Lissy93/minimal-terminal-prompt](https://github.com/Lissy93/minimal-terminal-prompt)
-10. 🎉 Merged PR [#3](https://github.com/Lissy93/minimal-terminal-prompt/pull/3) in [Lissy93/minimal-terminal-prompt](https://github.com/Lissy93/minimal-terminal-prompt)
+1. 🎉 Merged PR [#144](https://github.com/Lissy93/awesome-privacy/pull/144) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+2. 💪 Opened PR [#8169](https://github.com/sveltejs/svelte/pull/8169) in [sveltejs/svelte](https://github.com/sveltejs/svelte)
+3. 🎉 Merged PR [#994](https://github.com/Lissy93/dashy/pull/994) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. 🎉 Merged PR [#142](https://github.com/Lissy93/awesome-privacy/pull/142) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+5. 🎉 Merged PR [#141](https://github.com/Lissy93/awesome-privacy/pull/141) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+6. 🎉 Merged PR [#140](https://github.com/Lissy93/awesome-privacy/pull/140) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+7. 🎉 Merged PR [#1030](https://github.com/Lissy93/dashy/pull/1030) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. 🎉 Merged PR [#1029](https://github.com/Lissy93/dashy/pull/1029) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+9. 🗣 Commented on [#46](https://github.com/medyo/hackertab.dev/issues/46) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
+10. 🗣 Commented on [#2](https://github.com/Lissy93/minimal-terminal-prompt/issues/2) in [Lissy93/minimal-terminal-prompt](https://github.com/Lissy93/minimal-terminal-prompt)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
