@@ -28,8 +28,8 @@
    <summary><b>↕️ Expand for more!</b></summary>
   
 <!-- Snek -->   
-<p align="center">
-<a href="https://gitstar-ranking.com/Lissy93" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
+<!-- <p align="center">
+<a href="https://gitstar-ranking.com/Lissy93" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a> -->
 </p>
 
 
