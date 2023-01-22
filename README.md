@@ -133,16 +133,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1018](https://github.com/Lissy93/dashy/issues/1018) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. 🎉 Merged PR [#1074](https://github.com/Lissy93/dashy/pull/1074) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. 🎉 Merged PR [#149](https://github.com/Lissy93/awesome-privacy/pull/149) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-4. 🎉 Merged PR [#216](https://github.com/Lissy93/personal-security-checklist/pull/216) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-5. 🎉 Merged PR [#6](https://github.com/Lissy93/Brewfile/pull/6) in [Lissy93/Brewfile](https://github.com/Lissy93/Brewfile)
-6. 🎉 Merged PR [#148](https://github.com/Lissy93/awesome-privacy/pull/148) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-7. 🎉 Merged PR [#217](https://github.com/Lissy93/personal-security-checklist/pull/217) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-8. 🗣 Commented on [#114](https://github.com/vinayak-mehta/present/issues/114) in [vinayak-mehta/present](https://github.com/vinayak-mehta/present)
-9. 🎉 Merged PR [#145](https://github.com/Lissy93/awesome-privacy/pull/145) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-10. 🎉 Merged PR [#146](https://github.com/Lissy93/awesome-privacy/pull/146) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+1. ❗️ Closed issue [#1065](https://github.com/Lissy93/dashy/issues/1065) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 🎉 Merged PR [#1075](https://github.com/Lissy93/dashy/pull/1075) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. ❌ Closed PR [#151](https://github.com/Lissy93/awesome-privacy/pull/151) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+4. 🎉 Merged PR [#1076](https://github.com/Lissy93/dashy/pull/1076) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. ❗️ Closed issue [#1018](https://github.com/Lissy93/dashy/issues/1018) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. 🎉 Merged PR [#1074](https://github.com/Lissy93/dashy/pull/1074) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. 🎉 Merged PR [#149](https://github.com/Lissy93/awesome-privacy/pull/149) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+8. 🎉 Merged PR [#216](https://github.com/Lissy93/personal-security-checklist/pull/216) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+9. 🎉 Merged PR [#6](https://github.com/Lissy93/Brewfile/pull/6) in [Lissy93/Brewfile](https://github.com/Lissy93/Brewfile)
+10. 🎉 Merged PR [#148](https://github.com/Lissy93/awesome-privacy/pull/148) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
