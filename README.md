@@ -127,16 +127,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1048](https://github.com/Lissy93/dashy/pull/1048) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. 🎉 Merged PR [#1047](https://github.com/Lissy93/dashy/pull/1047) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. 🎉 Merged PR [#1037](https://github.com/Lissy93/dashy/pull/1037) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. ❗️ Closed issue [#1](https://github.com/Lissy93/repo-badge-maker/issues/1) in [Lissy93/repo-badge-maker](https://github.com/Lissy93/repo-badge-maker)
-5. 🎉 Merged PR [#2](https://github.com/Lissy93/repo-badge-maker/pull/2) in [Lissy93/repo-badge-maker](https://github.com/Lissy93/repo-badge-maker)
-6. ❗️ Closed issue [#1065](https://github.com/Lissy93/dashy/issues/1065) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. 🎉 Merged PR [#1075](https://github.com/Lissy93/dashy/pull/1075) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. ❌ Closed PR [#151](https://github.com/Lissy93/awesome-privacy/pull/151) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-9. 🎉 Merged PR [#1076](https://github.com/Lissy93/dashy/pull/1076) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. ❗️ Closed issue [#1018](https://github.com/Lissy93/dashy/issues/1018) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. 🎉 Merged PR [#154](https://github.com/Lissy93/awesome-privacy/pull/154) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+2. 🎉 Merged PR [#153](https://github.com/Lissy93/awesome-privacy/pull/153) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+3. ❗️ Closed issue [#984](https://github.com/Lissy93/dashy/issues/984) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. 🎉 Merged PR [#1058](https://github.com/Lissy93/dashy/pull/1058) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. 🎉 Merged PR [#1026](https://github.com/Lissy93/dashy/pull/1026) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. 🎉 Merged PR [#1087](https://github.com/Lissy93/dashy/pull/1087) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. 🎉 Merged PR [#1048](https://github.com/Lissy93/dashy/pull/1048) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. 🎉 Merged PR [#1047](https://github.com/Lissy93/dashy/pull/1047) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+9. 🎉 Merged PR [#1037](https://github.com/Lissy93/dashy/pull/1037) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. ❗️ Closed issue [#1](https://github.com/Lissy93/repo-badge-maker/issues/1) in [Lissy93/repo-badge-maker](https://github.com/Lissy93/repo-badge-maker)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
