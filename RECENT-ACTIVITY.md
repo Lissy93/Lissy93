@@ -1,12 +1,14 @@
 # Recent Activity
 
 <!-- Summary card -->
-<img
-  align="right"
-  width="500"
-  alt="Profile data, generated with yoshi389111/github-profile-3d-contrib"
-  src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/profile-3d-contrib/profile-gitblock.svg"
-/>
+<a href="https://github.com/Lissy93/Lissy93/blob/master/METRICS.md">
+  <img
+    align="right"
+    width="500"
+    alt="Profile data, generated with yoshi389111/github-profile-3d-contrib"
+    src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/profile-3d-contrib/profile-gitblock.svg"
+  />
+</a>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#218](https://github.com/Lissy93/personal-security-checklist/pull/218) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
