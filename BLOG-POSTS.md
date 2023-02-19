@@ -20,6 +20,7 @@
 - [Dashy - A Self-Hosted Home Lab Dashboard 🚀](https://notes.aliciasykes.com/25291/dashy-a-self-hosted-home-lab-dashboard)
 - [Using Espanso to boost Efficiency 🚤](https://notes.aliciasykes.com/25213/using-espanso-to-boost-efficiency)
 - [My Life in Months 🗓️](https://notes.aliciasykes.com/24701/my-life-in-months)
+- [Errors and Solutions 🤬➡️🥳](https://notes.aliciasykes.com/24099/errors-and-solutions)
 - [Quick How-To Guides 💫](https://notes.aliciasykes.com/23844/quick-how-to-guides)
 - [SSH Tarpit with EndleSsh 🪤🕳️](https://notes.aliciasykes.com/23745/ssh-tarpit-with-endlessh)
 - [Pimping up Your DuckDuckGo Search Results 💄](https://notes.aliciasykes.com/23054/pimping-up-your-duckduckgo-search-results)
