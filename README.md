@@ -27,6 +27,8 @@
 <details>
    <summary><b>↕️ Expand for more!</b></summary>
   
+   <br>
+   
 <!-- About Section -->
 <details>
   <summary><b>👤 About</b></summary>
