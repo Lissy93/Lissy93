@@ -129,16 +129,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Lissy93/currency-flags/pull/1) in [Lissy93/currency-flags](https://github.com/Lissy93/currency-flags)
-2. 🎉 Merged PR [#158](https://github.com/Lissy93/awesome-privacy/pull/158) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-3. ❌ Closed PR [#157](https://github.com/Lissy93/awesome-privacy/pull/157) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-4. 🎉 Merged PR [#1141](https://github.com/Lissy93/dashy/pull/1141) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. 🎉 Merged PR [#152](https://github.com/Lissy93/awesome-privacy/pull/152) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-6. ❗️ Closed issue [#220](https://github.com/Lissy93/personal-security-checklist/issues/220) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-7. 🎉 Merged PR [#221](https://github.com/Lissy93/personal-security-checklist/pull/221) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-8. 🗣 Commented on [#220](https://github.com/Lissy93/personal-security-checklist/issues/220) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-9. 💪 Opened PR [#221](https://github.com/Lissy93/personal-security-checklist/pull/221) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-10. 🎉 Merged PR [#219](https://github.com/Lissy93/personal-security-checklist/pull/219) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+1. 🗣 Commented on [#58](https://github.com/openai/openai-node/issues/58) in [openai/openai-node](https://github.com/openai/openai-node)
+2. 🗣 Commented on [#92](https://github.com/openai/openai-node/issues/92) in [openai/openai-node](https://github.com/openai/openai-node)
+3. 🎉 Merged PR [#3](https://github.com/Lissy93/dotfiles/pull/3) in [Lissy93/dotfiles](https://github.com/Lissy93/dotfiles)
+4. 💪 Opened PR [#1](https://github.com/Lissy93/currency-flags/pull/1) in [Lissy93/currency-flags](https://github.com/Lissy93/currency-flags)
+5. 🎉 Merged PR [#158](https://github.com/Lissy93/awesome-privacy/pull/158) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+6. ❌ Closed PR [#157](https://github.com/Lissy93/awesome-privacy/pull/157) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+7. 🎉 Merged PR [#1141](https://github.com/Lissy93/dashy/pull/1141) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. 🎉 Merged PR [#152](https://github.com/Lissy93/awesome-privacy/pull/152) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+9. ❗️ Closed issue [#220](https://github.com/Lissy93/personal-security-checklist/issues/220) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+10. 🎉 Merged PR [#221](https://github.com/Lissy93/personal-security-checklist/pull/221) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
