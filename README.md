@@ -129,16 +129,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/Lissy93/Brewfile/pull/8) in [Lissy93/Brewfile](https://github.com/Lissy93/Brewfile)
-2. 🗣 Commented on [#58](https://github.com/openai/openai-node/issues/58) in [openai/openai-node](https://github.com/openai/openai-node)
-3. 🗣 Commented on [#92](https://github.com/openai/openai-node/issues/92) in [openai/openai-node](https://github.com/openai/openai-node)
-4. 🎉 Merged PR [#3](https://github.com/Lissy93/dotfiles/pull/3) in [Lissy93/dotfiles](https://github.com/Lissy93/dotfiles)
-5. 💪 Opened PR [#1](https://github.com/Lissy93/currency-flags/pull/1) in [Lissy93/currency-flags](https://github.com/Lissy93/currency-flags)
-6. 🎉 Merged PR [#158](https://github.com/Lissy93/awesome-privacy/pull/158) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-7. ❌ Closed PR [#157](https://github.com/Lissy93/awesome-privacy/pull/157) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-8. 🎉 Merged PR [#1141](https://github.com/Lissy93/dashy/pull/1141) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. 🎉 Merged PR [#152](https://github.com/Lissy93/awesome-privacy/pull/152) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-10. ❗️ Closed issue [#220](https://github.com/Lissy93/personal-security-checklist/issues/220) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+1. 🎉 Merged PR [#2](https://github.com/Lissy93/currency-flags/pull/2) in [Lissy93/currency-flags](https://github.com/Lissy93/currency-flags)
+2. 💪 Opened PR [#2](https://github.com/Lissy93/currency-flags/pull/2) in [Lissy93/currency-flags](https://github.com/Lissy93/currency-flags)
+3. 🎉 Merged PR [#1](https://github.com/Lissy93/currency-flags/pull/1) in [Lissy93/currency-flags](https://github.com/Lissy93/currency-flags)
+4. 🎉 Merged PR [#159](https://github.com/Lissy93/awesome-privacy/pull/159) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+5. 🎉 Merged PR [#1146](https://github.com/Lissy93/dashy/pull/1146) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. 🎉 Merged PR [#8](https://github.com/Lissy93/Brewfile/pull/8) in [Lissy93/Brewfile](https://github.com/Lissy93/Brewfile)
+7. 🗣 Commented on [#58](https://github.com/openai/openai-node/issues/58) in [openai/openai-node](https://github.com/openai/openai-node)
+8. 🗣 Commented on [#92](https://github.com/openai/openai-node/issues/92) in [openai/openai-node](https://github.com/openai/openai-node)
+9. 🎉 Merged PR [#3](https://github.com/Lissy93/dotfiles/pull/3) in [Lissy93/dotfiles](https://github.com/Lissy93/dotfiles)
+10. 💪 Opened PR [#1](https://github.com/Lissy93/currency-flags/pull/1) in [Lissy93/currency-flags](https://github.com/Lissy93/currency-flags)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
