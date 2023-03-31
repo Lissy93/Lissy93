@@ -129,16 +129,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Lissy93/devolio/pull/1) in [Lissy93/devolio](https://github.com/Lissy93/devolio)
-2. 💪 Opened PR [#1](https://github.com/Lissy93/devolio/pull/1) in [Lissy93/devolio](https://github.com/Lissy93/devolio)
-3. 🗣 Commented on [#1](https://github.com/Lissy93/cheat-code/issues/1) in [Lissy93/cheat-code](https://github.com/Lissy93/cheat-code)
-4. ❗️ Closed issue [#1](https://github.com/Lissy93/cheat-code/issues/1) in [Lissy93/cheat-code](https://github.com/Lissy93/cheat-code)
-5. 🗣 Commented on [#1](https://github.com/Lissy93/cheat-code/issues/1) in [Lissy93/cheat-code](https://github.com/Lissy93/cheat-code)
-6. 🎉 Merged PR [#2](https://github.com/Lissy93/currency-flags/pull/2) in [Lissy93/currency-flags](https://github.com/Lissy93/currency-flags)
-7. 💪 Opened PR [#2](https://github.com/Lissy93/currency-flags/pull/2) in [Lissy93/currency-flags](https://github.com/Lissy93/currency-flags)
-8. 🎉 Merged PR [#1](https://github.com/Lissy93/currency-flags/pull/1) in [Lissy93/currency-flags](https://github.com/Lissy93/currency-flags)
-9. 🎉 Merged PR [#159](https://github.com/Lissy93/awesome-privacy/pull/159) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-10. 🎉 Merged PR [#1146](https://github.com/Lissy93/dashy/pull/1146) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. 💪 Opened PR [#1154](https://github.com/Lissy93/dashy/pull/1154) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 🎉 Merged PR [#1](https://github.com/Lissy93/devolio/pull/1) in [Lissy93/devolio](https://github.com/Lissy93/devolio)
+3. 💪 Opened PR [#1](https://github.com/Lissy93/devolio/pull/1) in [Lissy93/devolio](https://github.com/Lissy93/devolio)
+4. 🗣 Commented on [#1](https://github.com/Lissy93/cheat-code/issues/1) in [Lissy93/cheat-code](https://github.com/Lissy93/cheat-code)
+5. ❗️ Closed issue [#1](https://github.com/Lissy93/cheat-code/issues/1) in [Lissy93/cheat-code](https://github.com/Lissy93/cheat-code)
+6. 🗣 Commented on [#1](https://github.com/Lissy93/cheat-code/issues/1) in [Lissy93/cheat-code](https://github.com/Lissy93/cheat-code)
+7. 🎉 Merged PR [#2](https://github.com/Lissy93/currency-flags/pull/2) in [Lissy93/currency-flags](https://github.com/Lissy93/currency-flags)
+8. 💪 Opened PR [#2](https://github.com/Lissy93/currency-flags/pull/2) in [Lissy93/currency-flags](https://github.com/Lissy93/currency-flags)
+9. 🎉 Merged PR [#1](https://github.com/Lissy93/currency-flags/pull/1) in [Lissy93/currency-flags](https://github.com/Lissy93/currency-flags)
+10. 🎉 Merged PR [#159](https://github.com/Lissy93/awesome-privacy/pull/159) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
