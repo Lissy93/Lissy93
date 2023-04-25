@@ -129,12 +129,12 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/Lissy93/portainer-templates/issues/1) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
-2. 🗣 Commented on [#1](https://github.com/Lissy93/portainer-templates/issues/1) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
+1. 🎉 Merged PR [#2](https://github.com/Lissy93/portainer-templates/pull/2) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
+2. ❗️ Closed issue [#1](https://github.com/Lissy93/portainer-templates/issues/1) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
 3. 🗣 Commented on [#1](https://github.com/Lissy93/portainer-templates/issues/1) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
-4. 🎉 Merged PR [#9](https://github.com/Lissy93/Brewfile/pull/9) in [Lissy93/Brewfile](https://github.com/Lissy93/Brewfile)
-5. 🗣 Commented on [#1003](https://github.com/coollabsio/coolify/issues/1003) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
-6. 🎉 Merged PR [#1](https://github.com/Lissy93/devolio/pull/1) in [Lissy93/devolio](https://github.com/Lissy93/devolio)
+4. 🗣 Commented on [#1](https://github.com/Lissy93/portainer-templates/issues/1) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
+5. 🎉 Merged PR [#9](https://github.com/Lissy93/Brewfile/pull/9) in [Lissy93/Brewfile](https://github.com/Lissy93/Brewfile)
+6. 🗣 Commented on [#1003](https://github.com/coollabsio/coolify/issues/1003) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
 7. 💪 Opened PR [#1](https://github.com/Lissy93/devolio/pull/1) in [Lissy93/devolio](https://github.com/Lissy93/devolio)
 8. 🗣 Commented on [#1](https://github.com/Lissy93/cheat-code/issues/1) in [Lissy93/cheat-code](https://github.com/Lissy93/cheat-code)
 9. ❗️ Closed issue [#1](https://github.com/Lissy93/cheat-code/issues/1) in [Lissy93/cheat-code](https://github.com/Lissy93/cheat-code)
