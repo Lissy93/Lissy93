@@ -11,14 +11,14 @@
 </a>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Lissy93/portainer-templates/pull/2) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
-2. ❗️ Closed issue [#1](https://github.com/Lissy93/portainer-templates/issues/1) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
-3. 🗣 Commented on [#1](https://github.com/Lissy93/portainer-templates/issues/1) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
-4. 🗣 Commented on [#1](https://github.com/Lissy93/portainer-templates/issues/1) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
-5. 🎉 Merged PR [#9](https://github.com/Lissy93/Brewfile/pull/9) in [Lissy93/Brewfile](https://github.com/Lissy93/Brewfile)
-6. 🗣 Commented on [#1003](https://github.com/coollabsio/coolify/issues/1003) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
-7. 💪 Opened PR [#1](https://github.com/Lissy93/devolio/pull/1) in [Lissy93/devolio](https://github.com/Lissy93/devolio)
-8. 🗣 Commented on [#1](https://github.com/Lissy93/cheat-code/issues/1) in [Lissy93/cheat-code](https://github.com/Lissy93/cheat-code)
+1. 🗣 Commented on [#979](https://github.com/Lissy93/dashy/issues/979) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 🗣 Commented on [#1152](https://github.com/Lissy93/dashy/issues/1152) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. 🎉 Merged PR [#2](https://github.com/Lissy93/portainer-templates/pull/2) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
+4. ❗️ Closed issue [#1](https://github.com/Lissy93/portainer-templates/issues/1) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
+5. 🗣 Commented on [#1](https://github.com/Lissy93/portainer-templates/issues/1) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
+6. 🗣 Commented on [#1](https://github.com/Lissy93/portainer-templates/issues/1) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
+7. 🎉 Merged PR [#9](https://github.com/Lissy93/Brewfile/pull/9) in [Lissy93/Brewfile](https://github.com/Lissy93/Brewfile)
+8. 🗣 Commented on [#1003](https://github.com/coollabsio/coolify/issues/1003) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
 9. ❗️ Closed issue [#1](https://github.com/Lissy93/cheat-code/issues/1) in [Lissy93/cheat-code](https://github.com/Lissy93/cheat-code)
 10. 🗣 Commented on [#1](https://github.com/Lissy93/cheat-code/issues/1) in [Lissy93/cheat-code](https://github.com/Lissy93/cheat-code)
 11. 💪 Opened PR [#2](https://github.com/Lissy93/currency-flags/pull/2) in [Lissy93/currency-flags](https://github.com/Lissy93/currency-flags)
