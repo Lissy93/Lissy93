@@ -129,16 +129,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#979](https://github.com/Lissy93/dashy/issues/979) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. 🗣 Commented on [#1056](https://github.com/coollabsio/coolify/issues/1056) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
-3. ❗️ Opened issue [#1056](https://github.com/coollabsio/coolify/issues/1056) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
-4. 🗣 Commented on [#979](https://github.com/Lissy93/dashy/issues/979) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. 🗣 Commented on [#1152](https://github.com/Lissy93/dashy/issues/1152) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. 🎉 Merged PR [#2](https://github.com/Lissy93/portainer-templates/pull/2) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
-7. ❗️ Closed issue [#1](https://github.com/Lissy93/portainer-templates/issues/1) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
-8. 🗣 Commented on [#1](https://github.com/Lissy93/portainer-templates/issues/1) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
+1. 🎉 Merged PR [#1167](https://github.com/Lissy93/dashy/pull/1167) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 🗣 Commented on [#979](https://github.com/Lissy93/dashy/issues/979) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. 🗣 Commented on [#1056](https://github.com/coollabsio/coolify/issues/1056) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
+4. ❗️ Opened issue [#1056](https://github.com/coollabsio/coolify/issues/1056) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
+5. 🗣 Commented on [#979](https://github.com/Lissy93/dashy/issues/979) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. 🗣 Commented on [#1152](https://github.com/Lissy93/dashy/issues/1152) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. 🎉 Merged PR [#2](https://github.com/Lissy93/portainer-templates/pull/2) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
+8. ❗️ Closed issue [#1](https://github.com/Lissy93/portainer-templates/issues/1) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
 9. 🗣 Commented on [#1](https://github.com/Lissy93/portainer-templates/issues/1) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
-10. 🎉 Merged PR [#9](https://github.com/Lissy93/Brewfile/pull/9) in [Lissy93/Brewfile](https://github.com/Lissy93/Brewfile)
+10. 🗣 Commented on [#1](https://github.com/Lissy93/portainer-templates/issues/1) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
