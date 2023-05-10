@@ -112,7 +112,7 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
   <summary><b>📊 Metrics</b></summary>
     <p>
 
-| [![General Stats](https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/summary.svg)](https://github.com/Lissy93/Lissy93/blob/master/METRICS.md) | [![Stargazer Stats](https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/stargazers.svg)](https://github.com/Lissy93/Lissy93/blob/master/METRICS.md) |
+| [![General Stats](https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/summary.svg)](https://github.com/Lissy93/Lissy93/blob/master/METRICS.md) ![Coding Habits](https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/habits.svg) | [![Stargazer Stats](https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/stargazers.svg)](https://github.com/Lissy93/Lissy93/blob/master/METRICS.md) |
 | - | - |
 
 **[➡️ More Metrics](/METRICS.md)**
