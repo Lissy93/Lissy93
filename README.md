@@ -132,16 +132,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1171](https://github.com/Lissy93/dashy/pull/1171) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. 🎉 Merged PR [#1175](https://github.com/Lissy93/dashy/pull/1175) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. 🎉 Merged PR [#1167](https://github.com/Lissy93/dashy/pull/1167) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. 🗣 Commented on [#979](https://github.com/Lissy93/dashy/issues/979) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. 🗣 Commented on [#1056](https://github.com/coollabsio/coolify/issues/1056) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
-6. ❗️ Opened issue [#1056](https://github.com/coollabsio/coolify/issues/1056) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
-7. 🗣 Commented on [#979](https://github.com/Lissy93/dashy/issues/979) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. 🗣 Commented on [#1152](https://github.com/Lissy93/dashy/issues/1152) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. 🎉 Merged PR [#2](https://github.com/Lissy93/portainer-templates/pull/2) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
-10. ❗️ Closed issue [#1](https://github.com/Lissy93/portainer-templates/issues/1) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
+1. 🗣 Commented on [#3815](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3815) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+2. 💪 Opened PR [#3815](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3815) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+3. 🎉 Merged PR [#1171](https://github.com/Lissy93/dashy/pull/1171) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. 🎉 Merged PR [#1175](https://github.com/Lissy93/dashy/pull/1175) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. 🎉 Merged PR [#1167](https://github.com/Lissy93/dashy/pull/1167) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. 🗣 Commented on [#979](https://github.com/Lissy93/dashy/issues/979) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. 🗣 Commented on [#1056](https://github.com/coollabsio/coolify/issues/1056) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
+8. ❗️ Opened issue [#1056](https://github.com/coollabsio/coolify/issues/1056) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
+9. 🗣 Commented on [#979](https://github.com/Lissy93/dashy/issues/979) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. 🗣 Commented on [#1152](https://github.com/Lissy93/dashy/issues/1152) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
