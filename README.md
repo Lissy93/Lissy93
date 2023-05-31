@@ -138,7 +138,7 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 4. 🗣 Commented on [#6](https://github.com/Lissy93/AdGuardian-Term/issues/6) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
 5. 🗣 Commented on [#1203](https://github.com/Lissy93/dashy/issues/1203) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 6. 🗣 Commented on [#5](https://github.com/Lissy93/AdGuardian-Term/issues/5) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
-7. ❗️ Closed issue [#5](https://github.com/Lissy93/AdGuardian-Term/issues/5) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
+7. 🔒 Closed issue [#5](https://github.com/Lissy93/AdGuardian-Term/issues/5) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
 8. 🗣 Commented on [#5](https://github.com/Lissy93/AdGuardian-Term/issues/5) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
 9. 🗣 Commented on [#55](https://github.com/crablang/crab/issues/55) in [crablang/crab](https://github.com/crablang/crab)
 10. 🗣 Commented on [#4](https://github.com/Lissy93/AdGuardian-Term/issues/4) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
