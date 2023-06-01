@@ -132,16 +132,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#142](https://github.com/rothgar/awesome-tuis/pull/142) in [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)
-2. 🗣 Commented on [#8](https://github.com/Lissy93/AdGuardian-Term/issues/8) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
-3. 🔒 Closed issue [#7](https://github.com/Lissy93/AdGuardian-Term/issues/7) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
-4. 🎉 Merged PR [#9](https://github.com/Lissy93/AdGuardian-Term/pull/9) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
-5. 🗣 Commented on [#7](https://github.com/Lissy93/AdGuardian-Term/issues/7) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
-6. 💪 Opened PR [#9](https://github.com/Lissy93/AdGuardian-Term/pull/9) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
-7. 🗣 Commented on [#55](https://github.com/crablang/crab/issues/55) in [crablang/crab](https://github.com/crablang/crab)
-8. 🗣 Commented on [#1203](https://github.com/Lissy93/dashy/issues/1203) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. 🗣 Commented on [#5](https://github.com/Lissy93/AdGuardian-Term/issues/5) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
+2. 💪 Opened PR [#142](https://github.com/rothgar/awesome-tuis/pull/142) in [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)
+3. 🗣 Commented on [#8](https://github.com/Lissy93/AdGuardian-Term/issues/8) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
+4. 🔒 Closed issue [#7](https://github.com/Lissy93/AdGuardian-Term/issues/7) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
+5. 🎉 Merged PR [#9](https://github.com/Lissy93/AdGuardian-Term/pull/9) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
+6. 🗣 Commented on [#7](https://github.com/Lissy93/AdGuardian-Term/issues/7) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
+7. 💪 Opened PR [#9](https://github.com/Lissy93/AdGuardian-Term/pull/9) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
+8. 🗣 Commented on [#55](https://github.com/crablang/crab/issues/55) in [crablang/crab](https://github.com/crablang/crab)
 9. 🗣 Commented on [#1203](https://github.com/Lissy93/dashy/issues/1203) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. 🗣 Commented on [#6](https://github.com/Lissy93/AdGuardian-Term/issues/6) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
+10. 🗣 Commented on [#1203](https://github.com/Lissy93/dashy/issues/1203) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
