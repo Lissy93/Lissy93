@@ -131,16 +131,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/Lissy93/AdGuardian-Term/issues/4) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
-2. 🔒 Closed issue [#11](https://github.com/Lissy93/AdGuardian-Term/issues/11) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
-3. 🎉 Merged PR [#14](https://github.com/Lissy93/AdGuardian-Term/pull/14) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
-4. 💪 Opened PR [#14](https://github.com/Lissy93/AdGuardian-Term/pull/14) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
-5. 🗣 Commented on [#11](https://github.com/Lissy93/AdGuardian-Term/issues/11) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
-6. 🎉 Merged PR [#13](https://github.com/Lissy93/AdGuardian-Term/pull/13) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
-7. 🎉 Merged PR [#12](https://github.com/Lissy93/AdGuardian-Term/pull/12) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
-8. 💪 Opened PR [#13](https://github.com/Lissy93/AdGuardian-Term/pull/13) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
-9. 🗣 Commented on [#1205](https://github.com/Lissy93/dashy/issues/1205) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. 🗣 Commented on [#5](https://github.com/Lissy93/AdGuardian-Term/issues/5) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
+1. 🎉 Merged PR [#1210](https://github.com/Lissy93/dashy/pull/1210) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 🗣 Commented on [#4](https://github.com/Lissy93/AdGuardian-Term/issues/4) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
+3. 🔒 Closed issue [#11](https://github.com/Lissy93/AdGuardian-Term/issues/11) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
+4. 🎉 Merged PR [#14](https://github.com/Lissy93/AdGuardian-Term/pull/14) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
+5. 💪 Opened PR [#14](https://github.com/Lissy93/AdGuardian-Term/pull/14) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
+6. 🗣 Commented on [#11](https://github.com/Lissy93/AdGuardian-Term/issues/11) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
+7. 🎉 Merged PR [#13](https://github.com/Lissy93/AdGuardian-Term/pull/13) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
+8. 🎉 Merged PR [#12](https://github.com/Lissy93/AdGuardian-Term/pull/12) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
+9. 💪 Opened PR [#13](https://github.com/Lissy93/AdGuardian-Term/pull/13) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
+10. 🗣 Commented on [#1205](https://github.com/Lissy93/dashy/issues/1205) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
