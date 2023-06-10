@@ -311,8 +311,9 @@ jobs:
           base: ""
           plugin_repositories: yes
           plugin_repositories_featured: >-
-            lissy93/dashy, lissy93/personal-security-checklist, lissy93/awesome-privacy, lissy93/go-apod,
-            lissy93/dotfiles,lissy93/email-comparison, lissy93/awesome-selfhosted, lissy93/docker-tcpdump,
+            lissy93/dashy, lissy93/AdGuardian-Term, lissy93/portainer-templates, lissy93/personal-security-checklist,
+            lissy93/awesome-privacy, lissy93/go-apod, lissy93/dotfiles,lissy93/email-comparison, lissy93/awesome-selfhosted,
+            lissy93/docker-tcpdump, lissy93/devolio,
             lissy93/pax, lissy93/all-the-countries, lissy93/minesweper,
             lissy93/callisto-theme-standard-notes, lissy93/lissy93,
             lissy93/twitter-sentiment-visualisation, lissy93/hasami-shogi, lissy93/nfu,
