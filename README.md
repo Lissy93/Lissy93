@@ -131,16 +131,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/Lissy93/portainer-templates/pull/8) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
-2. 🎉 Merged PR [#6](https://github.com/Lissy93/portainer-templates/pull/6) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
-3. 💪 Opened PR [#429](https://github.com/jivoi/awesome-osint/pull/429) in [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)
-4. 💪 Opened PR [#1237](https://github.com/Lissy93/dashy/pull/1237) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. 💪 Opened PR [#1227](https://github.com/Lissy93/dashy/pull/1227) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. 🔒 Closed issue [#1207](https://github.com/Lissy93/dashy/issues/1207) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. 🎉 Merged PR [#1221](https://github.com/Lissy93/dashy/pull/1221) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. 🗣 Commented on [#1207](https://github.com/Lissy93/dashy/issues/1207) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. 💪 Opened PR [#1221](https://github.com/Lissy93/dashy/pull/1221) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. 🎉 Merged PR [#1219](https://github.com/Lissy93/dashy/pull/1219) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. 🎉 Merged PR [#1248](https://github.com/Lissy93/dashy/pull/1248) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 🎉 Merged PR [#8](https://github.com/Lissy93/portainer-templates/pull/8) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
+3. 🎉 Merged PR [#6](https://github.com/Lissy93/portainer-templates/pull/6) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
+4. 💪 Opened PR [#429](https://github.com/jivoi/awesome-osint/pull/429) in [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)
+5. 💪 Opened PR [#1237](https://github.com/Lissy93/dashy/pull/1237) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. 💪 Opened PR [#1227](https://github.com/Lissy93/dashy/pull/1227) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. 🔒 Closed issue [#1207](https://github.com/Lissy93/dashy/issues/1207) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. 🎉 Merged PR [#1221](https://github.com/Lissy93/dashy/pull/1221) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+9. 🗣 Commented on [#1207](https://github.com/Lissy93/dashy/issues/1207) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. 💪 Opened PR [#1221](https://github.com/Lissy93/dashy/pull/1221) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
