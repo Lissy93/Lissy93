@@ -131,16 +131,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1243](https://github.com/Lissy93/dashy/pull/1243) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. 🎉 Merged PR [#1229](https://github.com/Lissy93/dashy/pull/1229) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. 🎉 Merged PR [#1194](https://github.com/Lissy93/dashy/pull/1194) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. 🎉 Merged PR [#1192](https://github.com/Lissy93/dashy/pull/1192) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. 💪 Opened PR [#3](https://github.com/ANG13T/aerospace-hacking-tools/pull/3) in [ANG13T/aerospace-hacking-tools](https://github.com/ANG13T/aerospace-hacking-tools)
-6. 💪 Opened PR [#2](https://github.com/ANG13T/aerospace-hacking-tools/pull/2) in [ANG13T/aerospace-hacking-tools](https://github.com/ANG13T/aerospace-hacking-tools)
-7. 🎉 Merged PR [#1248](https://github.com/Lissy93/dashy/pull/1248) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. 🎉 Merged PR [#8](https://github.com/Lissy93/portainer-templates/pull/8) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
-9. 🎉 Merged PR [#6](https://github.com/Lissy93/portainer-templates/pull/6) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
-10. 💪 Opened PR [#429](https://github.com/jivoi/awesome-osint/pull/429) in [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)
+1. 🗣 Commented on [#275](https://github.com/jivoi/awesome-osint/issues/275) in [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)
+2. 💪 Opened PR [#434](https://github.com/jivoi/awesome-osint/pull/434) in [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)
+3. 💪 Opened PR [#433](https://github.com/jivoi/awesome-osint/pull/433) in [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)
+4. 🎉 Merged PR [#1243](https://github.com/Lissy93/dashy/pull/1243) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. 🎉 Merged PR [#1229](https://github.com/Lissy93/dashy/pull/1229) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. 🎉 Merged PR [#1194](https://github.com/Lissy93/dashy/pull/1194) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. 🎉 Merged PR [#1192](https://github.com/Lissy93/dashy/pull/1192) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. 💪 Opened PR [#3](https://github.com/ANG13T/aerospace-hacking-tools/pull/3) in [ANG13T/aerospace-hacking-tools](https://github.com/ANG13T/aerospace-hacking-tools)
+9. 💪 Opened PR [#2](https://github.com/ANG13T/aerospace-hacking-tools/pull/2) in [ANG13T/aerospace-hacking-tools](https://github.com/ANG13T/aerospace-hacking-tools)
+10. 🎉 Merged PR [#1248](https://github.com/Lissy93/dashy/pull/1248) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
