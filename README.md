@@ -152,7 +152,7 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 
 <!-- Snek -->   
 <p align="center">
-<a href="https://gitstar-ranking.com/Lissy93" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
+<a href="https://gitstar-ranking.com/Lissy93" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/6ab2bf5fc655d92092527ff12cc2c1fd0d73fca0/assets/github-snake.svg" /></a>
 </p>
 
 </details>
