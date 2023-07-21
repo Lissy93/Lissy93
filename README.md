@@ -131,16 +131,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/Lissy93/web-check/issues/5) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+1. ❌ Closed PR [#6](https://github.com/Lissy93/web-check/pull/6) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
 2. 🗣 Commented on [#5](https://github.com/Lissy93/web-check/issues/5) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-3. 🎉 Merged PR [#3](https://github.com/Lissy93/web-check/pull/3) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-4. 🗣 Commented on [#169](https://github.com/Lissy93/awesome-privacy/issues/169) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-5. ❗ Opened issue [#1](https://github.com/BiciP/plausible-mobile/issues/1) in [BiciP/plausible-mobile](https://github.com/BiciP/plausible-mobile)
-6. 🔒 Closed issue [#1](https://github.com/Lissy93/web-check/issues/1) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-7. 🗣 Commented on [#1](https://github.com/Lissy93/web-check/issues/1) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-8. 💪 Opened PR [#435](https://github.com/jivoi/awesome-osint/pull/435) in [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)
-9. 🗣 Commented on [#275](https://github.com/jivoi/awesome-osint/issues/275) in [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)
-10. 💪 Opened PR [#434](https://github.com/jivoi/awesome-osint/pull/434) in [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)
+3. 🗣 Commented on [#5](https://github.com/Lissy93/web-check/issues/5) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+4. 🎉 Merged PR [#3](https://github.com/Lissy93/web-check/pull/3) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+5. 🗣 Commented on [#169](https://github.com/Lissy93/awesome-privacy/issues/169) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+6. ❗ Opened issue [#1](https://github.com/BiciP/plausible-mobile/issues/1) in [BiciP/plausible-mobile](https://github.com/BiciP/plausible-mobile)
+7. 🔒 Closed issue [#1](https://github.com/Lissy93/web-check/issues/1) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+8. 🗣 Commented on [#1](https://github.com/Lissy93/web-check/issues/1) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+9. 💪 Opened PR [#435](https://github.com/jivoi/awesome-osint/pull/435) in [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)
+10. 🗣 Commented on [#275](https://github.com/jivoi/awesome-osint/issues/275) in [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
