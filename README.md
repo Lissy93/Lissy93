@@ -130,16 +130,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#291](https://github.com/standardnotes/listed/issues/291) in [standardnotes/listed](https://github.com/standardnotes/listed)
-2. 🔒 Closed issue [#291](https://github.com/standardnotes/listed/issues/291) in [standardnotes/listed](https://github.com/standardnotes/listed)
-3. 🗣 Commented on [#291](https://github.com/standardnotes/listed/issues/291) in [standardnotes/listed](https://github.com/standardnotes/listed)
-4. 🗣 Commented on [#1267](https://github.com/Lissy93/dashy/issues/1267) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. 🗣 Commented on [#1267](https://github.com/Lissy93/dashy/issues/1267) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. ❗ Opened issue [#291](https://github.com/standardnotes/listed/issues/291) in [standardnotes/listed](https://github.com/standardnotes/listed)
-7. 💪 Opened PR [#438](https://github.com/jivoi/awesome-osint/pull/438) in [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)
-8. 🗣 Commented on [#293](https://github.com/alixaxel/chrome-aws-lambda/issues/293) in [alixaxel/chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda)
+1. 🗣 Commented on [#8](https://github.com/Lissy93/web-check/issues/8) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+2. 🔒 Closed issue [#7](https://github.com/Lissy93/web-check/issues/7) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+3. 🎉 Merged PR [#12](https://github.com/Lissy93/web-check/pull/12) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+4. 🗣 Commented on [#7](https://github.com/Lissy93/web-check/issues/7) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+5. 💪 Opened PR [#12](https://github.com/Lissy93/web-check/pull/12) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+6. 🗣 Commented on [#291](https://github.com/standardnotes/listed/issues/291) in [standardnotes/listed](https://github.com/standardnotes/listed)
+7. 🔒 Closed issue [#291](https://github.com/standardnotes/listed/issues/291) in [standardnotes/listed](https://github.com/standardnotes/listed)
+8. 🗣 Commented on [#291](https://github.com/standardnotes/listed/issues/291) in [standardnotes/listed](https://github.com/standardnotes/listed)
 9. 🗣 Commented on [#1267](https://github.com/Lissy93/dashy/issues/1267) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. 🔒 Closed issue [#5](https://github.com/Lissy93/web-check/issues/5) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+10. 🗣 Commented on [#1267](https://github.com/Lissy93/dashy/issues/1267) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
