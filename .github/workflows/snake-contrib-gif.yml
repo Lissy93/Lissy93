@@ -14,8 +14,10 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
-          gif_out_path: assets/github-snake.gif
-          svg_out_path: assets/github-snake.svg
+          outputs: |
+            assets/github-snake.gif
+            assets/github-snake.svg
+            assets/github-snake.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       # Commit the changes
@@ -31,3 +33,4 @@ jobs:
         with:
           github_token: ${{ secrets.BOT_GITHUB_TOKEN }}
           branch: ${{ github.ref }}
+          
