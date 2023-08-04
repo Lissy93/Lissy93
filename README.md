@@ -130,16 +130,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/Lissy93/web-check/issues/8) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-2. 🔒 Closed issue [#7](https://github.com/Lissy93/web-check/issues/7) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-3. 🎉 Merged PR [#12](https://github.com/Lissy93/web-check/pull/12) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-4. 🗣 Commented on [#7](https://github.com/Lissy93/web-check/issues/7) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-5. 💪 Opened PR [#12](https://github.com/Lissy93/web-check/pull/12) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-6. 🗣 Commented on [#291](https://github.com/standardnotes/listed/issues/291) in [standardnotes/listed](https://github.com/standardnotes/listed)
-7. 🔒 Closed issue [#291](https://github.com/standardnotes/listed/issues/291) in [standardnotes/listed](https://github.com/standardnotes/listed)
+1. 🔒 Closed issue [#1](https://github.com/Lissy93/happy-app/issues/1) in [Lissy93/happy-app](https://github.com/Lissy93/happy-app)
+2. 🔒 Closed issue [#2](https://github.com/Lissy93/happy-app/issues/2) in [Lissy93/happy-app](https://github.com/Lissy93/happy-app)
+3. 🗣 Commented on [#8](https://github.com/Lissy93/web-check/issues/8) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+4. 🔒 Closed issue [#7](https://github.com/Lissy93/web-check/issues/7) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+5. 🎉 Merged PR [#12](https://github.com/Lissy93/web-check/pull/12) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+6. 🗣 Commented on [#7](https://github.com/Lissy93/web-check/issues/7) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+7. 💪 Opened PR [#12](https://github.com/Lissy93/web-check/pull/12) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
 8. 🗣 Commented on [#291](https://github.com/standardnotes/listed/issues/291) in [standardnotes/listed](https://github.com/standardnotes/listed)
-9. 🗣 Commented on [#1267](https://github.com/Lissy93/dashy/issues/1267) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. 🗣 Commented on [#1267](https://github.com/Lissy93/dashy/issues/1267) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+9. 🔒 Closed issue [#291](https://github.com/standardnotes/listed/issues/291) in [standardnotes/listed](https://github.com/standardnotes/listed)
+10. 🗣 Commented on [#291](https://github.com/standardnotes/listed/issues/291) in [standardnotes/listed](https://github.com/standardnotes/listed)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
