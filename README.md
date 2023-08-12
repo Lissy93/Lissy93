@@ -130,16 +130,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/Lissy93/web-check/pull/30) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-2. 💪 Opened PR [#31](https://github.com/Lissy93/web-check/pull/31) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-3. 🎉 Merged PR [#24](https://github.com/Lissy93/web-check/pull/24) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-4. 💪 Opened PR [#99](https://github.com/mikeroyal/Windows-11-Guide/pull/99) in [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide)
-5. 🎉 Merged PR [#1277](https://github.com/Lissy93/dashy/pull/1277) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. 🔒 Closed issue [#1](https://github.com/Lissy93/happy-app/issues/1) in [Lissy93/happy-app](https://github.com/Lissy93/happy-app)
-7. 🔒 Closed issue [#2](https://github.com/Lissy93/happy-app/issues/2) in [Lissy93/happy-app](https://github.com/Lissy93/happy-app)
-8. 🗣 Commented on [#8](https://github.com/Lissy93/web-check/issues/8) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-9. 🔒 Closed issue [#7](https://github.com/Lissy93/web-check/issues/7) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-10. 🎉 Merged PR [#12](https://github.com/Lissy93/web-check/pull/12) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+1. 🎉 Merged PR [#31](https://github.com/Lissy93/web-check/pull/31) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+2. 🎉 Merged PR [#30](https://github.com/Lissy93/web-check/pull/30) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+3. 💪 Opened PR [#31](https://github.com/Lissy93/web-check/pull/31) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+4. 🎉 Merged PR [#24](https://github.com/Lissy93/web-check/pull/24) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+5. 💪 Opened PR [#99](https://github.com/mikeroyal/Windows-11-Guide/pull/99) in [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide)
+6. 🎉 Merged PR [#1277](https://github.com/Lissy93/dashy/pull/1277) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. 🔒 Closed issue [#1](https://github.com/Lissy93/happy-app/issues/1) in [Lissy93/happy-app](https://github.com/Lissy93/happy-app)
+8. 🔒 Closed issue [#2](https://github.com/Lissy93/happy-app/issues/2) in [Lissy93/happy-app](https://github.com/Lissy93/happy-app)
+9. 🗣 Commented on [#8](https://github.com/Lissy93/web-check/issues/8) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+10. 🔒 Closed issue [#7](https://github.com/Lissy93/web-check/issues/7) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
