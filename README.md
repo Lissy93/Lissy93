@@ -130,16 +130,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/Lissy93/web-check/issues/35) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-2. 🎉 Merged PR [#32](https://github.com/Lissy93/web-check/pull/32) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-3. 🎉 Merged PR [#34](https://github.com/Lissy93/web-check/pull/34) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-4. 💪 Opened PR [#3](https://github.com/someshkar/whois-api/pull/3) in [someshkar/whois-api](https://github.com/someshkar/whois-api)
-5. ❌ Closed PR [#2](https://github.com/someshkar/whois-api/pull/2) in [someshkar/whois-api](https://github.com/someshkar/whois-api)
-6. 💪 Opened PR [#2](https://github.com/someshkar/whois-api/pull/2) in [someshkar/whois-api](https://github.com/someshkar/whois-api)
-7. 🎉 Merged PR [#1278](https://github.com/Lissy93/dashy/pull/1278) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. 🎉 Merged PR [#31](https://github.com/Lissy93/web-check/pull/31) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-9. 🎉 Merged PR [#30](https://github.com/Lissy93/web-check/pull/30) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-10. 💪 Opened PR [#31](https://github.com/Lissy93/web-check/pull/31) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+1. 💪 Opened PR [#1285](https://github.com/Lissy93/dashy/pull/1285) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 🗣 Commented on [#35](https://github.com/Lissy93/web-check/issues/35) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+3. 🎉 Merged PR [#32](https://github.com/Lissy93/web-check/pull/32) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+4. 🎉 Merged PR [#34](https://github.com/Lissy93/web-check/pull/34) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+5. 💪 Opened PR [#3](https://github.com/someshkar/whois-api/pull/3) in [someshkar/whois-api](https://github.com/someshkar/whois-api)
+6. ❌ Closed PR [#2](https://github.com/someshkar/whois-api/pull/2) in [someshkar/whois-api](https://github.com/someshkar/whois-api)
+7. 💪 Opened PR [#2](https://github.com/someshkar/whois-api/pull/2) in [someshkar/whois-api](https://github.com/someshkar/whois-api)
+8. 🎉 Merged PR [#1278](https://github.com/Lissy93/dashy/pull/1278) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+9. 🎉 Merged PR [#31](https://github.com/Lissy93/web-check/pull/31) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+10. 🎉 Merged PR [#30](https://github.com/Lissy93/web-check/pull/30) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
