@@ -130,16 +130,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#41](https://github.com/Lissy93/web-check/pull/41) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-2. 🎉 Merged PR [#4](https://github.com/Lissy93/dotfiles/pull/4) in [Lissy93/dotfiles](https://github.com/Lissy93/dotfiles)
-3. 🎉 Merged PR [#1293](https://github.com/Lissy93/dashy/pull/1293) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. 🎉 Merged PR [#37](https://github.com/Lissy93/web-check/pull/37) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-5. 💪 Opened PR [#37](https://github.com/Lissy93/web-check/pull/37) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-6. 💪 Opened PR [#1285](https://github.com/Lissy93/dashy/pull/1285) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. 🗣 Commented on [#35](https://github.com/Lissy93/web-check/issues/35) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-8. 🎉 Merged PR [#32](https://github.com/Lissy93/web-check/pull/32) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-9. 🎉 Merged PR [#34](https://github.com/Lissy93/web-check/pull/34) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-10. 💪 Opened PR [#3](https://github.com/someshkar/whois-api/pull/3) in [someshkar/whois-api](https://github.com/someshkar/whois-api)
+1. 🔒 Closed issue [#14](https://github.com/Lissy93/web-check/issues/14) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+2. 🔒 Closed issue [#9](https://github.com/Lissy93/web-check/issues/9) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+3. 🗣 Commented on [#9](https://github.com/Lissy93/web-check/issues/9) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+4. 🔒 Closed issue [#28](https://github.com/Lissy93/web-check/issues/28) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+5. 🔒 Closed issue [#26](https://github.com/Lissy93/web-check/issues/26) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+6. 🔒 Closed issue [#29](https://github.com/Lissy93/web-check/issues/29) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+7. 🔒 Closed issue [#38](https://github.com/Lissy93/web-check/issues/38) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+8. 🗣 Commented on [#38](https://github.com/Lissy93/web-check/issues/38) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+9. 🔒 Closed issue [#42](https://github.com/Lissy93/web-check/issues/42) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+10. 🗣 Commented on [#42](https://github.com/Lissy93/web-check/issues/42) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
