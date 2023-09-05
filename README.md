@@ -130,15 +130,15 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#48](https://github.com/Lissy93/web-check/pull/48) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-2. 💪 Opened PR [#48](https://github.com/Lissy93/web-check/pull/48) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-3. 🎉 Merged PR [#16](https://github.com/Lissy93/portainer-templates/pull/16) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
-4. 💪 Opened PR [#16](https://github.com/Lissy93/portainer-templates/pull/16) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
-5. 🎉 Merged PR [#11](https://github.com/Lissy93/portainer-templates/pull/11) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
-6. 🗣 Commented on [#12](https://github.com/Lissy93/portainer-templates/issues/12) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
-7. 💪 Opened PR [#463](https://github.com/novaspirit/pi-hosted/pull/463) in [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted)
-8. ❌ Closed PR [#12](https://github.com/Lissy93/portainer-templates/pull/12) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
-9. 🗣 Commented on [#1308](https://github.com/Lissy93/dashy/issues/1308) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. 🎉 Merged PR [#1309](https://github.com/Lissy93/dashy/pull/1309) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 🎉 Merged PR [#48](https://github.com/Lissy93/web-check/pull/48) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+3. 💪 Opened PR [#48](https://github.com/Lissy93/web-check/pull/48) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+4. 🎉 Merged PR [#16](https://github.com/Lissy93/portainer-templates/pull/16) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
+5. 💪 Opened PR [#16](https://github.com/Lissy93/portainer-templates/pull/16) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
+6. 🎉 Merged PR [#11](https://github.com/Lissy93/portainer-templates/pull/11) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
+7. 🗣 Commented on [#12](https://github.com/Lissy93/portainer-templates/issues/12) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
+8. 💪 Opened PR [#463](https://github.com/novaspirit/pi-hosted/pull/463) in [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted)
+9. ❌ Closed PR [#12](https://github.com/Lissy93/portainer-templates/pull/12) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
 10. 🗣 Commented on [#1308](https://github.com/Lissy93/dashy/issues/1308) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
