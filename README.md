@@ -130,16 +130,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#161](https://github.com/Lissy93/awesome-privacy/pull/161) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-2. 🎉 Merged PR [#172](https://github.com/Lissy93/awesome-privacy/pull/172) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-3. 🗣 Commented on [#49](https://github.com/Lissy93/web-check/issues/49) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-4. 🗣 Commented on [#50](https://github.com/Lissy93/web-check/issues/50) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-5. 🔒 Closed issue [#50](https://github.com/Lissy93/web-check/issues/50) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-6. 💪 Opened PR [#215](https://github.com/neon-mmd/websurfx/pull/215) in [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx)
-7. 🗣 Commented on [#184](https://github.com/Lissy93/awesome-privacy/issues/184) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-8. 🎉 Merged PR [#1309](https://github.com/Lissy93/dashy/pull/1309) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. 🎉 Merged PR [#48](https://github.com/Lissy93/web-check/pull/48) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-10. 💪 Opened PR [#48](https://github.com/Lissy93/web-check/pull/48) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+1. 🎉 Merged PR [#51](https://github.com/Lissy93/web-check/pull/51) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+2. ❌ Closed PR [#161](https://github.com/Lissy93/awesome-privacy/pull/161) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+3. 🎉 Merged PR [#172](https://github.com/Lissy93/awesome-privacy/pull/172) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+4. 🗣 Commented on [#49](https://github.com/Lissy93/web-check/issues/49) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+5. 🗣 Commented on [#50](https://github.com/Lissy93/web-check/issues/50) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+6. 🔒 Closed issue [#50](https://github.com/Lissy93/web-check/issues/50) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+7. 💪 Opened PR [#215](https://github.com/neon-mmd/websurfx/pull/215) in [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx)
+8. 🗣 Commented on [#184](https://github.com/Lissy93/awesome-privacy/issues/184) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+9. 🎉 Merged PR [#1309](https://github.com/Lissy93/dashy/pull/1309) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. 🎉 Merged PR [#48](https://github.com/Lissy93/web-check/pull/48) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
