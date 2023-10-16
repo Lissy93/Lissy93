@@ -130,16 +130,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#11](https://github.com/Lissy93/email-comparison/pull/11) in [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison)
-2. 🗣 Commented on [#11](https://github.com/Lissy93/email-comparison/issues/11) in [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison)
-3. 🎉 Merged PR [#146](https://github.com/Lissy93/git-into-open-source/pull/146) in [Lissy93/git-into-open-source](https://github.com/Lissy93/git-into-open-source)
-4. 🎉 Merged PR [#145](https://github.com/Lissy93/git-into-open-source/pull/145) in [Lissy93/git-into-open-source](https://github.com/Lissy93/git-into-open-source)
-5. ❌ Closed PR [#140](https://github.com/Lissy93/git-into-open-source/pull/140) in [Lissy93/git-into-open-source](https://github.com/Lissy93/git-into-open-source)
-6. 🎉 Merged PR [#142](https://github.com/Lissy93/git-into-open-source/pull/142) in [Lissy93/git-into-open-source](https://github.com/Lissy93/git-into-open-source)
-7. 🎉 Merged PR [#141](https://github.com/Lissy93/git-into-open-source/pull/141) in [Lissy93/git-into-open-source](https://github.com/Lissy93/git-into-open-source)
-8. 🔒 Closed issue [#190](https://github.com/Lissy93/awesome-privacy/issues/190) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-9. 🎉 Merged PR [#191](https://github.com/Lissy93/awesome-privacy/pull/191) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-10. 🎉 Merged PR [#1341](https://github.com/Lissy93/dashy/pull/1341) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. ❌ Closed PR [#1345](https://github.com/Lissy93/dashy/pull/1345) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 💪 Opened PR [#149](https://github.com/Lissy93/git-into-open-source/pull/149) in [Lissy93/git-into-open-source](https://github.com/Lissy93/git-into-open-source)
+3. 🎉 Merged PR [#147](https://github.com/Lissy93/git-into-open-source/pull/147) in [Lissy93/git-into-open-source](https://github.com/Lissy93/git-into-open-source)
+4. 🗣 Commented on [#147](https://github.com/Lissy93/git-into-open-source/issues/147) in [Lissy93/git-into-open-source](https://github.com/Lissy93/git-into-open-source)
+5. 🗣 Commented on [#1331](https://github.com/Lissy93/dashy/issues/1331) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. 🎉 Merged PR [#148](https://github.com/Lissy93/git-into-open-source/pull/148) in [Lissy93/git-into-open-source](https://github.com/Lissy93/git-into-open-source)
+7. ❌ Closed PR [#11](https://github.com/Lissy93/email-comparison/pull/11) in [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison)
+8. 🗣 Commented on [#11](https://github.com/Lissy93/email-comparison/issues/11) in [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison)
+9. 🎉 Merged PR [#146](https://github.com/Lissy93/git-into-open-source/pull/146) in [Lissy93/git-into-open-source](https://github.com/Lissy93/git-into-open-source)
+10. 🎉 Merged PR [#145](https://github.com/Lissy93/git-into-open-source/pull/145) in [Lissy93/git-into-open-source](https://github.com/Lissy93/git-into-open-source)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
