@@ -130,16 +130,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#165](https://github.com/Lissy93/git-into-open-source/pull/165) in [Lissy93/git-into-open-source](https://github.com/Lissy93/git-into-open-source)
-2. 💪 Opened PR [#166](https://github.com/Lissy93/git-into-open-source/pull/166) in [Lissy93/git-into-open-source](https://github.com/Lissy93/git-into-open-source)
-3. 💪 Opened PR [#164](https://github.com/Lissy93/git-into-open-source/pull/164) in [Lissy93/git-into-open-source](https://github.com/Lissy93/git-into-open-source)
-4. 🗣 Commented on [#3](https://github.com/someshkar/whois-api/issues/3) in [someshkar/whois-api](https://github.com/someshkar/whois-api)
-5. 🎉 Merged PR [#21](https://github.com/Lissy93/portainer-templates/pull/21) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
-6. 🎉 Merged PR [#1275](https://github.com/Lissy93/dashy/pull/1275) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. 🗣 Commented on [#463](https://github.com/novaspirit/pi-hosted/issues/463) in [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted)
-8. 🎉 Merged PR [#3](https://github.com/Lissy93/currency-flags/pull/3) in [Lissy93/currency-flags](https://github.com/Lissy93/currency-flags)
-9. 🔒 Closed issue [#1](https://github.com/Lissy93/realtime-speech-analytics/issues/1) in [Lissy93/realtime-speech-analytics](https://github.com/Lissy93/realtime-speech-analytics)
-10. 🔒 Closed issue [#1321](https://github.com/Lissy93/dashy/issues/1321) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. 🎉 Merged PR [#187](https://github.com/Lissy93/awesome-privacy/pull/187) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+2. 🎉 Merged PR [#165](https://github.com/Lissy93/git-into-open-source/pull/165) in [Lissy93/git-into-open-source](https://github.com/Lissy93/git-into-open-source)
+3. 💪 Opened PR [#166](https://github.com/Lissy93/git-into-open-source/pull/166) in [Lissy93/git-into-open-source](https://github.com/Lissy93/git-into-open-source)
+4. 💪 Opened PR [#164](https://github.com/Lissy93/git-into-open-source/pull/164) in [Lissy93/git-into-open-source](https://github.com/Lissy93/git-into-open-source)
+5. 🗣 Commented on [#3](https://github.com/someshkar/whois-api/issues/3) in [someshkar/whois-api](https://github.com/someshkar/whois-api)
+6. 🎉 Merged PR [#21](https://github.com/Lissy93/portainer-templates/pull/21) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
+7. 🎉 Merged PR [#1275](https://github.com/Lissy93/dashy/pull/1275) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. 🗣 Commented on [#463](https://github.com/novaspirit/pi-hosted/issues/463) in [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted)
+9. 🎉 Merged PR [#3](https://github.com/Lissy93/currency-flags/pull/3) in [Lissy93/currency-flags](https://github.com/Lissy93/currency-flags)
+10. 🔒 Closed issue [#1](https://github.com/Lissy93/realtime-speech-analytics/issues/1) in [Lissy93/realtime-speech-analytics](https://github.com/Lissy93/realtime-speech-analytics)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
