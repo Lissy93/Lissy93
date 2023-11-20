@@ -1,8 +1,6 @@
 
 # Tech Stack
 
-https://github.com/Lissy93/git-into-open-source
-
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
