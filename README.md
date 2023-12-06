@@ -130,16 +130,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#174](https://github.com/Lissy93/git-into-open-source/pull/174) in [Lissy93/git-into-open-source](https://github.com/Lissy93/git-into-open-source)
-2. 🎉 Merged PR [#2](https://github.com/Lissy93/cso/pull/2) in [Lissy93/cso](https://github.com/Lissy93/cso)
-3. 💪 Opened PR [#2](https://github.com/Lissy93/cso/pull/2) in [Lissy93/cso](https://github.com/Lissy93/cso)
-4. 🎉 Merged PR [#1395](https://github.com/Lissy93/dashy/pull/1395) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. 🎉 Merged PR [#1](https://github.com/Lissy93/cso/pull/1) in [Lissy93/cso](https://github.com/Lissy93/cso)
-6. 💪 Opened PR [#1](https://github.com/Lissy93/cso/pull/1) in [Lissy93/cso](https://github.com/Lissy93/cso)
-7. 💪 Opened PR [#173](https://github.com/Lissy93/git-into-open-source/pull/173) in [Lissy93/git-into-open-source](https://github.com/Lissy93/git-into-open-source)
-8. 🎉 Merged PR [#171](https://github.com/Lissy93/git-into-open-source/pull/171) in [Lissy93/git-into-open-source](https://github.com/Lissy93/git-into-open-source)
-9. 🎉 Merged PR [#195](https://github.com/Lissy93/awesome-privacy/pull/195) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-10. 🔒 Closed issue [#135](https://github.com/Lissy93/git-into-open-source/issues/135) in [Lissy93/git-into-open-source](https://github.com/Lissy93/git-into-open-source)
+1. 🎉 Merged PR [#170](https://github.com/Lissy93/git-into-open-source/pull/170) in [Lissy93/git-into-open-source](https://github.com/Lissy93/git-into-open-source)
+2. 💪 Opened PR [#174](https://github.com/Lissy93/git-into-open-source/pull/174) in [Lissy93/git-into-open-source](https://github.com/Lissy93/git-into-open-source)
+3. 🎉 Merged PR [#2](https://github.com/Lissy93/cso/pull/2) in [Lissy93/cso](https://github.com/Lissy93/cso)
+4. 💪 Opened PR [#2](https://github.com/Lissy93/cso/pull/2) in [Lissy93/cso](https://github.com/Lissy93/cso)
+5. 🎉 Merged PR [#1395](https://github.com/Lissy93/dashy/pull/1395) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. 🎉 Merged PR [#1](https://github.com/Lissy93/cso/pull/1) in [Lissy93/cso](https://github.com/Lissy93/cso)
+7. 💪 Opened PR [#1](https://github.com/Lissy93/cso/pull/1) in [Lissy93/cso](https://github.com/Lissy93/cso)
+8. 💪 Opened PR [#173](https://github.com/Lissy93/git-into-open-source/pull/173) in [Lissy93/git-into-open-source](https://github.com/Lissy93/git-into-open-source)
+9. 🎉 Merged PR [#171](https://github.com/Lissy93/git-into-open-source/pull/171) in [Lissy93/git-into-open-source](https://github.com/Lissy93/git-into-open-source)
+10. 🎉 Merged PR [#195](https://github.com/Lissy93/awesome-privacy/pull/195) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
