@@ -6,6 +6,7 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Trying out Solid.js 🍰](https://notes.aliciasykes.com/48068/trying-out-solid-js)
 - [50 ways to bring in extra cash as a developer  💰](https://notes.aliciasykes.com/47804/50-ways-to-bring-in-extra-cash-as-a-developer)
 - [SvelteKit 1.0 - Building a Blog that fetches from RSS 🦄](https://notes.aliciasykes.com/42764/sveltekit-1-0-building-a-blog-that-fetches-from-rss)
 - [20 Amazing Collections for Self-Taught Developers 🎓](https://notes.aliciasykes.com/42310/20-amazing-collections-for-self-taught-developers)
