@@ -429,6 +429,12 @@ This can be fixed by adding something similar to this into your VS Code settings
                                         </code>
                                         <b>Rebuild System Index</b>
                                         For Windows users, VS Code uses the system search index, so rebuilding that may help.
+                                        <b>Network Drive Setup</b>
+                                        If you're project is sourced on a network drive, there's an extra step involved to get indexing working, by mounting to a local drive. This is a known issue (see #4008), which can be resolved by mounting the app from a fixed drive or mapping the network drive to a local drive letter (e.g. if your network drive is located at
+                                        <code>\\NETWORKPATH\home\USER\REPO\GITREPO</code>
+                                        , then map it to
+                                        <code>X:/</code>
+                                        on your local machine.
                                         <b>Ensure Intellisense Enabled</b>
                                         Finally, it may seem obvious, but just confirm that Intellisense is actually enabled, with
                                         <code>editor.tabCompletion</code>
