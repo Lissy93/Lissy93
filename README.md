@@ -130,16 +130,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Lissy93/who-dat/issues/1) in [Lissy93/who-dat](https://github.com/Lissy93/who-dat)
-2. 🎉 Merged PR [#1](https://github.com/Lissy93/who-dat/pull/1) in [Lissy93/who-dat](https://github.com/Lissy93/who-dat)
-3. 💪 Opened PR [#125](https://github.com/public-api-lists/public-api-lists/pull/125) in [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists)
-4. 🚀 Published release [v0.9](https://github.com/v0.9) in [Lissy93/who-dat](https://github.com/Lissy93/who-dat)
-5. 🚀 Published release [V0.9](https://github.com/V0.9) in [Lissy93/who-dat](https://github.com/Lissy93/who-dat)
+1. 🗣 Commented on [#1](https://github.com/nkryuchkov/go-spacemesh/issues/1) in [nkryuchkov/go-spacemesh](https://github.com/nkryuchkov/go-spacemesh)
+2. 🗣 Commented on [#1](https://github.com/Lissy93/who-dat/issues/1) in [Lissy93/who-dat](https://github.com/Lissy93/who-dat)
+3. 🎉 Merged PR [#1](https://github.com/Lissy93/who-dat/pull/1) in [Lissy93/who-dat](https://github.com/Lissy93/who-dat)
+4. 💪 Opened PR [#125](https://github.com/public-api-lists/public-api-lists/pull/125) in [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists)
+5. 🚀 Published release [v0.9](https://github.com/v0.9) in [Lissy93/who-dat](https://github.com/Lissy93/who-dat)
 6. 🚀 Published release [V0.9](https://github.com/V0.9) in [Lissy93/who-dat](https://github.com/Lissy93/who-dat)
-7. 🗣 Commented on [#3](https://github.com/someshkar/whois-api/issues/3) in [someshkar/whois-api](https://github.com/someshkar/whois-api)
-8. ❗ Opened issue [#4](https://github.com/someshkar/whois-api/issues/4) in [someshkar/whois-api](https://github.com/someshkar/whois-api)
-9. ❌ Closed PR [#3](https://github.com/cbradley3/iii_frontend/pull/3) in [cbradley3/iii_frontend](https://github.com/cbradley3/iii_frontend)
-10. 🎉 Merged PR [#229](https://github.com/Lissy93/personal-security-checklist/pull/229) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+7. 🚀 Published release [V0.9](https://github.com/V0.9) in [Lissy93/who-dat](https://github.com/Lissy93/who-dat)
+8. 🗣 Commented on [#3](https://github.com/someshkar/whois-api/issues/3) in [someshkar/whois-api](https://github.com/someshkar/whois-api)
+9. ❗ Opened issue [#4](https://github.com/someshkar/whois-api/issues/4) in [someshkar/whois-api](https://github.com/someshkar/whois-api)
+10. ❌ Closed PR [#3](https://github.com/cbradley3/iii_frontend/pull/3) in [cbradley3/iii_frontend](https://github.com/cbradley3/iii_frontend)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
