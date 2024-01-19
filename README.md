@@ -130,16 +130,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Lissy93/minimal-terminal-prompt/pull/4) in [Lissy93/minimal-terminal-prompt](https://github.com/Lissy93/minimal-terminal-prompt)
-2. 🚀 Published release [V1.0](https://github.com/V1.0) in [Lissy93/who-dat](https://github.com/Lissy93/who-dat)
-3. 🎉 Merged PR [#28](https://github.com/Lissy93/portainer-templates/pull/28) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
-4. 🎉 Merged PR [#202](https://github.com/Lissy93/awesome-privacy/pull/202) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-5. 🗣 Commented on [#1](https://github.com/nkryuchkov/go-spacemesh/issues/1) in [nkryuchkov/go-spacemesh](https://github.com/nkryuchkov/go-spacemesh)
-6. 🗣 Commented on [#1](https://github.com/Lissy93/who-dat/issues/1) in [Lissy93/who-dat](https://github.com/Lissy93/who-dat)
-7. 🎉 Merged PR [#1](https://github.com/Lissy93/who-dat/pull/1) in [Lissy93/who-dat](https://github.com/Lissy93/who-dat)
-8. 💪 Opened PR [#125](https://github.com/public-api-lists/public-api-lists/pull/125) in [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists)
-9. 🚀 Published release [v0.9](https://github.com/v0.9) in [Lissy93/who-dat](https://github.com/Lissy93/who-dat)
-10. 🚀 Published release [V0.9](https://github.com/V0.9) in [Lissy93/who-dat](https://github.com/Lissy93/who-dat)
+1. 🗣 Commented on [#7922](https://github.com/simple-icons/simple-icons/issues/7922) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 🎉 Merged PR [#4](https://github.com/Lissy93/minimal-terminal-prompt/pull/4) in [Lissy93/minimal-terminal-prompt](https://github.com/Lissy93/minimal-terminal-prompt)
+3. 🚀 Published release [V1.0](https://github.com/V1.0) in [Lissy93/who-dat](https://github.com/Lissy93/who-dat)
+4. 🎉 Merged PR [#28](https://github.com/Lissy93/portainer-templates/pull/28) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
+5. 🎉 Merged PR [#202](https://github.com/Lissy93/awesome-privacy/pull/202) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+6. 🗣 Commented on [#1](https://github.com/nkryuchkov/go-spacemesh/issues/1) in [nkryuchkov/go-spacemesh](https://github.com/nkryuchkov/go-spacemesh)
+7. 🗣 Commented on [#1](https://github.com/Lissy93/who-dat/issues/1) in [Lissy93/who-dat](https://github.com/Lissy93/who-dat)
+8. 🎉 Merged PR [#1](https://github.com/Lissy93/who-dat/pull/1) in [Lissy93/who-dat](https://github.com/Lissy93/who-dat)
+9. 💪 Opened PR [#125](https://github.com/public-api-lists/public-api-lists/pull/125) in [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists)
+10. 🚀 Published release [v0.9](https://github.com/v0.9) in [Lissy93/who-dat](https://github.com/Lissy93/who-dat)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
