@@ -130,16 +130,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/arshad-yaseen/shotapi/issues/2) in [arshad-yaseen/shotapi](https://github.com/arshad-yaseen/shotapi)
-2. 💪 Opened PR [#2](https://github.com/arshad-yaseen/shotapi/pull/2) in [arshad-yaseen/shotapi](https://github.com/arshad-yaseen/shotapi)
-3. 🗣 Commented on [#12](https://github.com/Lissy93/email-comparison/issues/12) in [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison)
-4. 🎉 Merged PR [#13](https://github.com/Lissy93/email-comparison/pull/13) in [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison)
-5. 🗣 Commented on [#7922](https://github.com/simple-icons/simple-icons/issues/7922) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-6. 🎉 Merged PR [#4](https://github.com/Lissy93/minimal-terminal-prompt/pull/4) in [Lissy93/minimal-terminal-prompt](https://github.com/Lissy93/minimal-terminal-prompt)
-7. 🚀 Published release [V1.0](https://github.com/V1.0) in [Lissy93/who-dat](https://github.com/Lissy93/who-dat)
-8. 🎉 Merged PR [#28](https://github.com/Lissy93/portainer-templates/pull/28) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
-9. 🎉 Merged PR [#202](https://github.com/Lissy93/awesome-privacy/pull/202) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-10. 🗣 Commented on [#1](https://github.com/nkryuchkov/go-spacemesh/issues/1) in [nkryuchkov/go-spacemesh](https://github.com/nkryuchkov/go-spacemesh)
+1. 🎉 Merged PR [#16](https://github.com/Lissy93/email-comparison/pull/16) in [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison)
+2. 💪 Opened PR [#16](https://github.com/Lissy93/email-comparison/pull/16) in [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison)
+3. 🗣 Commented on [#2](https://github.com/arshad-yaseen/shotapi/issues/2) in [arshad-yaseen/shotapi](https://github.com/arshad-yaseen/shotapi)
+4. 🗣 Commented on [#2](https://github.com/arshad-yaseen/shotapi/issues/2) in [arshad-yaseen/shotapi](https://github.com/arshad-yaseen/shotapi)
+5. 💪 Opened PR [#2](https://github.com/arshad-yaseen/shotapi/pull/2) in [arshad-yaseen/shotapi](https://github.com/arshad-yaseen/shotapi)
+6. 🗣 Commented on [#12](https://github.com/Lissy93/email-comparison/issues/12) in [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison)
+7. 🎉 Merged PR [#13](https://github.com/Lissy93/email-comparison/pull/13) in [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison)
+8. 🗣 Commented on [#7922](https://github.com/simple-icons/simple-icons/issues/7922) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+9. 🎉 Merged PR [#4](https://github.com/Lissy93/minimal-terminal-prompt/pull/4) in [Lissy93/minimal-terminal-prompt](https://github.com/Lissy93/minimal-terminal-prompt)
+10. 🚀 Published release [V1.0](https://github.com/V1.0) in [Lissy93/who-dat](https://github.com/Lissy93/who-dat)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
