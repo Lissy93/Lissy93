@@ -130,16 +130,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/Lissy93/web-check/issues/71) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-2. 🔒 Closed issue [#71](https://github.com/Lissy93/web-check/issues/71) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-3. 🗣 Commented on [#40](https://github.com/Lissy93/portainer-templates/issues/40) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
-4. 🔒 Closed issue [#40](https://github.com/Lissy93/portainer-templates/issues/40) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
-5. 🗣 Commented on [#1439](https://github.com/Lissy93/dashy/issues/1439) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. 🗣 Commented on [#4](https://github.com/arshad-yaseen/shotapi/issues/4) in [arshad-yaseen/shotapi](https://github.com/arshad-yaseen/shotapi)
-7. 💪 Opened PR [#4](https://github.com/arshad-yaseen/shotapi/pull/4) in [arshad-yaseen/shotapi](https://github.com/arshad-yaseen/shotapi)
-8. 💪 Opened PR [#3](https://github.com/arshad-yaseen/shotapi/pull/3) in [arshad-yaseen/shotapi](https://github.com/arshad-yaseen/shotapi)
-9. 🎉 Merged PR [#16](https://github.com/Lissy93/email-comparison/pull/16) in [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison)
-10. 💪 Opened PR [#16](https://github.com/Lissy93/email-comparison/pull/16) in [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison)
+1. 🗣 Commented on [#10367](https://github.com/simple-icons/simple-icons/issues/10367) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. ❌ Closed PR [#10367](https://github.com/simple-icons/simple-icons/pull/10367) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 💪 Opened PR [#10367](https://github.com/simple-icons/simple-icons/pull/10367) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 🗣 Commented on [#7](https://github.com/Lissy93/email-comparison/issues/7) in [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison)
+5. ❌ Closed PR [#7](https://github.com/Lissy93/email-comparison/pull/7) in [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison)
+6. 🗣 Commented on [#1444](https://github.com/Lissy93/dashy/issues/1444) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. 🔒 Closed issue [#1444](https://github.com/Lissy93/dashy/issues/1444) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. 🗣 Commented on [#71](https://github.com/Lissy93/web-check/issues/71) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+9. 🔒 Closed issue [#71](https://github.com/Lissy93/web-check/issues/71) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+10. 🗣 Commented on [#40](https://github.com/Lissy93/portainer-templates/issues/40) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
