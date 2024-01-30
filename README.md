@@ -130,16 +130,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/Lissy93/email-comparison/pull/33) in [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison)
-2. 💪 Opened PR [#33](https://github.com/Lissy93/email-comparison/pull/33) in [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison)
-3. 🔒 Closed issue [#1431](https://github.com/Lissy93/dashy/issues/1431) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. 🗣 Commented on [#7](https://github.com/Lissy93/email-comparison/issues/7) in [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison)
-5. 🗣 Commented on [#10367](https://github.com/simple-icons/simple-icons/issues/10367) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-6. ❌ Closed PR [#10367](https://github.com/simple-icons/simple-icons/pull/10367) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-7. 💪 Opened PR [#10367](https://github.com/simple-icons/simple-icons/pull/10367) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-8. 🗣 Commented on [#7](https://github.com/Lissy93/email-comparison/issues/7) in [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison)
-9. ❌ Closed PR [#7](https://github.com/Lissy93/email-comparison/pull/7) in [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison)
-10. 🗣 Commented on [#1444](https://github.com/Lissy93/dashy/issues/1444) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. 💪 Opened PR [#10378](https://github.com/simple-icons/simple-icons/pull/10378) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 🗣 Commented on [#75](https://github.com/Lissy93/web-check/issues/75) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+3. 🎉 Merged PR [#3](https://github.com/Lissy93/who-dat/pull/3) in [Lissy93/who-dat](https://github.com/Lissy93/who-dat)
+4. 🎉 Merged PR [#33](https://github.com/Lissy93/email-comparison/pull/33) in [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison)
+5. 💪 Opened PR [#33](https://github.com/Lissy93/email-comparison/pull/33) in [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison)
+6. 🔒 Closed issue [#1431](https://github.com/Lissy93/dashy/issues/1431) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. 🗣 Commented on [#7](https://github.com/Lissy93/email-comparison/issues/7) in [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison)
+8. 🗣 Commented on [#10367](https://github.com/simple-icons/simple-icons/issues/10367) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+9. ❌ Closed PR [#10367](https://github.com/simple-icons/simple-icons/pull/10367) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+10. 💪 Opened PR [#10367](https://github.com/simple-icons/simple-icons/pull/10367) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
