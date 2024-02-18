@@ -6,6 +6,7 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [My thoughts on Tailwind 🍃](https://notes.aliciasykes.com/49557/my-thoughts-on-tailwind)
 - [Project Ideas: Agile 💡](https://notes.aliciasykes.com/48239/project-ideas-agile)
 - [Trying out Solid.js 🍰](https://notes.aliciasykes.com/48068/trying-out-solid-js)
 - [50 ways to bring in extra cash as a developer  💰](https://notes.aliciasykes.com/47804/50-ways-to-bring-in-extra-cash-as-a-developer)
