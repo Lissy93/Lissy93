@@ -60,6 +60,7 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
       
       
 <!-- BLOG-POST-LIST:START -->
+- [My thoughts on Tailwind 🍃](https://notes.aliciasykes.com/49557/my-thoughts-on-tailwind)
 - [Project Ideas: Agile 💡](https://notes.aliciasykes.com/48239/project-ideas-agile)
 - [Trying out Solid.js 🍰](https://notes.aliciasykes.com/48068/trying-out-solid-js)
 - [50 ways to bring in extra cash as a developer  💰](https://notes.aliciasykes.com/47804/50-ways-to-bring-in-extra-cash-as-a-developer)
@@ -67,7 +68,6 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 - [20 Amazing Collections for Self-Taught Developers 🎓](https://notes.aliciasykes.com/42310/20-amazing-collections-for-self-taught-developers)
 - [CLI tools you can&#39;t live without 🔧](https://notes.aliciasykes.com/41983/cli-tools-you-can-t-live-without)
 - [20 Git Commands you &lpar;probably&rpar; didn&#39;t know 🧙‍♂️](https://notes.aliciasykes.com/41171/20-git-commands-you-probably-didn-t-know)
-- [Super Useful CSS Resources 🌈](https://notes.aliciasykes.com/40638/super-useful-css-resources)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️  **[More Posts](/BLOG-POSTS.md)**
