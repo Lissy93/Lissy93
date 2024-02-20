@@ -130,16 +130,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#230](https://github.com/Lissy93/personal-security-checklist/issues/230) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-2. 🗣 Commented on [#230](https://github.com/Lissy93/personal-security-checklist/issues/230) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-3. ❌ Closed PR [#189](https://github.com/Lissy93/personal-security-checklist/pull/189) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-4. 🗣 Commented on [#4](https://github.com/arshad-yaseen/shotapi/issues/4) in [arshad-yaseen/shotapi](https://github.com/arshad-yaseen/shotapi)
-5. 🗣 Commented on [#1419](https://github.com/Lissy93/dashy/issues/1419) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. 🔒 Closed issue [#1174](https://github.com/Lissy93/dashy/issues/1174) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. 🔒 Closed issue [#1142](https://github.com/Lissy93/dashy/issues/1142) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. 🗣 Commented on [#1116](https://github.com/Lissy93/dashy/issues/1116) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. 🔒 Closed issue [#1116](https://github.com/Lissy93/dashy/issues/1116) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. 🔒 Closed issue [#1042](https://github.com/Lissy93/dashy/issues/1042) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. 🗣 Commented on [#34](https://github.com/Lissy93/email-comparison/issues/34) in [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison)
+2. 🔒 Closed issue [#35](https://github.com/Lissy93/email-comparison/issues/35) in [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison)
+3. 🎉 Merged PR [#36](https://github.com/Lissy93/email-comparison/pull/36) in [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison)
+4. 🔒 Closed issue [#230](https://github.com/Lissy93/personal-security-checklist/issues/230) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+5. 🗣 Commented on [#230](https://github.com/Lissy93/personal-security-checklist/issues/230) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+6. ❌ Closed PR [#189](https://github.com/Lissy93/personal-security-checklist/pull/189) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+7. 🗣 Commented on [#4](https://github.com/arshad-yaseen/shotapi/issues/4) in [arshad-yaseen/shotapi](https://github.com/arshad-yaseen/shotapi)
+8. 🗣 Commented on [#1419](https://github.com/Lissy93/dashy/issues/1419) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+9. 🔒 Closed issue [#1174](https://github.com/Lissy93/dashy/issues/1174) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. 🔒 Closed issue [#1142](https://github.com/Lissy93/dashy/issues/1142) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
