@@ -73,8 +73,8 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="180" height="8" fill="#3178c6"/>
-                                        <rect mask="url(#languages-bar)" x="180" y="0" width="180" height="8" fill="#f1e05a"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="240" height="8" fill="#3178c6"/>
+                                        <rect mask="url(#languages-bar)" x="240" y="0" width="120" height="8" fill="#f1e05a"/>
                                         <rect mask="url(#languages-bar)" x="360" y="0" width="60" height="8" fill="#e34c26"/>
                                     </svg>
                                 </div>
@@ -88,8 +88,8 @@
                                                 TypeScript
                                             </div>
                                             <small>
-                                                <div>42.86%</div>
-                                                <div>3★</div>
+                                                <div>57.14%</div>
+                                                <div>4★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -114,8 +114,8 @@
                                                 JavaScript
                                             </div>
                                             <small>
-                                                <div>42.86%</div>
-                                                <div>3★</div>
+                                                <div>28.57%</div>
+                                                <div>2★</div>
                                             </small>
                                         </div>
                                     </section>
