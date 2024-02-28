@@ -130,16 +130,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#189](https://github.com/Lissy93/awesome-privacy/issues/189) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-2. 🗣 Commented on [#189](https://github.com/Lissy93/awesome-privacy/issues/189) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-3. 🗣 Commented on [#214](https://github.com/Lissy93/awesome-privacy/issues/214) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-4. 🔒 Closed issue [#214](https://github.com/Lissy93/awesome-privacy/issues/214) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-5. 🗣 Commented on [#2](https://github.com/Lissy93/awesome-privacy/issues/2) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-6. 🔒 Closed issue [#2](https://github.com/Lissy93/awesome-privacy/issues/2) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-7. 🗣 Commented on [#10378](https://github.com/simple-icons/simple-icons/issues/10378) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-8. 🎉 Merged PR [#1](https://github.com/Lissy93/simple-icons/pull/1) in [Lissy93/simple-icons](https://github.com/Lissy93/simple-icons)
-9. 🗣 Commented on [#1258](https://github.com/Lissy93/dashy/issues/1258) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. 🗣 Commented on [#83](https://github.com/Lissy93/web-check/issues/83) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+1. 🗣 Commented on [#233](https://github.com/Lissy93/personal-security-checklist/issues/233) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+2. 🔒 Closed issue [#233](https://github.com/Lissy93/personal-security-checklist/issues/233) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+3. 🗣 Commented on [#1369](https://github.com/Lissy93/dashy/issues/1369) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. 🔒 Closed issue [#1346](https://github.com/Lissy93/dashy/issues/1346) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. 🔒 Reopened issue [#1136](https://github.com/Lissy93/dashy/issues/1136) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. 🗣 Commented on [#65](https://github.com/Lissy93/web-check/issues/65) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+7. 🔒 Closed issue [#65](https://github.com/Lissy93/web-check/issues/65) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+8. 🔒 Closed issue [#79](https://github.com/Lissy93/web-check/issues/79) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+9. 🔒 Closed issue [#58](https://github.com/Lissy93/web-check/issues/58) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+10. 🗣 Commented on [#1348](https://github.com/Lissy93/dashy/issues/1348) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
