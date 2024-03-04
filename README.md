@@ -130,16 +130,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1489](https://github.com/Lissy93/dashy/pull/1489) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. ❌ Closed PR [#1488](https://github.com/Lissy93/dashy/pull/1488) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. ❌ Closed PR [#1487](https://github.com/Lissy93/dashy/pull/1487) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. ❌ Closed PR [#1486](https://github.com/Lissy93/dashy/pull/1486) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. ❌ Closed PR [#1485](https://github.com/Lissy93/dashy/pull/1485) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. 🔒 Closed issue [#102](https://github.com/Lissy93/web-check/issues/102) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-7. 🗣 Commented on [#99](https://github.com/Lissy93/web-check/issues/99) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-8. 🎉 Merged PR [#100](https://github.com/Lissy93/web-check/pull/100) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-9. 🚀 Published release [2.1.2](https://github.com/2.1.2) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. 🔒 Closed issue [#1477](https://github.com/Lissy93/dashy/issues/1477) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. ❗ Opened issue [#1071](https://github.com/docker/build-push-action/issues/1071) in [docker/build-push-action](https://github.com/docker/build-push-action)
+2. ❌ Closed PR [#1489](https://github.com/Lissy93/dashy/pull/1489) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. ❌ Closed PR [#1488](https://github.com/Lissy93/dashy/pull/1488) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. ❌ Closed PR [#1487](https://github.com/Lissy93/dashy/pull/1487) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. ❌ Closed PR [#1486](https://github.com/Lissy93/dashy/pull/1486) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. ❌ Closed PR [#1485](https://github.com/Lissy93/dashy/pull/1485) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. 🔒 Closed issue [#102](https://github.com/Lissy93/web-check/issues/102) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+8. 🗣 Commented on [#99](https://github.com/Lissy93/web-check/issues/99) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+9. 🎉 Merged PR [#100](https://github.com/Lissy93/web-check/pull/100) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+10. 🚀 Published release [2.1.2](https://github.com/2.1.2) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
