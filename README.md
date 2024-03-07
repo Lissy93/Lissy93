@@ -130,16 +130,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1499](https://github.com/Lissy93/dashy/issues/1499) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. ❌ Closed PR [#2](https://github.com/cbradley3/iii_frontend/pull/2) in [cbradley3/iii_frontend](https://github.com/cbradley3/iii_frontend)
-3. 🗣 Commented on [#1](https://github.com/joeperks/awesome-privacy/issues/1) in [joeperks/awesome-privacy](https://github.com/joeperks/awesome-privacy)
-4. ❌ Closed PR [#1](https://github.com/joeperks/awesome-privacy/pull/1) in [joeperks/awesome-privacy](https://github.com/joeperks/awesome-privacy)
-5. ❌ Closed PR [#112](https://github.com/tomgi/git_stats/pull/112) in [tomgi/git_stats](https://github.com/tomgi/git_stats)
-6. ❌ Closed PR [#502](https://github.com/Lissy93/dashy/pull/502) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. 🗣 Commented on [#10378](https://github.com/simple-icons/simple-icons/issues/10378) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-8. 🗣 Commented on [#45](https://github.com/Lissy93/portainer-templates/issues/45) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
-9. 🔒 Closed issue [#45](https://github.com/Lissy93/portainer-templates/issues/45) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
-10. 🔒 Closed issue [#41](https://github.com/Lissy93/portainer-templates/issues/41) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
+1. 🎉 Merged PR [#1497](https://github.com/Lissy93/dashy/pull/1497) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 💪 Opened PR [#1502](https://github.com/Lissy93/dashy/pull/1502) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. 🗣 Commented on [#1499](https://github.com/Lissy93/dashy/issues/1499) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. ❌ Closed PR [#2](https://github.com/cbradley3/iii_frontend/pull/2) in [cbradley3/iii_frontend](https://github.com/cbradley3/iii_frontend)
+5. 🗣 Commented on [#1](https://github.com/joeperks/awesome-privacy/issues/1) in [joeperks/awesome-privacy](https://github.com/joeperks/awesome-privacy)
+6. ❌ Closed PR [#1](https://github.com/joeperks/awesome-privacy/pull/1) in [joeperks/awesome-privacy](https://github.com/joeperks/awesome-privacy)
+7. ❌ Closed PR [#112](https://github.com/tomgi/git_stats/pull/112) in [tomgi/git_stats](https://github.com/tomgi/git_stats)
+8. ❌ Closed PR [#502](https://github.com/Lissy93/dashy/pull/502) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+9. 🗣 Commented on [#10378](https://github.com/simple-icons/simple-icons/issues/10378) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+10. 🗣 Commented on [#45](https://github.com/Lissy93/portainer-templates/issues/45) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
