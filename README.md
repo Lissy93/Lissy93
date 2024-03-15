@@ -131,15 +131,15 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#112](https://github.com/Lissy93/web-check/issues/112) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-2. 🔒 Closed issue [#112](https://github.com/Lissy93/web-check/issues/112) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-3. 🎉 Merged PR [#111](https://github.com/Lissy93/web-check/pull/111) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-4. 🗣 Commented on [#113](https://github.com/Lissy93/web-check/issues/113) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-5. 🔒 Closed issue [#113](https://github.com/Lissy93/web-check/issues/113) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-6. ❌ Closed PR [#1506](https://github.com/Lissy93/dashy/pull/1506) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. 💪 Opened PR [#111](https://github.com/Lissy93/web-check/pull/111) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-8. 💪 Opened PR [#1510](https://github.com/Lissy93/dashy/pull/1510) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. 🎉 Merged PR [#246](https://github.com/Lissy93/personal-security-checklist/pull/246) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-10. 🗣 Commented on [#110](https://github.com/Lissy93/web-check/issues/110) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+2. 🗣 Commented on [#112](https://github.com/Lissy93/web-check/issues/112) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+3. 🔒 Closed issue [#112](https://github.com/Lissy93/web-check/issues/112) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+4. 🎉 Merged PR [#111](https://github.com/Lissy93/web-check/pull/111) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+5. 🗣 Commented on [#113](https://github.com/Lissy93/web-check/issues/113) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+6. 🔒 Closed issue [#113](https://github.com/Lissy93/web-check/issues/113) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+7. ❌ Closed PR [#1506](https://github.com/Lissy93/dashy/pull/1506) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. 💪 Opened PR [#111](https://github.com/Lissy93/web-check/pull/111) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+9. 💪 Opened PR [#1510](https://github.com/Lissy93/dashy/pull/1510) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. 🎉 Merged PR [#246](https://github.com/Lissy93/personal-security-checklist/pull/246) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
