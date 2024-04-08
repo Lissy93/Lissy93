@@ -130,16 +130,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#123](https://github.com/Lissy93/web-check/issues/123) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-2. 🔒 Closed issue [#123](https://github.com/Lissy93/web-check/issues/123) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-3. 🗣 Commented on [#225](https://github.com/Lissy93/awesome-privacy/issues/225) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-4. 🗣 Commented on [#1500](https://github.com/Lissy93/dashy/issues/1500) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. 🗣 Commented on [#668](https://github.com/Lissy93/dashy/issues/668) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. 🎉 Merged PR [#3](https://github.com/Lissy93/bug-bounties/pull/3) in [Lissy93/bug-bounties](https://github.com/Lissy93/bug-bounties)
-7. 🎉 Merged PR [#2](https://github.com/Lissy93/bug-bounties/pull/2) in [Lissy93/bug-bounties](https://github.com/Lissy93/bug-bounties)
-8. 🗣 Commented on [#9](https://github.com/Lissy93/my-website/issues/9) in [Lissy93/my-website](https://github.com/Lissy93/my-website)
-9. 🎉 Merged PR [#9](https://github.com/Lissy93/my-website/pull/9) in [Lissy93/my-website](https://github.com/Lissy93/my-website)
-10. 🎉 Merged PR [#224](https://github.com/Lissy93/awesome-privacy/pull/224) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+1. 🗣 Commented on [#130](https://github.com/Lissy93/web-check/issues/130) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+2. ❌ Closed PR [#215](https://github.com/Lissy93/awesome-privacy/pull/215) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+3. 🗣 Commented on [#123](https://github.com/Lissy93/web-check/issues/123) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+4. 🔒 Closed issue [#123](https://github.com/Lissy93/web-check/issues/123) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+5. 🗣 Commented on [#225](https://github.com/Lissy93/awesome-privacy/issues/225) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+6. 🗣 Commented on [#1500](https://github.com/Lissy93/dashy/issues/1500) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. 🗣 Commented on [#668](https://github.com/Lissy93/dashy/issues/668) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. 🎉 Merged PR [#3](https://github.com/Lissy93/bug-bounties/pull/3) in [Lissy93/bug-bounties](https://github.com/Lissy93/bug-bounties)
+9. 🎉 Merged PR [#2](https://github.com/Lissy93/bug-bounties/pull/2) in [Lissy93/bug-bounties](https://github.com/Lissy93/bug-bounties)
+10. 🗣 Commented on [#9](https://github.com/Lissy93/my-website/issues/9) in [Lissy93/my-website](https://github.com/Lissy93/my-website)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
