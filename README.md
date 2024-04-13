@@ -130,16 +130,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#131](https://github.com/Lissy93/web-check/pull/131) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-2. 🎉 Merged PR [#122](https://github.com/Lissy93/web-check/pull/122) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-3. 🗣 Commented on [#877](https://github.com/Lissy93/dashy/issues/877) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. 🎉 Merged PR [#217](https://github.com/Lissy93/awesome-privacy/pull/217) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-5. 🗣 Commented on [#1528](https://github.com/Lissy93/dashy/issues/1528) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. 🔒 Closed issue [#1](https://github.com/Lissy93/raid-calculator/issues/1) in [Lissy93/raid-calculator](https://github.com/Lissy93/raid-calculator)
-7. 🗣 Commented on [#1](https://github.com/Lissy93/raid-calculator/issues/1) in [Lissy93/raid-calculator](https://github.com/Lissy93/raid-calculator)
-8. 🗣 Commented on [#1528](https://github.com/Lissy93/dashy/issues/1528) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. 💪 Opened PR [#1528](https://github.com/Lissy93/dashy/pull/1528) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. 🗣 Commented on [#227](https://github.com/Lissy93/awesome-privacy/issues/227) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+1. 🗣 Commented on [#1528](https://github.com/Lissy93/dashy/issues/1528) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 🎉 Merged PR [#131](https://github.com/Lissy93/web-check/pull/131) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+3. 🎉 Merged PR [#122](https://github.com/Lissy93/web-check/pull/122) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+4. 🗣 Commented on [#877](https://github.com/Lissy93/dashy/issues/877) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. 🎉 Merged PR [#217](https://github.com/Lissy93/awesome-privacy/pull/217) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+6. 🗣 Commented on [#1528](https://github.com/Lissy93/dashy/issues/1528) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. 🔒 Closed issue [#1](https://github.com/Lissy93/raid-calculator/issues/1) in [Lissy93/raid-calculator](https://github.com/Lissy93/raid-calculator)
+8. 🗣 Commented on [#1](https://github.com/Lissy93/raid-calculator/issues/1) in [Lissy93/raid-calculator](https://github.com/Lissy93/raid-calculator)
+9. 🗣 Commented on [#1528](https://github.com/Lissy93/dashy/issues/1528) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. 💪 Opened PR [#1528](https://github.com/Lissy93/dashy/pull/1528) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
