@@ -6,6 +6,7 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Astro is pretty cool 🆒](https://notes.aliciasykes.com/51203/astro-is-pretty-cool)
 - [My thoughts on Tailwind 🍃](https://notes.aliciasykes.com/49557/my-thoughts-on-tailwind)
 - [Project Ideas: Agile 💡](https://notes.aliciasykes.com/48239/project-ideas-agile)
 - [Trying out Solid.js 🍰](https://notes.aliciasykes.com/48068/trying-out-solid-js)
