@@ -130,16 +130,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1595](https://github.com/Lissy93/dashy/pull/1595) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. 🚀 Published release [Web Check V1](https://github.com/Web Check V1) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-3. 🗣 Commented on [#11611](https://github.com/vercel/vercel/issues/11611) in [vercel/vercel](https://github.com/vercel/vercel)
-4. 💪 Opened PR [#11611](https://github.com/vercel/vercel/pull/11611) in [vercel/vercel](https://github.com/vercel/vercel)
-5. 🎉 Merged PR [#143](https://github.com/Lissy93/web-check/pull/143) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-6. 🗣 Commented on [#1585](https://github.com/Lissy93/dashy/issues/1585) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. ❌ Closed PR [#240](https://github.com/Lissy93/awesome-privacy/pull/240) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-8. 🗣 Commented on [#1588](https://github.com/Lissy93/dashy/issues/1588) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. 🔒 Closed issue [#253](https://github.com/Lissy93/personal-security-checklist/issues/253) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-10. 🎉 Merged PR [#137](https://github.com/Lissy93/web-check/pull/137) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+1. 🎉 Merged PR [#1601](https://github.com/Lissy93/dashy/pull/1601) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 🎉 Merged PR [#1595](https://github.com/Lissy93/dashy/pull/1595) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. 🚀 Published release [Web Check V1](https://github.com/Web Check V1) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+4. 🗣 Commented on [#11611](https://github.com/vercel/vercel/issues/11611) in [vercel/vercel](https://github.com/vercel/vercel)
+5. 💪 Opened PR [#11611](https://github.com/vercel/vercel/pull/11611) in [vercel/vercel](https://github.com/vercel/vercel)
+6. 🎉 Merged PR [#143](https://github.com/Lissy93/web-check/pull/143) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+7. 🗣 Commented on [#1585](https://github.com/Lissy93/dashy/issues/1585) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. ❌ Closed PR [#240](https://github.com/Lissy93/awesome-privacy/pull/240) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+9. 🗣 Commented on [#1588](https://github.com/Lissy93/dashy/issues/1588) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. 🔒 Closed issue [#253](https://github.com/Lissy93/personal-security-checklist/issues/253) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
