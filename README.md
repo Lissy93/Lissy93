@@ -130,16 +130,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1562](https://github.com/Lissy93/dashy/pull/1562) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. 🎉 Merged PR [#248](https://github.com/Lissy93/awesome-privacy/pull/248) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-3. 🎉 Merged PR [#1](https://github.com/xray-web/web-check-api/pull/1) in [xray-web/web-check-api](https://github.com/xray-web/web-check-api)
-4. 💪 Opened PR [#1](https://github.com/xray-web/web-check-api/pull/1) in [xray-web/web-check-api](https://github.com/xray-web/web-check-api)
-5. ❗ Opened issue [#5](https://github.com/andrasbacsai/serverlesshorrors.com/issues/5) in [andrasbacsai/serverlesshorrors.com](https://github.com/andrasbacsai/serverlesshorrors.com)
-6. 🎉 Merged PR [#146](https://github.com/Lissy93/web-check/pull/146) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-7. 🎉 Merged PR [#244](https://github.com/Lissy93/awesome-privacy/pull/244) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-8. 🎉 Merged PR [#145](https://github.com/Lissy93/web-check/pull/145) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-9. 🎉 Merged PR [#1602](https://github.com/Lissy93/dashy/pull/1602) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. 💪 Opened PR [#1602](https://github.com/Lissy93/dashy/pull/1602) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. ❌ Closed PR [#1](https://github.com/xray-web/web-check-free/pull/1) in [xray-web/web-check-free](https://github.com/xray-web/web-check-free)
+2. 🎉 Merged PR [#2](https://github.com/xray-web/web-check-api/pull/2) in [xray-web/web-check-api](https://github.com/xray-web/web-check-api)
+3. 🎉 Merged PR [#7](https://github.com/Lissy93/dotfiles/pull/7) in [Lissy93/dotfiles](https://github.com/Lissy93/dotfiles)
+4. 🗣 Commented on [#11611](https://github.com/vercel/vercel/issues/11611) in [vercel/vercel](https://github.com/vercel/vercel)
+5. ❗ Opened issue [#11696](https://github.com/vercel/vercel/issues/11696) in [vercel/vercel](https://github.com/vercel/vercel)
+6. 🎉 Merged PR [#1562](https://github.com/Lissy93/dashy/pull/1562) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. 🎉 Merged PR [#248](https://github.com/Lissy93/awesome-privacy/pull/248) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+8. 🎉 Merged PR [#1](https://github.com/xray-web/web-check-api/pull/1) in [xray-web/web-check-api](https://github.com/xray-web/web-check-api)
+9. 💪 Opened PR [#1](https://github.com/xray-web/web-check-api/pull/1) in [xray-web/web-check-api](https://github.com/xray-web/web-check-api)
+10. ❗ Opened issue [#5](https://github.com/andrasbacsai/serverlesshorrors.com/issues/5) in [andrasbacsai/serverlesshorrors.com](https://github.com/andrasbacsai/serverlesshorrors.com)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
