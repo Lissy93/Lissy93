@@ -130,16 +130,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#148](https://github.com/Lissy93/web-check/issues/148) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-2. 🔒 Closed issue [#148](https://github.com/Lissy93/web-check/issues/148) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-3. 🎉 Merged PR [#2](https://github.com/xray-web/web-check-free/pull/2) in [xray-web/web-check-free](https://github.com/xray-web/web-check-free)
-4. 💪 Opened PR [#2](https://github.com/xray-web/web-check-free/pull/2) in [xray-web/web-check-free](https://github.com/xray-web/web-check-free)
-5. 🗣 Commented on [#148](https://github.com/Lissy93/web-check/issues/148) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-6. 🎉 Merged PR [#147](https://github.com/Lissy93/web-check/pull/147) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-7. 🔒 Closed issue [#42](https://github.com/xray-web/web-check-api/issues/42) in [xray-web/web-check-api](https://github.com/xray-web/web-check-api)
-8. 🎉 Merged PR [#51](https://github.com/xray-web/web-check-api/pull/51) in [xray-web/web-check-api](https://github.com/xray-web/web-check-api)
-9. 🎉 Merged PR [#47](https://github.com/xray-web/web-check-api/pull/47) in [xray-web/web-check-api](https://github.com/xray-web/web-check-api)
-10. 🎉 Merged PR [#49](https://github.com/xray-web/web-check-api/pull/49) in [xray-web/web-check-api](https://github.com/xray-web/web-check-api)
+1. 🎉 Merged PR [#232](https://github.com/Lissy93/awesome-privacy/pull/232) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+2. 🗣 Commented on [#148](https://github.com/Lissy93/web-check/issues/148) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+3. 🔒 Closed issue [#148](https://github.com/Lissy93/web-check/issues/148) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+4. 🎉 Merged PR [#2](https://github.com/xray-web/web-check-free/pull/2) in [xray-web/web-check-free](https://github.com/xray-web/web-check-free)
+5. 💪 Opened PR [#2](https://github.com/xray-web/web-check-free/pull/2) in [xray-web/web-check-free](https://github.com/xray-web/web-check-free)
+6. 🗣 Commented on [#148](https://github.com/Lissy93/web-check/issues/148) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+7. 🎉 Merged PR [#147](https://github.com/Lissy93/web-check/pull/147) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+8. 🔒 Closed issue [#42](https://github.com/xray-web/web-check-api/issues/42) in [xray-web/web-check-api](https://github.com/xray-web/web-check-api)
+9. 🎉 Merged PR [#51](https://github.com/xray-web/web-check-api/pull/51) in [xray-web/web-check-api](https://github.com/xray-web/web-check-api)
+10. 🎉 Merged PR [#47](https://github.com/xray-web/web-check-api/pull/47) in [xray-web/web-check-api](https://github.com/xray-web/web-check-api)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
