@@ -130,16 +130,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/xray-web/web-check-free/pull/3) in [xray-web/web-check-free](https://github.com/xray-web/web-check-free)
-2. 💪 Opened PR [#3](https://github.com/xray-web/web-check-free/pull/3) in [xray-web/web-check-free](https://github.com/xray-web/web-check-free)
-3. 🎉 Merged PR [#161](https://github.com/Lissy93/web-check/pull/161) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-4. 💪 Opened PR [#161](https://github.com/Lissy93/web-check/pull/161) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-5. 🎉 Merged PR [#1636](https://github.com/Lissy93/dashy/pull/1636) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. 🎉 Merged PR [#258](https://github.com/Lissy93/awesome-privacy/pull/258) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-7. 🎉 Merged PR [#1622](https://github.com/Lissy93/dashy/pull/1622) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. ❌ Closed PR [#7](https://github.com/Lissy93/my-website/pull/7) in [Lissy93/my-website](https://github.com/Lissy93/my-website)
-9. 🎉 Merged PR [#154](https://github.com/Lissy93/web-check/pull/154) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-10. 🎉 Merged PR [#156](https://github.com/Lissy93/web-check/pull/156) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+1. 🎉 Merged PR [#163](https://github.com/Lissy93/web-check/pull/163) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+2. 💪 Opened PR [#163](https://github.com/Lissy93/web-check/pull/163) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+3. 🎉 Merged PR [#3](https://github.com/xray-web/web-check-free/pull/3) in [xray-web/web-check-free](https://github.com/xray-web/web-check-free)
+4. 💪 Opened PR [#3](https://github.com/xray-web/web-check-free/pull/3) in [xray-web/web-check-free](https://github.com/xray-web/web-check-free)
+5. 🎉 Merged PR [#161](https://github.com/Lissy93/web-check/pull/161) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+6. 💪 Opened PR [#161](https://github.com/Lissy93/web-check/pull/161) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+7. 🎉 Merged PR [#1636](https://github.com/Lissy93/dashy/pull/1636) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. 🎉 Merged PR [#258](https://github.com/Lissy93/awesome-privacy/pull/258) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+9. 🎉 Merged PR [#1622](https://github.com/Lissy93/dashy/pull/1622) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. ❌ Closed PR [#7](https://github.com/Lissy93/my-website/pull/7) in [Lissy93/my-website](https://github.com/Lissy93/my-website)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
