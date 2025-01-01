@@ -1,26 +1,23 @@
-# Action to generate metrics using LowLighter/Metrics by Simon Lecoq
-
-# All results are in SVG format, and commited to /assets/metrics/ in master branch.
-# Split into multiple jobs, to prevent everything failing if one component errors,
-# And to improve the loading and layout of /METRICS.md where the SVGs are displayed
-
 name: 📊 Generates Metrics
+
 on:
   schedule:
     - cron: '40 23 * * *' # Run every evening, twenty mins before midnight
   workflow_dispatch: # Or when it's manually triggered
-jobs:        
+
+jobs:
   # Sponsors Card
   sponsor-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/sponsors.svg
-          committer_message: "📊 Updates metrics - sponsors"
+          commit: false                  # <--- Disable auto-commit
           # Options
           user: Lissy93
           template: classic
@@ -30,55 +27,70 @@ jobs:
           plugin_sponsors_past: yes
           plugin_sponsors_sections: goal, list
           plugin_sponsors_size: 36
-  
+      - name: Upload sponsors artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: sponsors.svg
+          path: assets/metrics/sponsors.svg
+
   # 10 Years worth of contribution charts
   historical-contribuitions-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/contributions.svg
-          committer_message: "📊 Updates metrics - contributions"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          commit: false
           user: Lissy93
           template: classic
           base: ""
           config_timezone: Europe/London
           plugin_calendar: yes
           plugin_calendar_limit: 10
-  
+      - name: Upload contributions artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: contributions.svg
+          path: assets/metrics/contributions.svg
+
   # Ticket (Issue + PR) Follow Ups
   ticket-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/tickets.svg
-          committer_message: "📊 Updates metrics - tickets"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          commit: false
           user: Lissy93
           base: ""
           plugin_followup: yes
           plugin_followup_indepth: yes
+      - name: Upload tickets artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: tickets.svg
+          path: assets/metrics/tickets.svg
 
-  
   # Coding Habits
   coding-habits-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/habits.svg
-          committer_message: "📊 Updates metrics - habbits"
+          commit: false
           user: Lissy93
           base: ""
           plugin_habits: yes
@@ -88,6 +100,11 @@ jobs:
           plugin_habits_days: 28
           plugin_habits_from: 500
           config_timezone: Europe/London
+      - name: Upload habits artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: habits.svg
+          path: assets/metrics/habits.svg
 
   # Total Stargazers
   stargazer-metrics:
@@ -95,17 +112,22 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/stargazers.svg
-          committer_message: "📊 Updates metrics - stargazers"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          commit: false
           user: Lissy93
           base: ""
           plugin_stargazers: yes
           plugin_stargazers_charts_type: graph
           plugin_stargazers_days: 365
+      - name: Upload stargazers artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: stargazers.svg
+          path: assets/metrics/stargazers.svg
 
   # Recent Activity
   activity-metrics:
@@ -113,18 +135,23 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/activity.svg
-          committer_message: "📊 Updates metrics - activity"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          commit: false
           user: Lissy93
           base: ""
           plugin_activity: yes
           plugin_activity_limit: 15
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, review, ref/create, public
+      - name: Upload activity artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: activity.svg
+          path: assets/metrics/activity.svg
 
   # Reactions on comments / tickets
   reactions-metrics:
@@ -132,12 +159,12 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/reactions.svg
-          committer_message: "📊 Updates metrics - reactions"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          commit: false
           user: Lissy93
           base: ""
           plugin_reactions: yes
@@ -146,7 +173,11 @@ jobs:
           plugin_reactions_limit_discussions: 800
           plugin_reactions_limit_discussions_comments: 800
           plugin_reactions_details: percentage, count
-
+      - name: Upload reactions artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: reactions.svg
+          path: assets/metrics/reactions.svg
 
   # People who I follow / are following me
   people-metrics:
@@ -154,30 +185,34 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
-          committer_message: "📊 Updates metrics - people"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           filename: assets/metrics/people.svg
+          commit: false
           user: Lissy93
           base: ""
           plugin_people: yes
           plugin_people_types: followers, following
-          
+      - name: Upload people artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: people.svg
+          path: assets/metrics/people.svg
 
-  # Languages that code is written in (probz just JS, yuck)
+  # Languages that code is written in
   language-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/languages.svg
-          committer_message: "📊 Updates metrics - languages"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          commit: false
           user: Lissy93
           base: ""
           plugin_languages: yes
@@ -188,37 +223,47 @@ jobs:
           plugin_languages_recent_days: 120
           plugin_languages_other: yes
           plugin_languages_sections: most-used, recently-used
+      - name: Upload languages artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: languages.svg
+          path: assets/metrics/languages.svg
 
-  # Achievments, fake awards showing that i have no life
+  # Achievements
   acheiment-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/achievements.svg
-          committer_message: "📊 Updates metrics - acheivments"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          commit: false
           user: Lissy93
           base: ""
           plugin_achievements: yes
           plugin_achievements_threshold: B
           plugin_achievements_display: detailed
+      - name: Upload achievements artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: achievements.svg
+          path: assets/metrics/achievements.svg
 
-  # Notable contributions, if there are any lol
+  # Notable contributions
   notable-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/notable.svg
-          committer_message: "📊 Updates metrics - notable contribs"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          commit: false
           user: Lissy93
           base: ""
           plugin_notable: yes
@@ -226,94 +271,119 @@ jobs:
           plugin_notable_repositories: yes
           plugin_notable_from: all
           plugin_notable_types: commit, pull_request, issue
- 
-  # Discussion metrics, i like to chat
+      - name: Upload notable artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: notable.svg
+          path: assets/metrics/notable.svg
+
+  # Discussion metrics
   discussions-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/discussions.svg
-          committer_message: "📊 Updates metrics - discussions"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          commit: false
           user: Lissy93
           base: ""
           plugin_discussions: yes
           plugin_discussions_categories_limit: 12
-  
-  # Gists, basically shit-code saved for later
+      - name: Upload discussions artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: discussions.svg
+          path: assets/metrics/discussions.svg
+
+  # Gists
   gists-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/gists.svg
-          committer_message: "📊 Updates metrics - gists"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          commit: false
           user: Lissy93
           base: ""
-          plugin_gists: yes                 
-   
+          plugin_gists: yes
+      - name: Upload gists artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: gists.svg
+          path: assets/metrics/gists.svg
+
   # Stars on projects i like
   starlists-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/starlists.svg
-          committer_message: "📊 Updates metrics - starlists"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          commit: false
           user: Lissy93
           base: ""
           plugin_starlists: yes
           plugin_starlists_languages: yes
           plugin_starlists_limit_languages: 12
           plugin_starlists_limit_repositories: 0
-          
-  # Introduction, info from profile. Not that anyones interested
+      - name: Upload starlists artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: starlists.svg
+          path: assets/metrics/starlists.svg
+
+  # Introduction
   intro-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/intro.svg
-          committer_message: "📊 Updates metrics - intro"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          commit: false
           user: Lissy93
           base: ""
-          plugin_introduction: yes  
-          
+          plugin_introduction: yes
+      - name: Upload intro artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: intro.svg
+          path: assets/metrics/intro.svg
+
   # Pinned Repositories
   repository-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/repositories.svg
-          committer_message: "📊 Updates metrics - repositories"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          commit: false
           user: Lissy93
           base: ""
           plugin_repositories: yes
           plugin_repositories_featured: >-
             lissy93/dashy, lissy93/AdGuardian-Term, lissy93/portainer-templates, lissy93/personal-security-checklist,
             lissy93/dotfiles, lissy93/web-check,
-            lissy93/awesome-privacy, lissy93/go-apod,lissy93/email-comparison, lissy93/awesome-selfhosted,
+            lissy93/awesome-privacy, lissy93/go-apod, lissy93/email-comparison, lissy93/awesome-selfhosted,
             lissy93/docker-tcpdump, lissy93/my-website, lissy93/brewfile,
             lissy93/pax, lissy93/all-the-countries, lissy93/minesweper, lissy93/wapalyzer,
             lissy93/callisto-theme-standard-notes, lissy93/lissy93,
@@ -322,36 +392,46 @@ jobs:
             lissy93/anti-theft-charge, lissy93/md-cv-maker, lissy93/usermonkey,
             lissy93/alicia-sykes-website, lissy93/happy-app, lissy93/conky-system-stats-widget,
             lissy93/awesome-selfhosted, lissy93/awesome-osint, lissy93/lissy93
-   
- # Starred Topics
+      - name: Upload repositories artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: repositories.svg
+          path: assets/metrics/repositories.svg
+
+  # Starred Topics
   starred-topics-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/topics.svg
-          committer_message: "📊 Updates metrics - topics"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          commit: false
           user: Lissy93
           base: ""
           plugin_topics: yes
           plugin_topics_limit: 20
           plugin_topics_mode: icons
-            
+      - name: Upload topics artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: topics.svg
+          path: assets/metrics/topics.svg
+
   # StackOverflow Metrics
   stackoverflow-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
         with:
           filename: assets/metrics/stackoverflow.svg
-          committer_message: "📊 Updates metrics - stackoverflow"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          commit: false
           user: Lissy93
           base: ""
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
@@ -359,6 +439,11 @@ jobs:
           plugin_stackoverflow_user: 979052
           plugin_stackoverflow_sections: answers-top
           plugin_stackoverflow_limit: 5
+      - name: Upload stackoverflow artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: stackoverflow.svg
+          path: assets/metrics/stackoverflow.svg
 
   # Twitter Metrics
   twitter-metrics:
@@ -366,11 +451,11 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
         with:
           filename: assets/metrics/twitter.svg
-          committer_message: "📊 Updates metrics - twitter"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          commit: false
           user: Lissy93
           base: ""
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
@@ -379,6 +464,11 @@ jobs:
           plugin_tweets_attachments: yes
           plugin_tweets_user: Lissy_Sykes
           plugin_tweets_limit: 5
+      - name: Upload twitter artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: twitter.svg
+          path: assets/metrics/twitter.svg
 
   # RSS Feed
   blog-post-metrics:
@@ -386,51 +476,62 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
         with:
           filename: assets/metrics/blog-posts.svg
-          committer_message: "📊 Updates metrics - blog"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          commit: false
           user: Lissy93
           base: ""
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           plugin_rss: yes
           plugin_rss_source: https://notes.aliciasykes.com/feed
           plugin_rss_limit: 8
+      - name: Upload blog artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: blog-posts.svg
+          path: assets/metrics/blog-posts.svg
 
   lines-code-changed:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-    - uses: lowlighter/metrics@latest
-      with:
-        committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
-        filename: assets/metrics/lines-of-code.svg
-        token:  ${{ secrets.BOT_GITHUB_TOKEN }}
-        user: Lissy93
-        base: ""
-        plugin_lines: yes
-        plugin_lines_sections: repositories, history
-        plugin_lines_repositories_limit: 2
-        plugin_lines_history_limit: 1
-        repositories_skipped: |
-          @use.patterns
-          */*
-          +lowlighter/metrics
-          
+      - uses: actions/checkout@v3
+      - uses: lowlighter/metrics@latest
+        with:
+          commit: false
+          filename: assets/metrics/lines-of-code.svg
+          token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          user: Lissy93
+          base: ""
+          plugin_lines: yes
+          plugin_lines_sections: repositories, history
+          plugin_lines_repositories_limit: 2
+          plugin_lines_history_limit: 1
+          repositories_skipped: |
+            @use.patterns
+            */*
+            +lowlighter/metrics
+      - name: Upload lines-of-code artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: lines-of-code.svg
+          path: assets/metrics/lines-of-code.svg
+
   # All Metrics together
   all-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/all.svg
-          committer_message: "📊 Updates metrics - all"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          commit: false
           # Options
           user: Lissy93
           template: classic
@@ -471,6 +572,11 @@ jobs:
           plugin_traffic: yes
           plugin_gists: yes
           plugin_discussions: yes
+      - name: Upload all.svg artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: all.svg
+          path: assets/metrics/all.svg
 
   # Main Metrics - Short
   shorter-metrics:
@@ -478,12 +584,12 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/summary.svg
-          committer_message: "📊 Updates metrics - summary"
-          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          commit: false
           user: Lissy93
           template: classic
           base: activity, community, repositories
@@ -497,3 +603,59 @@ jobs:
           plugin_lines: yes
           plugin_discussions: yes
           plugin_discussions_categories: no
+      - name: Upload summary artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: summary.svg
+          path: assets/metrics/summary.svg
+
+  ###########################################################################
+  # Final job that collects all artifacts and commits once
+  ###########################################################################
+
+  commit-changes:
+    runs-on: ubuntu-latest
+    needs:
+      - sponsor-metrics
+      - historical-contribuitions-metrics
+      - ticket-metrics
+      - coding-habits-metrics
+      - stargazer-metrics
+      - activity-metrics
+      - reactions-metrics
+      - people-metrics
+      - language-metrics
+      - acheiment-metrics
+      - notable-metrics
+      - discussions-metrics
+      - gists-metrics
+      - starlists-metrics
+      - intro-metrics
+      - repository-metrics
+      - starred-topics-metrics
+      - stackoverflow-metrics
+      - twitter-metrics
+      - blog-post-metrics
+      - lines-code-changed
+      - all-metrics
+      - shorter-metrics
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Download all artifacts
+        uses: actions/download-artifact@v3
+        with:
+          path: .
+          # This will download all artifacts from all previous jobs into the repo folder
+
+      - name: Commit and push changes
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .
+          # If there's nothing to commit, don't fail the job
+          git commit -m "📊 Updates all metrics" || echo "No changes to commit"
+          git push
