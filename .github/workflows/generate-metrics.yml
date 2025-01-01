@@ -2,12 +2,13 @@ name: 📊 Generates Metrics
 
 on:
   schedule:
-    - cron: '40 23 * * *'  # Run every evening, 20 mins before midnight
+    - cron: '40 23 * * *'
   workflow_dispatch:
 
 jobs:
   ###########################################################################
-  # 1) Generate each metrics artifact (commit: false + no committer_token)
+  # 1) Generate each metrics artifact (commit: false, no committer_token)
+  #    Each job uses continue-on-error so it doesn't block the entire workflow
   ###########################################################################
 
   sponsor-metrics:
@@ -20,7 +21,7 @@ jobs:
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/sponsors.svg
-          commit: false           # absolutely no commit
+          commit: false
           user: Lissy93
           template: classic
           base: ""
@@ -590,7 +591,7 @@ jobs:
           path: assets/metrics/summary.svg
 
   ###########################################################################
-  # 2) Final job: Download artifacts, commit once using your bot’s details
+  # 2) Final job: Download artifacts, commit ONCE using your BOT's token
   ###########################################################################
 
   commit-changes:
@@ -622,8 +623,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Check out repository
+      - name: Check out repository using BOT token
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          fetch-depth: 0
 
       - name: Download all artifacts
         uses: actions/download-artifact@v3
@@ -635,10 +639,12 @@ jobs:
           find assets/metrics -mindepth 2 -type f -exec mv -t assets/metrics {} +
           find assets/metrics -mindepth 1 -type d -empty -delete
 
-      - name: Configure Git (Use your bot’s info)
+      - name: Configure Git with bot identity
         run: |
-          git config user.email "alicia-gh-bot@mail.as93.net"
+          # Set your bot's name + email
           git config user.name "liss-bot"
+          git config user.email "alicia-gh-bot@mail.as93.net"
+          # Rebase instead of merge
           git config pull.rebase true
           git pull --rebase
 
@@ -646,4 +652,6 @@ jobs:
         run: |
           git add assets/metrics/*.svg
           git commit -m "📊 Updates all metrics" || echo "No changes to commit"
+          # The origin remote is already using the BOT_GITHUB_TOKEN from the checkout
+          # So pushing will show up as your bot
           git push
