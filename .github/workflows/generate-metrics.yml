@@ -6,19 +6,19 @@ on:
   workflow_dispatch: # Or when it's manually triggered
 
 jobs:
-  # Sponsors Card
+  # 1) Each metrics job: commit=false + upload artifact + continue-on-error
+
   sponsor-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    # If it fails, just skip that job without failing the entire workflow
+    continue-on-error: true
     steps:
       - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/sponsors.svg
-          commit: false                  # <--- Disable auto-commit
-          # Options
+          commit: false            # <--- Important: do NOT commit
           user: Lissy93
           template: classic
           base: ""
@@ -27,17 +27,14 @@ jobs:
           plugin_sponsors_past: yes
           plugin_sponsors_sections: goal, list
           plugin_sponsors_size: 36
-      - name: Upload sponsors artifact
-        uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v3
         with:
           name: sponsors.svg
           path: assets/metrics/sponsors.svg
 
-  # 10 Years worth of contribution charts
   historical-contribuitions-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    continue-on-error: true
     steps:
       - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
@@ -51,17 +48,14 @@ jobs:
           config_timezone: Europe/London
           plugin_calendar: yes
           plugin_calendar_limit: 10
-      - name: Upload contributions artifact
-        uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v3
         with:
           name: contributions.svg
           path: assets/metrics/contributions.svg
 
-  # Ticket (Issue + PR) Follow Ups
   ticket-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    continue-on-error: true
     steps:
       - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
@@ -73,17 +67,14 @@ jobs:
           base: ""
           plugin_followup: yes
           plugin_followup_indepth: yes
-      - name: Upload tickets artifact
-        uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v3
         with:
           name: tickets.svg
           path: assets/metrics/tickets.svg
 
-  # Coding Habits
   coding-habits-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    continue-on-error: true
     steps:
       - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
@@ -100,17 +91,14 @@ jobs:
           plugin_habits_days: 28
           plugin_habits_from: 500
           config_timezone: Europe/London
-      - name: Upload habits artifact
-        uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v3
         with:
           name: habits.svg
           path: assets/metrics/habits.svg
 
-  # Total Stargazers
   stargazer-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    continue-on-error: true
     steps:
       - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
@@ -123,17 +111,14 @@ jobs:
           plugin_stargazers: yes
           plugin_stargazers_charts_type: graph
           plugin_stargazers_days: 365
-      - name: Upload stargazers artifact
-        uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v3
         with:
           name: stargazers.svg
           path: assets/metrics/stargazers.svg
 
-  # Recent Activity
   activity-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    continue-on-error: true
     steps:
       - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
@@ -147,17 +132,14 @@ jobs:
           plugin_activity_limit: 15
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, review, ref/create, public
-      - name: Upload activity artifact
-        uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v3
         with:
           name: activity.svg
           path: assets/metrics/activity.svg
 
-  # Reactions on comments / tickets
   reactions-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    continue-on-error: true
     steps:
       - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
@@ -173,17 +155,14 @@ jobs:
           plugin_reactions_limit_discussions: 800
           plugin_reactions_limit_discussions_comments: 800
           plugin_reactions_details: percentage, count
-      - name: Upload reactions artifact
-        uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v3
         with:
           name: reactions.svg
           path: assets/metrics/reactions.svg
 
-  # People who I follow / are following me
   people-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    continue-on-error: true
     steps:
       - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
@@ -195,17 +174,14 @@ jobs:
           base: ""
           plugin_people: yes
           plugin_people_types: followers, following
-      - name: Upload people artifact
-        uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v3
         with:
           name: people.svg
           path: assets/metrics/people.svg
 
-  # Languages that code is written in
   language-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    continue-on-error: true
     steps:
       - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
@@ -223,17 +199,14 @@ jobs:
           plugin_languages_recent_days: 120
           plugin_languages_other: yes
           plugin_languages_sections: most-used, recently-used
-      - name: Upload languages artifact
-        uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v3
         with:
           name: languages.svg
           path: assets/metrics/languages.svg
 
-  # Achievements
   acheiment-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    continue-on-error: true
     steps:
       - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
@@ -246,17 +219,14 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_threshold: B
           plugin_achievements_display: detailed
-      - name: Upload achievements artifact
-        uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v3
         with:
           name: achievements.svg
           path: assets/metrics/achievements.svg
 
-  # Notable contributions
   notable-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    continue-on-error: true
     steps:
       - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
@@ -271,17 +241,14 @@ jobs:
           plugin_notable_repositories: yes
           plugin_notable_from: all
           plugin_notable_types: commit, pull_request, issue
-      - name: Upload notable artifact
-        uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v3
         with:
           name: notable.svg
           path: assets/metrics/notable.svg
 
-  # Discussion metrics
   discussions-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    continue-on-error: true
     steps:
       - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
@@ -293,17 +260,14 @@ jobs:
           base: ""
           plugin_discussions: yes
           plugin_discussions_categories_limit: 12
-      - name: Upload discussions artifact
-        uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v3
         with:
           name: discussions.svg
           path: assets/metrics/discussions.svg
 
-  # Gists
   gists-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    continue-on-error: true
     steps:
       - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
@@ -314,17 +278,14 @@ jobs:
           user: Lissy93
           base: ""
           plugin_gists: yes
-      - name: Upload gists artifact
-        uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v3
         with:
           name: gists.svg
           path: assets/metrics/gists.svg
 
-  # Stars on projects i like
   starlists-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    continue-on-error: true
     steps:
       - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
@@ -338,17 +299,14 @@ jobs:
           plugin_starlists_languages: yes
           plugin_starlists_limit_languages: 12
           plugin_starlists_limit_repositories: 0
-      - name: Upload starlists artifact
-        uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v3
         with:
           name: starlists.svg
           path: assets/metrics/starlists.svg
 
-  # Introduction
   intro-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    continue-on-error: true
     steps:
       - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
@@ -359,17 +317,14 @@ jobs:
           user: Lissy93
           base: ""
           plugin_introduction: yes
-      - name: Upload intro artifact
-        uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v3
         with:
           name: intro.svg
           path: assets/metrics/intro.svg
 
-  # Pinned Repositories
   repository-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    continue-on-error: true
     steps:
       - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
@@ -392,17 +347,14 @@ jobs:
             lissy93/anti-theft-charge, lissy93/md-cv-maker, lissy93/usermonkey,
             lissy93/alicia-sykes-website, lissy93/happy-app, lissy93/conky-system-stats-widget,
             lissy93/awesome-selfhosted, lissy93/awesome-osint, lissy93/lissy93
-      - name: Upload repositories artifact
-        uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v3
         with:
           name: repositories.svg
           path: assets/metrics/repositories.svg
 
-  # Starred Topics
   starred-topics-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    continue-on-error: true
     steps:
       - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
@@ -415,17 +367,14 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 20
           plugin_topics_mode: icons
-      - name: Upload topics artifact
-        uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v3
         with:
           name: topics.svg
           path: assets/metrics/topics.svg
 
-  # StackOverflow Metrics
   stackoverflow-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    continue-on-error: true
     steps:
       - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
@@ -439,17 +388,14 @@ jobs:
           plugin_stackoverflow_user: 979052
           plugin_stackoverflow_sections: answers-top
           plugin_stackoverflow_limit: 5
-      - name: Upload stackoverflow artifact
-        uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v3
         with:
           name: stackoverflow.svg
           path: assets/metrics/stackoverflow.svg
 
-  # Twitter Metrics
   twitter-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    continue-on-error: true
     steps:
       - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
@@ -464,17 +410,14 @@ jobs:
           plugin_tweets_attachments: yes
           plugin_tweets_user: Lissy_Sykes
           plugin_tweets_limit: 5
-      - name: Upload twitter artifact
-        uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v3
         with:
           name: twitter.svg
           path: assets/metrics/twitter.svg
 
-  # RSS Feed
   blog-post-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    continue-on-error: true
     steps:
       - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
@@ -487,16 +430,14 @@ jobs:
           plugin_rss: yes
           plugin_rss_source: https://notes.aliciasykes.com/feed
           plugin_rss_limit: 8
-      - name: Upload blog artifact
-        uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v3
         with:
           name: blog-posts.svg
           path: assets/metrics/blog-posts.svg
 
   lines-code-changed:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    continue-on-error: true
     steps:
       - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
@@ -514,17 +455,14 @@ jobs:
             @use.patterns
             */*
             +lowlighter/metrics
-      - name: Upload lines-of-code artifact
-        uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v3
         with:
           name: lines-of-code.svg
           path: assets/metrics/lines-of-code.svg
 
-  # All Metrics together
   all-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    continue-on-error: true
     steps:
       - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
@@ -532,7 +470,6 @@ jobs:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/all.svg
           commit: false
-          # Options
           user: Lissy93
           template: classic
           base: header, activity, community, repositories, metadata
@@ -572,17 +509,14 @@ jobs:
           plugin_traffic: yes
           plugin_gists: yes
           plugin_discussions: yes
-      - name: Upload all.svg artifact
-        uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v3
         with:
           name: all.svg
           path: assets/metrics/all.svg
 
-  # Main Metrics - Short
   shorter-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    continue-on-error: true
     steps:
       - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
@@ -603,18 +537,17 @@ jobs:
           plugin_lines: yes
           plugin_discussions: yes
           plugin_discussions_categories: no
-      - name: Upload summary artifact
-        uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v3
         with:
           name: summary.svg
           path: assets/metrics/summary.svg
 
   ###########################################################################
-  # Final job that collects all artifacts and commits once
+  # 2) Final job - downloads all artifacts, does a pull --rebase, commits once
   ###########################################################################
-
   commit-changes:
     runs-on: ubuntu-latest
+    # Wait for all jobs to finish (whether they succeed or fail)
     needs:
       - sponsor-metrics
       - historical-contribuitions-metrics
@@ -648,14 +581,28 @@ jobs:
       - name: Download all artifacts
         uses: actions/download-artifact@v3
         with:
-          path: .
-          # This will download all artifacts from all previous jobs into the repo folder
+          path: assets/metrics
+          # This will download all *.svg files into assets/metrics
+          # (Be aware you may get them in subfolders, each named after the artifact)
 
-      - name: Commit and push changes
+      - name: Move files up one level (optional)
+        # If artifacts end up in subfolders like assets/metrics/reactions.svg/reactions.svg
+        # you can move them up to the main assets/metrics folder:
+        run: |
+          find assets/metrics -mindepth 2 -type f -exec mv -t assets/metrics {} +
+          # Then remove the leftover empty dirs
+          find assets/metrics -mindepth 1 -type d -empty -delete
+
+      - name: Configure Git
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
-          git add .
-          # If there's nothing to commit, don't fail the job
+          # Optionally rebase instead of merging
+          git config pull.rebase true
+          git pull --rebase
+
+      - name: Commit and push changes
+        run: |
+          git add assets/metrics/*.svg
           git commit -m "📊 Updates all metrics" || echo "No changes to commit"
           git push
