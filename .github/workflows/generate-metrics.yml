@@ -2,12 +2,12 @@ name: 📊 Generates Metrics
 
 on:
   schedule:
-    - cron: '40 23 * * *'  # Run every evening
+    - cron: '40 23 * * *'  # Run every evening, 20 mins before midnight
   workflow_dispatch:
 
 jobs:
   ###########################################################################
-  # 1) Generate each metrics artifact (no commit, continue on error)
+  # 1) Generate each metrics artifact (commit: false + no committer_token)
   ###########################################################################
 
   sponsor-metrics:
@@ -20,7 +20,7 @@ jobs:
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/sponsors.svg
-          commit: false
+          commit: false           # absolutely no commit
           user: Lissy93
           template: classic
           base: ""
@@ -35,12 +35,12 @@ jobs:
           name: sponsors-artifact
           path: assets/metrics/sponsors.svg
 
-  historical-contribuitions-metrics:
+  historical-contributions-metrics:
     runs-on: ubuntu-latest
     continue-on-error: true
     steps:
       - uses: actions/checkout@v3
-      - name: Generate Historical Contributions
+      - name: Generate Contributions
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
@@ -564,7 +564,7 @@ jobs:
     continue-on-error: true
     steps:
       - uses: actions/checkout@v3
-      - name: Generate Short Summary
+      - name: Generate Shorter Summary
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
@@ -590,14 +590,14 @@ jobs:
           path: assets/metrics/summary.svg
 
   ###########################################################################
-  # 2) Final job - download artifacts, see if last commit is from bot, amend or create single commit
+  # 2) Final job: Download artifacts, commit once using your bot’s details
   ###########################################################################
 
   commit-changes:
     runs-on: ubuntu-latest
     needs:
       - sponsor-metrics
-      - historical-contribuitions-metrics
+      - historical-contributions-metrics
       - ticket-metrics
       - coding-habits-metrics
       - stargazer-metrics
@@ -635,32 +635,15 @@ jobs:
           find assets/metrics -mindepth 2 -type f -exec mv -t assets/metrics {} +
           find assets/metrics -mindepth 1 -type d -empty -delete
 
-      - name: Configure Git
+      - name: Configure Git (Use your bot’s info)
         run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git config user.email "alicia-gh-bot@mail.as93.net"
+          git config user.name "liss-bot"
           git config pull.rebase true
           git pull --rebase
 
-      - name: Check if last commit is from this bot
-        id: last_commit
-        run: |
-          LAST_AUTHOR="$(git log -1 --pretty=format:'%an')"
-          echo "last_author=$LAST_AUTHOR" >> $GITHUB_OUTPUT
-
-      - name: Add/Amend or Create Single Commit
+      - name: Commit and push changes
         run: |
           git add assets/metrics/*.svg
-          if [ "${{ steps.last_commit.outputs.last_author }}" = "github-actions[bot]" ]; then
-            # If last commit is from the same bot, let's AMEND it so we keep only one
-            git commit --amend -m "📊 Updates all metrics"
-          else
-            # Otherwise, create a new single commit
-            git commit -m "📊 Updates all metrics"
-          fi
-
-      - name: Push
-        run: |
-          git push origin HEAD:master --force-with-lease || git push origin HEAD:master
-          # We try force-with-lease so it updates the bot's commit if needed
-          # If that fails due to new remote commits, a normal push might succeed
+          git commit -m "📊 Updates all metrics" || echo "No changes to commit"
+          git push
