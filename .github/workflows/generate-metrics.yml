@@ -2,12 +2,12 @@ name: 📊 Generates Metrics
 
 on:
   schedule:
-    - cron: '40 23 * * *'  # Run every evening, 20 mins before midnight
+    - cron: '40 23 * * *'  # Run every evening
   workflow_dispatch:
 
 jobs:
   ###########################################################################
-  # 1) Generate each metrics artifact (no commits, continue on error)
+  # 1) Generate each metrics artifact (no commit, continue on error)
   ###########################################################################
 
   sponsor-metrics:
@@ -32,7 +32,7 @@ jobs:
       - name: Upload Sponsors Artifact
         uses: actions/upload-artifact@v3
         with:
-          name: sponsors-artifact    # <-- Distinct artifact name
+          name: sponsors-artifact
           path: assets/metrics/sponsors.svg
 
   historical-contribuitions-metrics:
@@ -470,7 +470,7 @@ jobs:
           plugin_rss: yes
           plugin_rss_source: https://notes.aliciasykes.com/feed
           plugin_rss_limit: 8
-      - name: Upload Blog Artifact
+      - name: Upload Blog Posts Artifact
         uses: actions/upload-artifact@v3
         with:
           name: blog-posts-artifact
@@ -590,7 +590,7 @@ jobs:
           path: assets/metrics/summary.svg
 
   ###########################################################################
-  # 2) Final job - downloads all artifacts, rebases, one commit
+  # 2) Final job - download artifacts, see if last commit is from bot, amend or create single commit
   ###########################################################################
 
   commit-changes:
@@ -629,10 +629,8 @@ jobs:
         uses: actions/download-artifact@v3
         with:
           path: assets/metrics
-          # This will create subfolders named after each artifact (e.g. sponsors-artifact/)
 
       - name: Move downloaded files up
-        # Move each *.svg from the subfolders into assets/metrics, remove empty dirs
         run: |
           find assets/metrics -mindepth 2 -type f -exec mv -t assets/metrics {} +
           find assets/metrics -mindepth 1 -type d -empty -delete
@@ -641,12 +639,28 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
-          # Rebase instead of merge
           git config pull.rebase true
           git pull --rebase
 
-      - name: Commit and push changes
+      - name: Check if last commit is from this bot
+        id: last_commit
+        run: |
+          LAST_AUTHOR="$(git log -1 --pretty=format:'%an')"
+          echo "last_author=$LAST_AUTHOR" >> $GITHUB_OUTPUT
+
+      - name: Add/Amend or Create Single Commit
         run: |
           git add assets/metrics/*.svg
-          git commit -m "📊 Updates all metrics" || echo "No changes to commit"
-          git push
+          if [ "${{ steps.last_commit.outputs.last_author }}" = "github-actions[bot]" ]; then
+            # If last commit is from the same bot, let's AMEND it so we keep only one
+            git commit --amend -m "📊 Updates all metrics"
+          else
+            # Otherwise, create a new single commit
+            git commit -m "📊 Updates all metrics"
+          fi
+
+      - name: Push
+        run: |
+          git push origin HEAD:master --force-with-lease || git push origin HEAD:master
+          # We try force-with-lease so it updates the bot's commit if needed
+          # If that fails due to new remote commits, a normal push might succeed
