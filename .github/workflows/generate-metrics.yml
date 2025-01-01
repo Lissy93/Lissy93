@@ -2,23 +2,25 @@ name: 📊 Generates Metrics
 
 on:
   schedule:
-    - cron: '40 23 * * *' # Run every evening, twenty mins before midnight
-  workflow_dispatch: # Or when it's manually triggered
+    - cron: '40 23 * * *'  # Run every evening, 20 mins before midnight
+  workflow_dispatch:
 
 jobs:
-  # 1) Each metrics job: commit=false + upload artifact + continue-on-error
+  ###########################################################################
+  # 1) Generate each metrics artifact (no commits, continue on error)
+  ###########################################################################
 
   sponsor-metrics:
     runs-on: ubuntu-latest
-    # If it fails, just skip that job without failing the entire workflow
     continue-on-error: true
     steps:
       - uses: actions/checkout@v3
-      - uses: lowlighter/metrics@latest
+      - name: Generate Sponsors
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/sponsors.svg
-          commit: false            # <--- Important: do NOT commit
+          commit: false
           user: Lissy93
           template: classic
           base: ""
@@ -27,9 +29,10 @@ jobs:
           plugin_sponsors_past: yes
           plugin_sponsors_sections: goal, list
           plugin_sponsors_size: 36
-      - uses: actions/upload-artifact@v3
+      - name: Upload Sponsors Artifact
+        uses: actions/upload-artifact@v3
         with:
-          name: sponsors.svg
+          name: sponsors-artifact    # <-- Distinct artifact name
           path: assets/metrics/sponsors.svg
 
   historical-contribuitions-metrics:
@@ -37,7 +40,8 @@ jobs:
     continue-on-error: true
     steps:
       - uses: actions/checkout@v3
-      - uses: lowlighter/metrics@latest
+      - name: Generate Historical Contributions
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/contributions.svg
@@ -48,9 +52,10 @@ jobs:
           config_timezone: Europe/London
           plugin_calendar: yes
           plugin_calendar_limit: 10
-      - uses: actions/upload-artifact@v3
+      - name: Upload Contributions Artifact
+        uses: actions/upload-artifact@v3
         with:
-          name: contributions.svg
+          name: contributions-artifact
           path: assets/metrics/contributions.svg
 
   ticket-metrics:
@@ -58,7 +63,8 @@ jobs:
     continue-on-error: true
     steps:
       - uses: actions/checkout@v3
-      - uses: lowlighter/metrics@latest
+      - name: Generate Tickets
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/tickets.svg
@@ -67,9 +73,10 @@ jobs:
           base: ""
           plugin_followup: yes
           plugin_followup_indepth: yes
-      - uses: actions/upload-artifact@v3
+      - name: Upload Tickets Artifact
+        uses: actions/upload-artifact@v3
         with:
-          name: tickets.svg
+          name: tickets-artifact
           path: assets/metrics/tickets.svg
 
   coding-habits-metrics:
@@ -77,7 +84,8 @@ jobs:
     continue-on-error: true
     steps:
       - uses: actions/checkout@v3
-      - uses: lowlighter/metrics@latest
+      - name: Generate Coding Habits
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/habits.svg
@@ -91,9 +99,10 @@ jobs:
           plugin_habits_days: 28
           plugin_habits_from: 500
           config_timezone: Europe/London
-      - uses: actions/upload-artifact@v3
+      - name: Upload Habits Artifact
+        uses: actions/upload-artifact@v3
         with:
-          name: habits.svg
+          name: habits-artifact
           path: assets/metrics/habits.svg
 
   stargazer-metrics:
@@ -101,7 +110,8 @@ jobs:
     continue-on-error: true
     steps:
       - uses: actions/checkout@v3
-      - uses: lowlighter/metrics@latest
+      - name: Generate Stargazers
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/stargazers.svg
@@ -111,9 +121,10 @@ jobs:
           plugin_stargazers: yes
           plugin_stargazers_charts_type: graph
           plugin_stargazers_days: 365
-      - uses: actions/upload-artifact@v3
+      - name: Upload Stargazers Artifact
+        uses: actions/upload-artifact@v3
         with:
-          name: stargazers.svg
+          name: stargazers-artifact
           path: assets/metrics/stargazers.svg
 
   activity-metrics:
@@ -121,7 +132,8 @@ jobs:
     continue-on-error: true
     steps:
       - uses: actions/checkout@v3
-      - uses: lowlighter/metrics@latest
+      - name: Generate Activity
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/activity.svg
@@ -132,9 +144,10 @@ jobs:
           plugin_activity_limit: 15
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, review, ref/create, public
-      - uses: actions/upload-artifact@v3
+      - name: Upload Activity Artifact
+        uses: actions/upload-artifact@v3
         with:
-          name: activity.svg
+          name: activity-artifact
           path: assets/metrics/activity.svg
 
   reactions-metrics:
@@ -142,7 +155,8 @@ jobs:
     continue-on-error: true
     steps:
       - uses: actions/checkout@v3
-      - uses: lowlighter/metrics@latest
+      - name: Generate Reactions
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/reactions.svg
@@ -155,9 +169,10 @@ jobs:
           plugin_reactions_limit_discussions: 800
           plugin_reactions_limit_discussions_comments: 800
           plugin_reactions_details: percentage, count
-      - uses: actions/upload-artifact@v3
+      - name: Upload Reactions Artifact
+        uses: actions/upload-artifact@v3
         with:
-          name: reactions.svg
+          name: reactions-artifact
           path: assets/metrics/reactions.svg
 
   people-metrics:
@@ -165,7 +180,8 @@ jobs:
     continue-on-error: true
     steps:
       - uses: actions/checkout@v3
-      - uses: lowlighter/metrics@latest
+      - name: Generate People
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/people.svg
@@ -174,9 +190,10 @@ jobs:
           base: ""
           plugin_people: yes
           plugin_people_types: followers, following
-      - uses: actions/upload-artifact@v3
+      - name: Upload People Artifact
+        uses: actions/upload-artifact@v3
         with:
-          name: people.svg
+          name: people-artifact
           path: assets/metrics/people.svg
 
   language-metrics:
@@ -184,7 +201,8 @@ jobs:
     continue-on-error: true
     steps:
       - uses: actions/checkout@v3
-      - uses: lowlighter/metrics@latest
+      - name: Generate Languages
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/languages.svg
@@ -199,9 +217,10 @@ jobs:
           plugin_languages_recent_days: 120
           plugin_languages_other: yes
           plugin_languages_sections: most-used, recently-used
-      - uses: actions/upload-artifact@v3
+      - name: Upload Languages Artifact
+        uses: actions/upload-artifact@v3
         with:
-          name: languages.svg
+          name: languages-artifact
           path: assets/metrics/languages.svg
 
   acheiment-metrics:
@@ -209,7 +228,8 @@ jobs:
     continue-on-error: true
     steps:
       - uses: actions/checkout@v3
-      - uses: lowlighter/metrics@latest
+      - name: Generate Achievements
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/achievements.svg
@@ -219,9 +239,10 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_threshold: B
           plugin_achievements_display: detailed
-      - uses: actions/upload-artifact@v3
+      - name: Upload Achievements Artifact
+        uses: actions/upload-artifact@v3
         with:
-          name: achievements.svg
+          name: achievements-artifact
           path: assets/metrics/achievements.svg
 
   notable-metrics:
@@ -229,7 +250,8 @@ jobs:
     continue-on-error: true
     steps:
       - uses: actions/checkout@v3
-      - uses: lowlighter/metrics@latest
+      - name: Generate Notable
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/notable.svg
@@ -241,9 +263,10 @@ jobs:
           plugin_notable_repositories: yes
           plugin_notable_from: all
           plugin_notable_types: commit, pull_request, issue
-      - uses: actions/upload-artifact@v3
+      - name: Upload Notable Artifact
+        uses: actions/upload-artifact@v3
         with:
-          name: notable.svg
+          name: notable-artifact
           path: assets/metrics/notable.svg
 
   discussions-metrics:
@@ -251,7 +274,8 @@ jobs:
     continue-on-error: true
     steps:
       - uses: actions/checkout@v3
-      - uses: lowlighter/metrics@latest
+      - name: Generate Discussions
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/discussions.svg
@@ -260,9 +284,10 @@ jobs:
           base: ""
           plugin_discussions: yes
           plugin_discussions_categories_limit: 12
-      - uses: actions/upload-artifact@v3
+      - name: Upload Discussions Artifact
+        uses: actions/upload-artifact@v3
         with:
-          name: discussions.svg
+          name: discussions-artifact
           path: assets/metrics/discussions.svg
 
   gists-metrics:
@@ -270,7 +295,8 @@ jobs:
     continue-on-error: true
     steps:
       - uses: actions/checkout@v3
-      - uses: lowlighter/metrics@latest
+      - name: Generate Gists
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/gists.svg
@@ -278,9 +304,10 @@ jobs:
           user: Lissy93
           base: ""
           plugin_gists: yes
-      - uses: actions/upload-artifact@v3
+      - name: Upload Gists Artifact
+        uses: actions/upload-artifact@v3
         with:
-          name: gists.svg
+          name: gists-artifact
           path: assets/metrics/gists.svg
 
   starlists-metrics:
@@ -288,7 +315,8 @@ jobs:
     continue-on-error: true
     steps:
       - uses: actions/checkout@v3
-      - uses: lowlighter/metrics@latest
+      - name: Generate Starlists
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/starlists.svg
@@ -299,9 +327,10 @@ jobs:
           plugin_starlists_languages: yes
           plugin_starlists_limit_languages: 12
           plugin_starlists_limit_repositories: 0
-      - uses: actions/upload-artifact@v3
+      - name: Upload Starlists Artifact
+        uses: actions/upload-artifact@v3
         with:
-          name: starlists.svg
+          name: starlists-artifact
           path: assets/metrics/starlists.svg
 
   intro-metrics:
@@ -309,7 +338,8 @@ jobs:
     continue-on-error: true
     steps:
       - uses: actions/checkout@v3
-      - uses: lowlighter/metrics@latest
+      - name: Generate Intro
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/intro.svg
@@ -317,9 +347,10 @@ jobs:
           user: Lissy93
           base: ""
           plugin_introduction: yes
-      - uses: actions/upload-artifact@v3
+      - name: Upload Intro Artifact
+        uses: actions/upload-artifact@v3
         with:
-          name: intro.svg
+          name: intro-artifact
           path: assets/metrics/intro.svg
 
   repository-metrics:
@@ -327,7 +358,8 @@ jobs:
     continue-on-error: true
     steps:
       - uses: actions/checkout@v3
-      - uses: lowlighter/metrics@latest
+      - name: Generate Repositories
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/repositories.svg
@@ -347,9 +379,10 @@ jobs:
             lissy93/anti-theft-charge, lissy93/md-cv-maker, lissy93/usermonkey,
             lissy93/alicia-sykes-website, lissy93/happy-app, lissy93/conky-system-stats-widget,
             lissy93/awesome-selfhosted, lissy93/awesome-osint, lissy93/lissy93
-      - uses: actions/upload-artifact@v3
+      - name: Upload Repositories Artifact
+        uses: actions/upload-artifact@v3
         with:
-          name: repositories.svg
+          name: repositories-artifact
           path: assets/metrics/repositories.svg
 
   starred-topics-metrics:
@@ -357,7 +390,8 @@ jobs:
     continue-on-error: true
     steps:
       - uses: actions/checkout@v3
-      - uses: lowlighter/metrics@latest
+      - name: Generate Starred Topics
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/topics.svg
@@ -367,9 +401,10 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 20
           plugin_topics_mode: icons
-      - uses: actions/upload-artifact@v3
+      - name: Upload Topics Artifact
+        uses: actions/upload-artifact@v3
         with:
-          name: topics.svg
+          name: topics-artifact
           path: assets/metrics/topics.svg
 
   stackoverflow-metrics:
@@ -377,7 +412,8 @@ jobs:
     continue-on-error: true
     steps:
       - uses: actions/checkout@v3
-      - uses: lowlighter/metrics@latest
+      - name: Generate StackOverflow
+        uses: lowlighter/metrics@latest
         with:
           filename: assets/metrics/stackoverflow.svg
           commit: false
@@ -388,9 +424,10 @@ jobs:
           plugin_stackoverflow_user: 979052
           plugin_stackoverflow_sections: answers-top
           plugin_stackoverflow_limit: 5
-      - uses: actions/upload-artifact@v3
+      - name: Upload StackOverflow Artifact
+        uses: actions/upload-artifact@v3
         with:
-          name: stackoverflow.svg
+          name: stackoverflow-artifact
           path: assets/metrics/stackoverflow.svg
 
   twitter-metrics:
@@ -398,7 +435,8 @@ jobs:
     continue-on-error: true
     steps:
       - uses: actions/checkout@v3
-      - uses: lowlighter/metrics@latest
+      - name: Generate Twitter
+        uses: lowlighter/metrics@latest
         with:
           filename: assets/metrics/twitter.svg
           commit: false
@@ -410,9 +448,10 @@ jobs:
           plugin_tweets_attachments: yes
           plugin_tweets_user: Lissy_Sykes
           plugin_tweets_limit: 5
-      - uses: actions/upload-artifact@v3
+      - name: Upload Twitter Artifact
+        uses: actions/upload-artifact@v3
         with:
-          name: twitter.svg
+          name: twitter-artifact
           path: assets/metrics/twitter.svg
 
   blog-post-metrics:
@@ -420,7 +459,8 @@ jobs:
     continue-on-error: true
     steps:
       - uses: actions/checkout@v3
-      - uses: lowlighter/metrics@latest
+      - name: Generate Blog Posts
+        uses: lowlighter/metrics@latest
         with:
           filename: assets/metrics/blog-posts.svg
           commit: false
@@ -430,9 +470,10 @@ jobs:
           plugin_rss: yes
           plugin_rss_source: https://notes.aliciasykes.com/feed
           plugin_rss_limit: 8
-      - uses: actions/upload-artifact@v3
+      - name: Upload Blog Artifact
+        uses: actions/upload-artifact@v3
         with:
-          name: blog-posts.svg
+          name: blog-posts-artifact
           path: assets/metrics/blog-posts.svg
 
   lines-code-changed:
@@ -440,7 +481,8 @@ jobs:
     continue-on-error: true
     steps:
       - uses: actions/checkout@v3
-      - uses: lowlighter/metrics@latest
+      - name: Generate Lines of Code
+        uses: lowlighter/metrics@latest
         with:
           commit: false
           filename: assets/metrics/lines-of-code.svg
@@ -455,9 +497,10 @@ jobs:
             @use.patterns
             */*
             +lowlighter/metrics
-      - uses: actions/upload-artifact@v3
+      - name: Upload Lines-of-Code Artifact
+        uses: actions/upload-artifact@v3
         with:
-          name: lines-of-code.svg
+          name: lines-of-code-artifact
           path: assets/metrics/lines-of-code.svg
 
   all-metrics:
@@ -465,7 +508,8 @@ jobs:
     continue-on-error: true
     steps:
       - uses: actions/checkout@v3
-      - uses: lowlighter/metrics@latest
+      - name: Generate All
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/all.svg
@@ -509,9 +553,10 @@ jobs:
           plugin_traffic: yes
           plugin_gists: yes
           plugin_discussions: yes
-      - uses: actions/upload-artifact@v3
+      - name: Upload All Artifact
+        uses: actions/upload-artifact@v3
         with:
-          name: all.svg
+          name: all-artifact
           path: assets/metrics/all.svg
 
   shorter-metrics:
@@ -519,7 +564,8 @@ jobs:
     continue-on-error: true
     steps:
       - uses: actions/checkout@v3
-      - uses: lowlighter/metrics@latest
+      - name: Generate Short Summary
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/summary.svg
@@ -537,17 +583,18 @@ jobs:
           plugin_lines: yes
           plugin_discussions: yes
           plugin_discussions_categories: no
-      - uses: actions/upload-artifact@v3
+      - name: Upload Summary Artifact
+        uses: actions/upload-artifact@v3
         with:
-          name: summary.svg
+          name: summary-artifact
           path: assets/metrics/summary.svg
 
   ###########################################################################
-  # 2) Final job - downloads all artifacts, does a pull --rebase, commits once
+  # 2) Final job - downloads all artifacts, rebases, one commit
   ###########################################################################
+
   commit-changes:
     runs-on: ubuntu-latest
-    # Wait for all jobs to finish (whether they succeed or fail)
     needs:
       - sponsor-metrics
       - historical-contribuitions-metrics
@@ -582,22 +629,19 @@ jobs:
         uses: actions/download-artifact@v3
         with:
           path: assets/metrics
-          # This will download all *.svg files into assets/metrics
-          # (Be aware you may get them in subfolders, each named after the artifact)
+          # This will create subfolders named after each artifact (e.g. sponsors-artifact/)
 
-      - name: Move files up one level (optional)
-        # If artifacts end up in subfolders like assets/metrics/reactions.svg/reactions.svg
-        # you can move them up to the main assets/metrics folder:
+      - name: Move downloaded files up
+        # Move each *.svg from the subfolders into assets/metrics, remove empty dirs
         run: |
           find assets/metrics -mindepth 2 -type f -exec mv -t assets/metrics {} +
-          # Then remove the leftover empty dirs
           find assets/metrics -mindepth 1 -type d -empty -delete
 
       - name: Configure Git
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
-          # Optionally rebase instead of merging
+          # Rebase instead of merge
           git config pull.rebase true
           git pull --rebase
 
