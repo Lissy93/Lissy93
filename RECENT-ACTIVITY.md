@@ -11,14 +11,14 @@
 </a>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#206](https://github.com/Lissy93/web-check/issues/206) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+1. 🎉 Merged PR [#7](https://github.com/Lissy93/who-dat/pull/7) in [Lissy93/who-dat](https://github.com/Lissy93/who-dat)
 2. 🗣 Commented on [#206](https://github.com/Lissy93/web-check/issues/206) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-3. 🗣 Commented on [#205](https://github.com/Lissy93/web-check/issues/205) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-4. 🎉 Merged PR [#205](https://github.com/Lissy93/web-check/pull/205) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-5. 💪 Opened PR [#205](https://github.com/Lissy93/web-check/pull/205) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-6. 🗣 Commented on [#36](https://github.com/mikemaccana/whois-json/issues/36) in [mikemaccana/whois-json](https://github.com/mikemaccana/whois-json)
+3. 🗣 Commented on [#206](https://github.com/Lissy93/web-check/issues/206) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+4. 🗣 Commented on [#205](https://github.com/Lissy93/web-check/issues/205) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+5. 🎉 Merged PR [#205](https://github.com/Lissy93/web-check/pull/205) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+6. 💪 Opened PR [#205](https://github.com/Lissy93/web-check/pull/205) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
 7. 🗣 Commented on [#36](https://github.com/mikemaccana/whois-json/issues/36) in [mikemaccana/whois-json](https://github.com/mikemaccana/whois-json)
-8. 🎉 Merged PR [#1703](https://github.com/Lissy93/dashy/pull/1703) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. 🗣 Commented on [#36](https://github.com/mikemaccana/whois-json/issues/36) in [mikemaccana/whois-json](https://github.com/mikemaccana/whois-json)
 9. 🗣 Commented on [#189](https://github.com/Lissy93/awesome-privacy/issues/189) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
 10. 🔒 Closed issue [#189](https://github.com/Lissy93/awesome-privacy/issues/189) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
 11. 🗣 Commented on [#5](https://github.com/Lissy93/awesome-privacy/issues/5) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
