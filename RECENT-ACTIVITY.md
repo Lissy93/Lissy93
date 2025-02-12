@@ -11,9 +11,9 @@
 </a>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/rustygreen/ng-supabase/issues/2) in [rustygreen/ng-supabase](https://github.com/rustygreen/ng-supabase)
-2. 🗣 Commented on [#93](https://github.com/netlify/angular-runtime/issues/93) in [netlify/angular-runtime](https://github.com/netlify/angular-runtime)
-3. 🗣 Commented on [#206](https://github.com/Lissy93/web-check/issues/206) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+1. 🗣 Commented on [#1751](https://github.com/supabase/auth/issues/1751) in [supabase/auth](https://github.com/supabase/auth)
+2. 🗣 Commented on [#2](https://github.com/rustygreen/ng-supabase/issues/2) in [rustygreen/ng-supabase](https://github.com/rustygreen/ng-supabase)
+3. 🗣 Commented on [#93](https://github.com/netlify/angular-runtime/issues/93) in [netlify/angular-runtime](https://github.com/netlify/angular-runtime)
 4. 🗣 Commented on [#206](https://github.com/Lissy93/web-check/issues/206) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
 5. 🗣 Commented on [#205](https://github.com/Lissy93/web-check/issues/205) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
 6. 🎉 Merged PR [#205](https://github.com/Lissy93/web-check/pull/205) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
