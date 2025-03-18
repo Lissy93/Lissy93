@@ -130,16 +130,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/Lissy93/domain-locker/pull/8) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-2. 🎉 Merged PR [#7](https://github.com/Lissy93/domain-locker/pull/7) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-3. 💪 Opened PR [#7](https://github.com/Lissy93/domain-locker/pull/7) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-4. 🎉 Merged PR [#6](https://github.com/Lissy93/domain-locker/pull/6) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-5. 🎉 Merged PR [#1727](https://github.com/Lissy93/dashy/pull/1727) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. 🎉 Merged PR [#1713](https://github.com/Lissy93/dashy/pull/1713) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. 🎉 Merged PR [#1710](https://github.com/Lissy93/dashy/pull/1710) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. 🎉 Merged PR [#1709](https://github.com/Lissy93/dashy/pull/1709) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. 🗣 Commented on [#189](https://github.com/Lissy93/awesome-privacy/issues/189) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-10. 🔒 Closed issue [#189](https://github.com/Lissy93/awesome-privacy/issues/189) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+1. 🗣 Commented on [#1652](https://github.com/analogjs/analog/issues/1652) in [analogjs/analog](https://github.com/analogjs/analog)
+2. 🗣 Commented on [#1652](https://github.com/analogjs/analog/issues/1652) in [analogjs/analog](https://github.com/analogjs/analog)
+3. 💪 Opened PR [#8](https://github.com/Lissy93/domain-locker/pull/8) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
+4. 🎉 Merged PR [#7](https://github.com/Lissy93/domain-locker/pull/7) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
+5. 💪 Opened PR [#7](https://github.com/Lissy93/domain-locker/pull/7) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
+6. 🎉 Merged PR [#6](https://github.com/Lissy93/domain-locker/pull/6) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
+7. 🎉 Merged PR [#1727](https://github.com/Lissy93/dashy/pull/1727) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. 🎉 Merged PR [#1713](https://github.com/Lissy93/dashy/pull/1713) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+9. 🎉 Merged PR [#1710](https://github.com/Lissy93/dashy/pull/1710) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. 🎉 Merged PR [#1709](https://github.com/Lissy93/dashy/pull/1709) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
