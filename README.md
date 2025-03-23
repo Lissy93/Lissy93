@@ -131,15 +131,15 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1652](https://github.com/analogjs/analog/issues/1652) in [analogjs/analog](https://github.com/analogjs/analog)
-2. 🎉 Merged PR [#11](https://github.com/Lissy93/domain-locker/pull/11) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-3. 🎉 Merged PR [#10](https://github.com/Lissy93/domain-locker/pull/10) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-4. 🎉 Merged PR [#9](https://github.com/Lissy93/domain-locker/pull/9) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-5. 💪 Opened PR [#9](https://github.com/Lissy93/domain-locker/pull/9) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-6. 🎉 Merged PR [#8](https://github.com/Lissy93/domain-locker/pull/8) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-7. 🗣 Commented on [#1652](https://github.com/analogjs/analog/issues/1652) in [analogjs/analog](https://github.com/analogjs/analog)
+2. 🗣 Commented on [#1652](https://github.com/analogjs/analog/issues/1652) in [analogjs/analog](https://github.com/analogjs/analog)
+3. 🎉 Merged PR [#11](https://github.com/Lissy93/domain-locker/pull/11) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
+4. 🎉 Merged PR [#10](https://github.com/Lissy93/domain-locker/pull/10) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
+5. 🎉 Merged PR [#9](https://github.com/Lissy93/domain-locker/pull/9) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
+6. 💪 Opened PR [#9](https://github.com/Lissy93/domain-locker/pull/9) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
+7. 🎉 Merged PR [#8](https://github.com/Lissy93/domain-locker/pull/8) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
 8. 🗣 Commented on [#1652](https://github.com/analogjs/analog/issues/1652) in [analogjs/analog](https://github.com/analogjs/analog)
-9. 💪 Opened PR [#8](https://github.com/Lissy93/domain-locker/pull/8) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-10. 🎉 Merged PR [#7](https://github.com/Lissy93/domain-locker/pull/7) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
+9. 🗣 Commented on [#1652](https://github.com/analogjs/analog/issues/1652) in [analogjs/analog](https://github.com/analogjs/analog)
+10. 💪 Opened PR [#8](https://github.com/Lissy93/domain-locker/pull/8) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
