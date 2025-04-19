@@ -130,16 +130,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1312](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/1312) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)
-2. 🎉 Merged PR [#16](https://github.com/Lissy93/domain-locker/pull/16) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-3. 🎉 Merged PR [#243](https://github.com/Lissy93/web-check/pull/243) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-4. 💪 Opened PR [#243](https://github.com/Lissy93/web-check/pull/243) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-5. 💪 Opened PR [#16](https://github.com/Lissy93/domain-locker/pull/16) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-6. 🎉 Merged PR [#1836](https://github.com/Lissy93/dashy/pull/1836) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-7. 🎉 Merged PR [#228](https://github.com/Lissy93/web-check/pull/228) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-8. 🎉 Merged PR [#237](https://github.com/Lissy93/web-check/pull/237) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-9. 🎉 Merged PR [#277](https://github.com/Lissy93/personal-security-checklist/pull/277) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-10. 🎉 Merged PR [#14](https://github.com/Lissy93/domain-locker/pull/14) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
+1. 🎉 Merged PR [#27](https://github.com/Lissy93/portainer-templates/pull/27) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
+2. 🎉 Merged PR [#46](https://github.com/Lissy93/portainer-templates/pull/46) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
+3. 🎉 Merged PR [#70](https://github.com/Lissy93/portainer-templates/pull/70) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
+4. 🗣 Commented on [#72](https://github.com/Lissy93/portainer-templates/issues/72) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
+5. ❌ Closed PR [#72](https://github.com/Lissy93/portainer-templates/pull/72) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
+6. 🗣 Commented on [#73](https://github.com/Lissy93/portainer-templates/issues/73) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
+7. ❌ Closed PR [#73](https://github.com/Lissy93/portainer-templates/pull/73) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
+8. 🔒 Closed issue [#66](https://github.com/Lissy93/portainer-templates/issues/66) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
+9. 🔒 Closed issue [#66](https://github.com/Lissy93/portainer-templates/issues/66) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
+10. 🔒 Closed issue [#65](https://github.com/Lissy93/portainer-templates/issues/65) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
