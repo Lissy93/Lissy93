@@ -11,9 +11,9 @@
 </a>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/Lissy93/domain-locker/pull/18) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-2. 🎉 Merged PR [#3](https://github.com/Lissy93/cv/pull/3) in [Lissy93/cv](https://github.com/Lissy93/cv)
-3. 💪 Opened PR [#3](https://github.com/Lissy93/cv/pull/3) in [Lissy93/cv](https://github.com/Lissy93/cv)
+1. 🗣 Commented on [#1857](https://github.com/Lissy93/dashy/issues/1857) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. ❌ Closed PR [#1857](https://github.com/Lissy93/dashy/pull/1857) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. 🎉 Merged PR [#18](https://github.com/Lissy93/domain-locker/pull/18) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
 4. ❌ Closed PR [#2](https://github.com/Lissy93/cv/pull/2) in [Lissy93/cv](https://github.com/Lissy93/cv)
 5. 🗣 Commented on [#1844](https://github.com/Lissy93/dashy/issues/1844) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 6. ❌ Closed PR [#173](https://github.com/Lissy93/web-check/pull/173) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
