@@ -11,7 +11,7 @@
 </a>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.0.0](https://github.com/2.0.0) in [Lissy93/cv](https://github.com/Lissy93/cv)
+1. 🎉 Merged PR [#18](https://github.com/Lissy93/domain-locker/pull/18) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
 2. 🎉 Merged PR [#3](https://github.com/Lissy93/cv/pull/3) in [Lissy93/cv](https://github.com/Lissy93/cv)
 3. 💪 Opened PR [#3](https://github.com/Lissy93/cv/pull/3) in [Lissy93/cv](https://github.com/Lissy93/cv)
 4. ❌ Closed PR [#2](https://github.com/Lissy93/cv/pull/2) in [Lissy93/cv](https://github.com/Lissy93/cv)
