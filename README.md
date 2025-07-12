@@ -130,16 +130,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/Lissy93/domain-locker/pull/24) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-2. 🗣 Commented on [#19](https://github.com/Lissy93/domain-locker/issues/19) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-3. 🎉 Merged PR [#22](https://github.com/Lissy93/domain-locker/pull/22) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-4. 🔒 Closed issue [#19](https://github.com/Lissy93/domain-locker/issues/19) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-5. 🎉 Merged PR [#21](https://github.com/Lissy93/domain-locker/pull/21) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-6. 🗣 Commented on [#19](https://github.com/Lissy93/domain-locker/issues/19) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-7. 💪 Opened PR [#21](https://github.com/Lissy93/domain-locker/pull/21) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-8. 🎉 Merged PR [#280](https://github.com/Lissy93/personal-security-checklist/pull/280) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-9. 🎉 Merged PR [#39](https://github.com/Lissy93/AdGuardian-Term/pull/39) in [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
-10. 🎉 Merged PR [#249](https://github.com/Lissy93/web-check/pull/249) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
+1. 🎉 Merged PR [#25](https://github.com/Lissy93/domain-locker/pull/25) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
+2. 🔒 Reopened issue [#23](https://github.com/Lissy93/domain-locker/issues/23) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
+3. 🔒 Closed issue [#23](https://github.com/Lissy93/domain-locker/issues/23) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
+4. 🎉 Merged PR [#26](https://github.com/Lissy93/domain-locker/pull/26) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
+5. 🎉 Merged PR [#24](https://github.com/Lissy93/domain-locker/pull/24) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
+6. 💪 Opened PR [#26](https://github.com/Lissy93/domain-locker/pull/26) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
+7. 💪 Opened PR [#25](https://github.com/Lissy93/domain-locker/pull/25) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
+8. 💪 Opened PR [#24](https://github.com/Lissy93/domain-locker/pull/24) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
+9. 🗣 Commented on [#19](https://github.com/Lissy93/domain-locker/issues/19) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
+10. 🎉 Merged PR [#22](https://github.com/Lissy93/domain-locker/pull/22) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
