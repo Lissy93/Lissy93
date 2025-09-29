@@ -11,11 +11,11 @@
 </a>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1917](https://github.com/Lissy93/dashy/pull/1917) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. 🎉 Merged PR [#1914](https://github.com/Lissy93/dashy/pull/1914) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. 🎉 Merged PR [#1909](https://github.com/Lissy93/dashy/pull/1909) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. 🎉 Merged PR [#1892](https://github.com/Lissy93/dashy/pull/1892) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. 🗣 Commented on [#5893](https://github.com/anthropics/claude-code/issues/5893) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+1. 🎉 Merged PR [#38](https://github.com/Lissy93/domain-locker/pull/38) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
+2. 🎉 Merged PR [#1917](https://github.com/Lissy93/dashy/pull/1917) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. 🎉 Merged PR [#1914](https://github.com/Lissy93/dashy/pull/1914) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. 🎉 Merged PR [#1909](https://github.com/Lissy93/dashy/pull/1909) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. 🎉 Merged PR [#1892](https://github.com/Lissy93/dashy/pull/1892) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 6. 💪 Opened PR [#1897](https://github.com/Lissy93/dashy/pull/1897) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 7. 🎉 Merged PR [#252](https://github.com/Lissy93/web-check/pull/252) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
 8. 🎉 Merged PR [#1890](https://github.com/Lissy93/dashy/pull/1890) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
