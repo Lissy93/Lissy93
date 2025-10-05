@@ -130,12 +130,12 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/Lissy93/domain-locker/pull/38) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-2. 🎉 Merged PR [#1917](https://github.com/Lissy93/dashy/pull/1917) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. 🎉 Merged PR [#1914](https://github.com/Lissy93/dashy/pull/1914) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. 🎉 Merged PR [#1909](https://github.com/Lissy93/dashy/pull/1909) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. 🎉 Merged PR [#1892](https://github.com/Lissy93/dashy/pull/1892) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. 💪 Opened PR [#1897](https://github.com/Lissy93/dashy/pull/1897) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. 🎉 Merged PR [#2](https://github.com/Lissy93/networking-toolbox/pull/2) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+2. 💪 Opened PR [#2](https://github.com/Lissy93/networking-toolbox/pull/2) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+3. 🎉 Merged PR [#1](https://github.com/Lissy93/networking-toolbox/pull/1) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+4. 🎉 Merged PR [#38](https://github.com/Lissy93/domain-locker/pull/38) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
+5. 🎉 Merged PR [#1917](https://github.com/Lissy93/dashy/pull/1917) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+6. 🎉 Merged PR [#1914](https://github.com/Lissy93/dashy/pull/1914) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 7. 🎉 Merged PR [#252](https://github.com/Lissy93/web-check/pull/252) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
 8. 🎉 Merged PR [#1890](https://github.com/Lissy93/dashy/pull/1890) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 9. 🎉 Merged PR [#1894](https://github.com/Lissy93/dashy/pull/1894) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
