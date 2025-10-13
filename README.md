@@ -130,16 +130,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/Lissy93/networking-toolbox/pull/9) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
-2. 🎉 Merged PR [#8](https://github.com/Lissy93/networking-toolbox/pull/8) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
-3. 💪 Opened PR [#8](https://github.com/Lissy93/networking-toolbox/pull/8) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
-4. ❌ Closed PR [#7](https://github.com/Lissy93/networking-toolbox/pull/7) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
-5. 💪 Opened PR [#7](https://github.com/Lissy93/networking-toolbox/pull/7) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
-6. 🎉 Merged PR [#5](https://github.com/Lissy93/networking-toolbox/pull/5) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
-7. 🎉 Merged PR [#6](https://github.com/Lissy93/networking-toolbox/pull/6) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
-8. 💪 Opened PR [#5](https://github.com/Lissy93/networking-toolbox/pull/5) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
-9. 🎉 Merged PR [#4](https://github.com/Lissy93/networking-toolbox/pull/4) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
-10. 💪 Opened PR [#4](https://github.com/Lissy93/networking-toolbox/pull/4) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+1. 🎉 Merged PR [#9](https://github.com/Lissy93/networking-toolbox/pull/9) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+2. 💪 Opened PR [#9](https://github.com/Lissy93/networking-toolbox/pull/9) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+3. 🎉 Merged PR [#8](https://github.com/Lissy93/networking-toolbox/pull/8) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+4. 💪 Opened PR [#8](https://github.com/Lissy93/networking-toolbox/pull/8) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+5. ❌ Closed PR [#7](https://github.com/Lissy93/networking-toolbox/pull/7) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+6. 💪 Opened PR [#7](https://github.com/Lissy93/networking-toolbox/pull/7) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+7. 🎉 Merged PR [#5](https://github.com/Lissy93/networking-toolbox/pull/5) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+8. 🎉 Merged PR [#6](https://github.com/Lissy93/networking-toolbox/pull/6) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+9. 💪 Opened PR [#5](https://github.com/Lissy93/networking-toolbox/pull/5) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+10. 🎉 Merged PR [#4](https://github.com/Lissy93/networking-toolbox/pull/4) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
