@@ -130,16 +130,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1936](https://github.com/Lissy93/dashy/pull/1936) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. ❌ Closed PR [#1937](https://github.com/Lissy93/dashy/pull/1937) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. 💪 Opened PR [#1](https://github.com/joe-sykes/crossword-companion/pull/1) in [joe-sykes/crossword-companion](https://github.com/joe-sykes/crossword-companion)
-4. 🗣 Commented on [#15](https://github.com/Lissy93/networking-toolbox/issues/15) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
-5. 💪 Opened PR [#16](https://github.com/Lissy93/networking-toolbox/pull/16) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
-6. 🗣 Commented on [#13](https://github.com/Lissy93/networking-toolbox/issues/13) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
-7. 💪 Opened PR [#10](https://github.com/Lissy93/networking-toolbox/pull/10) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
-8. 💪 Opened PR [#9](https://github.com/Lissy93/networking-toolbox/pull/9) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
-9. 💪 Opened PR [#8](https://github.com/Lissy93/networking-toolbox/pull/8) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
-10. ❌ Closed PR [#7](https://github.com/Lissy93/networking-toolbox/pull/7) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+1. 🔒 Closed issue [#19](https://github.com/Lissy93/networking-toolbox/issues/19) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+2. 🗣 Commented on [#19](https://github.com/Lissy93/networking-toolbox/issues/19) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+3. ❌ Closed PR [#1936](https://github.com/Lissy93/dashy/pull/1936) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. ❌ Closed PR [#1937](https://github.com/Lissy93/dashy/pull/1937) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+5. 💪 Opened PR [#1](https://github.com/joe-sykes/crossword-companion/pull/1) in [joe-sykes/crossword-companion](https://github.com/joe-sykes/crossword-companion)
+6. 🗣 Commented on [#15](https://github.com/Lissy93/networking-toolbox/issues/15) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+7. 💪 Opened PR [#16](https://github.com/Lissy93/networking-toolbox/pull/16) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+8. 🗣 Commented on [#13](https://github.com/Lissy93/networking-toolbox/issues/13) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+9. 💪 Opened PR [#10](https://github.com/Lissy93/networking-toolbox/pull/10) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+10. 💪 Opened PR [#9](https://github.com/Lissy93/networking-toolbox/pull/9) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
