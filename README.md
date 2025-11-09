@@ -130,16 +130,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/Lissy93/lissy93.github.io/pull/1) in [Lissy93/lissy93.github.io](https://github.com/Lissy93/lissy93.github.io)
-2. ❌ Closed PR [#6](https://github.com/Lissy93/framework-benchmarks/pull/6) in [Lissy93/framework-benchmarks](https://github.com/Lissy93/framework-benchmarks)
-3. ❌ Closed PR [#7](https://github.com/Lissy93/framework-benchmarks/pull/7) in [Lissy93/framework-benchmarks](https://github.com/Lissy93/framework-benchmarks)
-4. 💪 Opened PR [#1](https://github.com/Lissy93/stack-match/pull/1) in [Lissy93/stack-match](https://github.com/Lissy93/stack-match)
-5. 💪 Opened PR [#2](https://github.com/joe-sykes/crossword-companion/pull/2) in [joe-sykes/crossword-companion](https://github.com/joe-sykes/crossword-companion)
-6. 🗣 Commented on [#26](https://github.com/Lissy93/networking-toolbox/issues/26) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
-7. ❌ Closed PR [#1933](https://github.com/Lissy93/dashy/pull/1933) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. ❌ Closed PR [#88](https://github.com/Lissy93/portainer-templates/pull/88) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
-9. 🗣 Commented on [#88](https://github.com/Lissy93/portainer-templates/issues/88) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
-10. 💪 Opened PR [#25](https://github.com/Lissy93/networking-toolbox/pull/25) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+1. 🗣 Commented on [#958](https://github.com/Stuk/jszip/issues/958) in [Stuk/jszip](https://github.com/Stuk/jszip)
+2. ❌ Closed PR [#1](https://github.com/Lissy93/lissy93.github.io/pull/1) in [Lissy93/lissy93.github.io](https://github.com/Lissy93/lissy93.github.io)
+3. ❌ Closed PR [#6](https://github.com/Lissy93/framework-benchmarks/pull/6) in [Lissy93/framework-benchmarks](https://github.com/Lissy93/framework-benchmarks)
+4. ❌ Closed PR [#7](https://github.com/Lissy93/framework-benchmarks/pull/7) in [Lissy93/framework-benchmarks](https://github.com/Lissy93/framework-benchmarks)
+5. 💪 Opened PR [#1](https://github.com/Lissy93/stack-match/pull/1) in [Lissy93/stack-match](https://github.com/Lissy93/stack-match)
+6. 💪 Opened PR [#2](https://github.com/joe-sykes/crossword-companion/pull/2) in [joe-sykes/crossword-companion](https://github.com/joe-sykes/crossword-companion)
+7. 🗣 Commented on [#26](https://github.com/Lissy93/networking-toolbox/issues/26) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+8. ❌ Closed PR [#1933](https://github.com/Lissy93/dashy/pull/1933) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+9. ❌ Closed PR [#88](https://github.com/Lissy93/portainer-templates/pull/88) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
+10. 🗣 Commented on [#88](https://github.com/Lissy93/portainer-templates/issues/88) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
