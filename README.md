@@ -131,15 +131,15 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#41](https://github.com/Lissy93/domain-locker/issues/41) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-2. 💪 Opened PR [#42](https://github.com/Lissy93/domain-locker/pull/42) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
+2. 🗣 Commented on [#41](https://github.com/Lissy93/domain-locker/issues/41) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
 3. 🗣 Commented on [#41](https://github.com/Lissy93/domain-locker/issues/41) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-4. 🗣 Commented on [#958](https://github.com/Stuk/jszip/issues/958) in [Stuk/jszip](https://github.com/Stuk/jszip)
-5. ❌ Closed PR [#1](https://github.com/Lissy93/lissy93.github.io/pull/1) in [Lissy93/lissy93.github.io](https://github.com/Lissy93/lissy93.github.io)
-6. ❌ Closed PR [#6](https://github.com/Lissy93/framework-benchmarks/pull/6) in [Lissy93/framework-benchmarks](https://github.com/Lissy93/framework-benchmarks)
-7. ❌ Closed PR [#7](https://github.com/Lissy93/framework-benchmarks/pull/7) in [Lissy93/framework-benchmarks](https://github.com/Lissy93/framework-benchmarks)
-8. 💪 Opened PR [#1](https://github.com/Lissy93/stack-match/pull/1) in [Lissy93/stack-match](https://github.com/Lissy93/stack-match)
-9. 💪 Opened PR [#2](https://github.com/joe-sykes/crossword-companion/pull/2) in [joe-sykes/crossword-companion](https://github.com/joe-sykes/crossword-companion)
-10. 🗣 Commented on [#26](https://github.com/Lissy93/networking-toolbox/issues/26) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+4. 🗣 Commented on [#41](https://github.com/Lissy93/domain-locker/issues/41) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
+5. 💪 Opened PR [#42](https://github.com/Lissy93/domain-locker/pull/42) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
+6. 🗣 Commented on [#41](https://github.com/Lissy93/domain-locker/issues/41) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
+7. 🗣 Commented on [#958](https://github.com/Stuk/jszip/issues/958) in [Stuk/jszip](https://github.com/Stuk/jszip)
+8. ❌ Closed PR [#1](https://github.com/Lissy93/lissy93.github.io/pull/1) in [Lissy93/lissy93.github.io](https://github.com/Lissy93/lissy93.github.io)
+9. ❌ Closed PR [#6](https://github.com/Lissy93/framework-benchmarks/pull/6) in [Lissy93/framework-benchmarks](https://github.com/Lissy93/framework-benchmarks)
+10. ❌ Closed PR [#7](https://github.com/Lissy93/framework-benchmarks/pull/7) in [Lissy93/framework-benchmarks](https://github.com/Lissy93/framework-benchmarks)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
