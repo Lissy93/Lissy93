@@ -130,16 +130,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41](https://github.com/Lissy93/domain-locker/issues/41) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-2. 🗣 Commented on [#41](https://github.com/Lissy93/domain-locker/issues/41) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-3. 🗣 Commented on [#41](https://github.com/Lissy93/domain-locker/issues/41) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-4. 🗣 Commented on [#41](https://github.com/Lissy93/domain-locker/issues/41) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-5. 💪 Opened PR [#42](https://github.com/Lissy93/domain-locker/pull/42) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-6. 🗣 Commented on [#41](https://github.com/Lissy93/domain-locker/issues/41) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-7. 🗣 Commented on [#958](https://github.com/Stuk/jszip/issues/958) in [Stuk/jszip](https://github.com/Stuk/jszip)
-8. ❌ Closed PR [#1](https://github.com/Lissy93/lissy93.github.io/pull/1) in [Lissy93/lissy93.github.io](https://github.com/Lissy93/lissy93.github.io)
-9. ❌ Closed PR [#6](https://github.com/Lissy93/framework-benchmarks/pull/6) in [Lissy93/framework-benchmarks](https://github.com/Lissy93/framework-benchmarks)
-10. ❌ Closed PR [#7](https://github.com/Lissy93/framework-benchmarks/pull/7) in [Lissy93/framework-benchmarks](https://github.com/Lissy93/framework-benchmarks)
+1. 🔒 Closed issue [#24](https://github.com/Lissy93/networking-toolbox/issues/24) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+2. 🗣 Commented on [#24](https://github.com/Lissy93/networking-toolbox/issues/24) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+3. 🔒 Closed issue [#29](https://github.com/Lissy93/networking-toolbox/issues/29) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+4. 💪 Opened PR [#33](https://github.com/Lissy93/networking-toolbox/pull/33) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+5. 🔒 Closed issue [#28](https://github.com/Lissy93/networking-toolbox/issues/28) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+6. 🗣 Commented on [#28](https://github.com/Lissy93/networking-toolbox/issues/28) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+7. 🗣 Commented on [#30](https://github.com/Lissy93/networking-toolbox/issues/30) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+8. 🔒 Closed issue [#30](https://github.com/Lissy93/networking-toolbox/issues/30) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+9. 💪 Opened PR [#32](https://github.com/Lissy93/networking-toolbox/pull/32) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+10. 💪 Opened PR [#31](https://github.com/Lissy93/networking-toolbox/pull/31) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
