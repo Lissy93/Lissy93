@@ -134,12 +134,12 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 2. 🗣 Commented on [#24](https://github.com/idealclover/GitHub-Star-Counter/issues/24) in [idealclover/GitHub-Star-Counter](https://github.com/idealclover/GitHub-Star-Counter)
 3. 🗣 Commented on [#47](https://github.com/Lissy93/domain-locker/issues/47) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
 4. 🔒 Closed issue [#39](https://github.com/Lissy93/domain-locker/issues/39) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-5. 💪 Opened PR [#53](https://github.com/Lissy93/domain-locker/pull/53) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-6. 🔒 Closed issue [#36](https://github.com/Lissy93/domain-locker/issues/36) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-7. 🗣 Commented on [#36](https://github.com/Lissy93/domain-locker/issues/36) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-8. 🔒 Closed issue [#50](https://github.com/Lissy93/domain-locker/issues/50) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-9. 🔒 Closed issue [#45](https://github.com/Lissy93/domain-locker/issues/45) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
-10. 💪 Opened PR [#52](https://github.com/Lissy93/domain-locker/pull/52) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
+5. ❌ Merged PR [#53](https://github.com/Lissy93/domain-locker/pull/53) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
+6. 💪 Opened PR [#53](https://github.com/Lissy93/domain-locker/pull/53) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
+7. 🔒 Closed issue [#36](https://github.com/Lissy93/domain-locker/issues/36) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
+8. 🗣 Commented on [#36](https://github.com/Lissy93/domain-locker/issues/36) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
+9. 🔒 Closed issue [#50](https://github.com/Lissy93/domain-locker/issues/50) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
+10. 🔒 Closed issue [#45](https://github.com/Lissy93/domain-locker/issues/45) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
