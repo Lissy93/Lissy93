@@ -130,8 +130,8 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/prisma/nuxt-prisma/issues/34) in [prisma/nuxt-prisma](https://github.com/prisma/nuxt-prisma)
-2. 🗣 Commented on [#24](https://github.com/idealclover/GitHub-Star-Counter/issues/24) in [idealclover/GitHub-Star-Counter](https://github.com/idealclover/GitHub-Star-Counter)
+1. 🗣 Commented on [#1966](https://github.com/Lissy93/dashy/issues/1966) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 🗣 Commented on [#34](https://github.com/prisma/nuxt-prisma/issues/34) in [prisma/nuxt-prisma](https://github.com/prisma/nuxt-prisma)
 3. 🗣 Commented on [#24](https://github.com/idealclover/GitHub-Star-Counter/issues/24) in [idealclover/GitHub-Star-Counter](https://github.com/idealclover/GitHub-Star-Counter)
 4. 🗣 Commented on [#47](https://github.com/Lissy93/domain-locker/issues/47) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
 5. 🔒 Closed issue [#39](https://github.com/Lissy93/domain-locker/issues/39) in [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
