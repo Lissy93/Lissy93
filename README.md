@@ -15,6 +15,7 @@
   <a href="https://www.linkedin.com/in/aliciasykes" title="LinkedIn - Alicia Sykes"><img src="https://img.shields.io/badge/-Alicia_Sykes-0072b1?style=flat&logo=inspire&logoColor=white" /></a>
   <a href="https://www.reddit.com/user/lissy93" title="Reddit - u/lissy93"><img src="https://img.shields.io/badge/-Lissy93-ff4500?style=flat&logo=reddit&logoColor=white" /></a>
   <a href="https://aliciasykes.com" title="Personal Website - aliciasykes.com"><img src="https://img.shields.io/badge/-aliciasykes.com-00CCB4?style=flat&logo=ApacheSpark&logoColor=white" /></a>
+  <a href="https://github.com/Lissy93.gpg" title="GPG Key"><img src="https://gpg-badge.hesreallyhim.com/Lissy93.svg?style=flat" alt="GPG Key" /></a>
   </kbd>
 </p>
 
